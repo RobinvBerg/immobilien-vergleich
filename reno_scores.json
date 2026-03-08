@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Casa o chalet – Bunyola/Establiments (Idealista 106332052)",
+    "old_reno": 4,
+    "new_reno": 70,
+    "baujahr_est": "~1960s",
+    "last_reno_est": "~2022",
+    "sources": "from listing: 'wunderschön renoviertes Landhaus', Gaggenau/Bora kitchen, modern finishes, 'Aus Vorbesitz/gepflegt'. No Baujahr on Idealista.",
+    "reasoning": "Traditional country house, fully renovated with high-end kitchen (Gaggenau/Bora), modern open-plan layout. No build year listed suggests older structure. Excel comment notes 'Haupthaus (2 Stockwerke + Turm), große Terrassen'. Well-renovated but original structure is old. Old=4 → 70."
+  },
+  {
+    "name": "Engel & Völkers – Finca Binissalem (W-0307JX)",
+    "old_reno": 4,
+    "new_reno": 72,
+    "baujahr_est": "2002",
+    "last_reno_est": "~2022",
+    "sources": "from listing: Baujahr 2002, Zustand 'Sehr gut', 'umfassend modernisiert', Energieeffizienzklasse C, Photovoltaik, Starlink, moderne Dämmung, Klimaanlage.",
+    "reasoning": "Built 2002, comprehensively modernized with PV, Starlink, modern insulation. Condition rated 'Sehr gut'. Only 23 years old with full modernization. Excel: 'Sehr schön, evtl. Ausbaumöglichkeit'. Old=4 → 72."
+  },
+  {
+    "name": "Idealista – Establiments Finca (106744049)",
+    "old_reno": 4,
+    "new_reno": 62,
+    "baujahr_est": "1980",
+    "last_reno_est": "~2015",
+    "sources": "from listing: Baujahr 1980, 'Aus Vorbesitz/gepflegt', Fußbodenheizung, Designer-Küche, mallorquinischer Landhausstil.",
+    "reasoning": "Built 1980 (45 years old), maintained in Mallorcan country house style with modern amenities (underfloor heating, designer kitchen). Excel: 'Gute Raumanzahl + Gästehaus, innen nicht ganz überzeugend'. Interior not fully convincing suggests renovation is partial. Old=4 → 62."
+  },
+  {
+    "name": "Idealista – moderne Villa, kleineres Grundstück (109708161)",
+    "old_reno": 3,
+    "new_reno": 78,
+    "baujahr_est": "~1990s",
+    "last_reno_est": "~2024",
+    "sources": "from listing: 'komplett kernsaniert' (completely core-renovated), 'Aus Vorbesitz/gepflegt', no Baujahr listed. Modern finishes throughout.",
+    "reasoning": "Description explicitly says 'komplett kernsaniert' – complete core renovation. Modern open kitchen, fireplace, 2 floors with 670m². Excel old=3 probably reflected pre-renovation state or plot size concern ('Grundstück evtl. zu klein'). Actual condition is excellent post-renovation. → 78."
+  },
+  {
+    "name": "Santa Maria – Neubau teils unfertig (106300856)",
+    "old_reno": 3,
+    "new_reno": 48,
+    "baujahr_est": "2024",
+    "last_reno_est": "n/a (new build)",
+    "sources": "from listing: Baujahr 2024, 'In Bearbeitung' (under construction), 'Aus Vorbesitz/gepflegt'. Neubau-Finca.",
+    "reasoning": "New build 2024 but still under construction ('In Bearbeitung'). Excel: 'Gute Lage, einiges noch nicht fertig'. While the finished product will be new, incomplete status means uncertain timeline and finishing quality. Old=3 → 48."
+  },
+  {
+    "name": "Idealista – gute Substanz, Renovierung (81539590)",
+    "old_reno": 4,
+    "new_reno": 50,
+    "baujahr_est": "~1990s",
+    "last_reno_est": "~2010",
+    "sources": "from listing: no Baujahr, 'Aus Vorbesitz/gepflegt', 'In Bearbeitung', 356m², 6 SZ, 5 Bäder, no heating, fireplace. Haupthaus + Poolhaus + Gästehaus.",
+    "reasoning": "No build year, 'In Bearbeitung' status, no heating system. Excel: 'Interessante Substanz, viel Interior-Arbeit, evtl. günstiger'. Needs significant interior renovation work. Good bones but unfinished. Old=4 seems generous; actual condition warrants 50."
+  },
+  {
+    "name": "Idealista – Nähe Es Trenc (109467637)",
+    "old_reno": 3,
+    "new_reno": 68,
+    "baujahr_est": "2024",
+    "last_reno_est": "n/a (new build)",
+    "sources": "from listing: Baujahr 2024, 'Aus Vorbesitz/gepflegt', 533m², 5 SZ, 5 Bäder, modern design, Mediterranean exterior, near Es Trenc.",
+    "reasoning": "New build 2024 with modern design and natural elements. 30,000m² plot near Es Trenc beach. No 'In Bearbeitung' flag suggests more complete than Santa Maria property. Excel old=3 seems low for a 2024 new build; possibly reflected other concerns. → 68."
+  },
+  {
+    "name": "Idealista – Kreativprojekt Sa Ràpita (106134268)",
+    "old_reno": 3,
+    "new_reno": 30,
+    "baujahr_est": "1800",
+    "last_reno_est": "unknown",
+    "sources": "from listing: Baujahr 1800, 'Aus Vorbesitz/gepflegt', 'In Bearbeitung', 680m², 51,000m² plot, traditional Mallorcan style, gas heating.",
+    "reasoning": "Built around 1800 – over 200 years old. 'In Bearbeitung' and Excel says 'Hier könnte sich Mathieu verwirklichen' (creative project). Traditional Mallorcan farmhouse needing significant work. Described as 'gut erhalten' (well-maintained) but very old. Old=3 → 30."
+  },
+  {
+    "name": "EV – Estate mit Weinberg & Olivenhain (W-02Q8YG)",
+    "old_reno": 5,
+    "new_reno": 85,
+    "baujahr_est": "1890",
+    "last_reno_est": "~2020",
+    "sources": "from listing JSON: constructionYear 1890, type finca, 682m² living area, 132,486m² plot, furnished, pool, parking, kitchen, garden, terrace.",
+    "reasoning": "Built 1890 but rated neuwertig (5) in Excel. Must have undergone comprehensive luxury renovation. 132,000m²+ estate with vineyard and olive grove. The 'incredible charm' title plus neuwertig rating suggests top-quality restoration. Historic character + modern luxury. → 85."
+  },
+  {
+    "name": "EV – Unique Designer House Ses Salines (W-0475DS)",
+    "old_reno": 5,
+    "new_reno": 98,
+    "baujahr_est": "2025",
+    "last_reno_est": "n/a (new build)",
+    "sources": "from listing: constructionYear 2025, 399m², 5 SZ, 5 Bäder, 23,754m² plot, finca type, €5.45M. Excel: 'Einzelgebäude (einstöckig), Neubau 2025'.",
+    "reasoning": "Brand new construction 2025. Designer house, single-story, quiet location. As new as it gets. Old=5 → 98."
+  },
+  {
+    "name": "EV – Contemporary Design Landscape Selva (W-02NQDS)",
+    "old_reno": 5,
+    "new_reno": 92,
+    "baujahr_est": "2018",
+    "last_reno_est": "n/a",
+    "sources": "from listing JSON: constructionYear 2018, 832m² living area, 19,811m² plot, wheelchair accessible, senior-oriented, pool, garden, terrace.",
+    "reasoning": "Built 2018, only 8 years old. Contemporary design, large 832m² living area. Wheelchair accessible and senior-oriented suggests high-spec modern build. Excel: 'Haupthaus + separater Gästebereich'. Old=5 → 92."
+  },
+  {
+    "name": "EV – Finca mit Vermietlizenz nahe Es Trenc (W-02ZICD)",
+    "old_reno": 4,
+    "new_reno": 65,
+    "baujahr_est": "1997",
+    "last_reno_est": "2014",
+    "sources": "from listing: constructionYear 1997, last restoration 2014, 436m², 6 SZ, 6 Bäder, underfloor heating, A/C, PV, tiles, L-shape around pool, tennis court, boules, volleyball.",
+    "reasoning": "Built 1997, last restored 2014 (12 years ago). Well-equipped with PV, underfloor heating, A/C. Sports facilities. But restoration is over a decade old now. Excel: 'Haupthaus + separater Gebäudeteil (L-Form), Sportanlagen'. Old=4 → 65."
+  },
+  {
+    "name": "Villa Bunyola mit Lizenz (Idealista 110322709)",
+    "old_reno": 4,
+    "new_reno": 70,
+    "baujahr_est": "2008",
+    "last_reno_est": "unknown",
+    "sources": "from listing: Baujahr 2008, 355m², 6 habitaciones, 5 baños, 14,785m² plot, 'Segunda mano/buen estado', A/C, pool, garden, electric heating.",
+    "reasoning": "Built 2008 (18 years old), good condition ('buen estado'). Single-story, 6 rooms, 5 baths. Excel: 'Haupthaus + Gästehaus (70m²) + Turm (30m²)'. Solid build age with good condition rating. Old=4 → 70."
+  }
+]

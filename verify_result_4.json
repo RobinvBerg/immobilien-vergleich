@@ -1,0 +1,273 @@
+[
+  {
+    "nr": 5,
+    "name": "Santa Maria — Potenzial pur; Rohling in Traumlage",
+    "status": "NO_IMG (403)",
+    "img_match": null
+  },
+  {
+    "nr": 13,
+    "name": "Bunyola — Berglage mit Lizenz; Tramuntana vor der Tür",
+    "status": "NO_IMG (403)",
+    "img_match": null
+  },
+  {
+    "nr": 21,
+    "name": "Beeindruckende Finca zwischen Campos und Felanitx",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 29,
+    "name": "Exklusives Anwesen mit eigener Kapelle, zwei Gästehäusern un",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 37,
+    "name": "Enormous Mallorca country property with investment potential",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAAP13054_172455_V2_B8A5.jpg"
+  },
+  {
+    "nr": 45,
+    "name": "Einzigartige Familienresidenz mit Charme und Charakter bei L",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P22298581/Tphoto/IDd53f5401-0000-0500-0000-0000173e9a25.JPG.webp"
+  },
+  {
+    "nr": 53,
+    "name": "AUTHENTIC MALLORCA FINCA WITH VINEYARD BODEGA AND OLIVE GROV",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 61,
+    "name": "Emblematisches Herrenhaus aus dem 18. Jahrhundert mit Pool u",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 69,
+    "name": "Traditional Mediterranean farmhouse retreat for sale in Sant",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP4472_156410_V0_4A32.jpg"
+  },
+  {
+    "nr": 77,
+    "name": "Mallorquinische Finca mit Charakter, Privatsphäre und einzig",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/dcb3b08f-ea12-4ac4-aa53-ba9ea228785a/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 85,
+    "name": "Country estate with vineyard for sale between Felanitx and P",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3265_111707_V0_EDCF.jpg"
+  },
+  {
+    "nr": 93,
+    "name": "Finca in Andratx - Autarkes Wohnen in Naturparadies",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P25579687/Tphoto/IDa7508601-0000-0500-0000-0000143700f6.jpg.webp"
+  },
+  {
+    "nr": 101,
+    "name": "UNIQUE MODERN FINCA IN ES CARRITXÓ WITH ABSOLUTE PRIVACY",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 109,
+    "name": "Großzügiges Herrenhaus zur renovierung mit Panoramablick nah",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P25417163/Tphoto/IDcbd58301-0000-0500-0000-0000141782b9.jpg.webp"
+  },
+  {
+    "nr": 117,
+    "name": "Finca mit anspruchsvollem Design, Bergblick und Panorama auf",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/8c04f20b-3cfb-4241-b4cb-57d0898bb58d/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 125,
+    "name": "Elegante Naturstein-Finca in erhöhter Lage und bester Lage -",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 133,
+    "name": "Elegantly designed finca with guest house for sale near the ",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3766_140163_V0_7730.jpg"
+  },
+  {
+    "nr": 141,
+    "name": "Repräsentatives Landhaus zwischen Santa Maria del Cami und B",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P23882488/Tphoto/IDf86a6c01-0000-0500-0000-000012850050.jpg.webp"
+  },
+  {
+    "nr": 149,
+    "name": "Makelloses, brandneues Finca-Anwesen in Alaró mit Traumblick",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P28600733/Tphoto/ID9d69b401-0000-0500-0000-00001785d6bc.jpg.webp"
+  },
+  {
+    "nr": 157,
+    "name": "Spektakulärer Landsitz mit unvergleichlich schönem Blick auf",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P21895232/Tphoto/ID40184e01-0000-0500-0000-0000187d6731.jpg.webp"
+  },
+  {
+    "nr": 165,
+    "name": "Designer House Ses Salines",
+    "status": "NO_IMG (Page.goto: Protocol error (Page.navigate)",
+    "img_match": null
+  },
+  {
+    "nr": 173,
+    "name": "Einzigartiges Projekt in Bestlage zwischen Santa Maria del C",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P23708978/Tphoto/ID32c56901-0000-0500-0000-0000185ec509.jpg.webp"
+  },
+  {
+    "nr": 181,
+    "name": "Newly built country estate for sale in Sencelles, Central Ma",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3721_142439_V0_763F.jpg"
+  },
+  {
+    "nr": 189,
+    "name": "Weitblick und Ruhe: Mediterrane Finca-Oase - wo großzügige E",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/0c92ce2c-d45b-4cfb-9a96-91592f96d355/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 197,
+    "name": "Elegantes renoviertes mallorquinisches Herrenhaus mit Panora",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 205,
+    "name": "Ebenerdige Neubaufinca vor den Toren Santanyis (W-02J4NY)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/dbee968e-044a-4d41-b6f2-d2646c2a991e/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 213,
+    "name": "Luxurious country house for sale close to S´Arracó, Puerto A",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP33_3657_V0_D927.jpg"
+  },
+  {
+    "nr": 221,
+    "name": "Einmaliges Finca-Anwesen mit Gästeapartment und spektakuläre",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 229,
+    "name": "Modern Luxury Finca for Sale in Santa Maria",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 237,
+    "name": "Landhaus mit fantastischer Aussicht und nachhaltigem Design ",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 245,
+    "name": "Unique finca for sale with vineyard in Montuiri, Mallorca",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3264_154293_V0_B441.jpg"
+  },
+  {
+    "nr": 253,
+    "name": "Authentische Natursteinfinca in der Nähe von Palma (W-02Z04A",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/e6d5e19b-e7d9-4633-93b0-2569e2a124bc/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 261,
+    "name": "Einzigartiges Landhaus in Alaró - Modernes Design, das die E",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/3a99583d-cf59-434b-9639-db8b3284bedf/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 269,
+    "name": "Landhaus in Santa Maria mit spektakulärem Blick auf das Tram",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P24525471/Tphoto/ID9f3a7601-0000-0500-0000-000012658808.jpg.webp"
+  },
+  {
+    "nr": 277,
+    "name": "Eleganz und Natur pur - Modernes mallorquinisches Landhaus m",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 285,
+    "name": "Beeindruckendes Anwesen mit exzellenter Ausstattung und 360°",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P24106954/Tphoto/IDcad76f01-0000-0500-0000-0000167220c9.jpg.webp"
+  },
+  {
+    "nr": 293,
+    "name": "Finca in Campos, Mallorca",
+    "status": "NO_IMG (403)",
+    "img_match": null
+  },
+  {
+    "nr": 301,
+    "name": "Schönes Landhaus mit Pool, drei Gästehäusern sowie Tennis- u",
+    "status": "NO_URL",
+    "img_match": null
+  },
+  {
+    "nr": 309,
+    "name": "Vollständig renovierte Finca mit Pool, Meerblick und Ferienv",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 317,
+    "name": "Private Finca in Lauflage zum Hafen (W-02NKXZ)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/50504384-edd0-46f2-90e6-4ee6ef61363b/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 325,
+    "name": "Luxuriöse Villa in Genova mit spektakulärem Blick auf die Bu",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  }
+]

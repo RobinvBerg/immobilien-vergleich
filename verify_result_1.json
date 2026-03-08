@@ -1,0 +1,285 @@
+[
+  {
+    "nr": 2,
+    "name": "Binissalem — Platz für alle; 8 Zimmer, endlose Gärten",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/5867ebd2-27da-4e4d-81ea-144acc7d6a4c/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 10,
+    "name": "Ses Salines — Neubau Deluxe; einziehen und leben",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://cdn.ev-mallorca.com/images/properties/768ca0a4-b93d-4881-9e59-2cf87a118a52/835237f3-816a-4e4a-81d7-23c116ee1fc9.jpg?format=webp"
+  },
+  {
+    "nr": 18,
+    "name": "Authentisches mallorquinisches Anwesen in Llucmajor (W-02WWF",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/84aa7f19-462b-4111-b858-15a06ed40e27/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 26,
+    "name": "HISTORIC FINCA WITH MODERN WINERY ON MALLORCA",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.luxury-estates-mallorca.com/estate-assets/LF1/36516/image-thumb__36516__full_width_slide_image_estate_slider_thumbnail/weingut-mallorca-finca-4.webp"
+  },
+  {
+    "nr": 34,
+    "name": "Authentisches Finca-Anwesen aus dem 17. Jahrhundert - Mit We",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 42,
+    "name": "Sagenhafter Landsitz aus dem 16. Jahrhundert mit Hotel-Lizen",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P29104315/Tphoto/IDbb18bc01-0000-0500-0000-000018258b8a.JPG.webp"
+  },
+  {
+    "nr": 50,
+    "name": "Fabulous country home for sale in a picturesque valley near ",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP2359_96413_V0_316E.jpg"
+  },
+  {
+    "nr": 58,
+    "name": "Ein neues exklusives Wohnerlebnis (W-02XAUI)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/c38ea592-22b6-43b2-b2b6-5b3c962de5c0/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 66,
+    "name": "HISTORIC COUNTRY ESTATE VINEYARD IN THE NORTHEAST OF MALLORC",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.luxury-estates-mallorca.com/estate-assets/LMP26/36493/image-thumb__36493__full_width_slide_image_estate_slider_thumbnail/weingut-mallorca-nordosten-102.webp"
+  },
+  {
+    "nr": 74,
+    "name": "Elegantes Anwesen in idyllischer Lage bei Buger",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 82,
+    "name": "Historic country estate with incredible sea views for sale i",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP2764_93226_V0_6003.jpg"
+  },
+  {
+    "nr": 90,
+    "name": "Charming and spacious finca with privacy for sale in Santany",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP4344_151899_V0_7EEC.jpg"
+  },
+  {
+    "nr": 98,
+    "name": "Luxusanwesen mit absoluter Privatsphäre (W-01Z75V)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://storage.googleapis.com/profile-engine-public-prod/agent_profile_images/b2a1a119-f7f6-43ea-9284-7b9e4141bf09_E&V%202024-150.jpg"
+  },
+  {
+    "nr": 106,
+    "name": "Mallorquinische Finca aus dem XIX Jahrhundert (W-02OUPM)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/b6128448-153c-439d-9c17-8b337c0e0177/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 114,
+    "name": "Wunderschönes neu gebautes Landhaus mit Pool in Sencelles - ",
+    "status": "NO_URL",
+    "img_match": null
+  },
+  {
+    "nr": 122,
+    "name": "Moderne Neubau-Finca mit traumhaftem Blick auf die Tramuntan",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/fb78537b-0468-443c-a594-b0320f2436a9/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 130,
+    "name": "Magnificent finca on extensive private plot for sale in Calv",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP900_29560_V0_5662.jpg"
+  },
+  {
+    "nr": 138,
+    "name": "Country oasis with holiday rental license and tennis court f",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP1462_48411_V0_77F3.jpg"
+  },
+  {
+    "nr": 146,
+    "name": "NATURAL STONE FINCA IN MALLORCA WITH DISTANT VIEWS, ABSOLUTE",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 154,
+    "name": "Großzügige Neubaufinca vor den Toren Porto Coloms (W-02Y4IG)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/1f41d3e7-8561-4f66-a9a5-9f5872d4434b/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 162,
+    "name": "Zauberhaftes Landhaus mit Ferienvermietungserlaubnis in ruhi",
+    "status": "NO_URL",
+    "img_match": null
+  },
+  {
+    "nr": 170,
+    "name": "Authentische Neubaufinca in Meeresnähe und außergewöhnlicher",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/b4f45ac0-a118-403f-a073-36fd1b66f051/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 178,
+    "name": "Villa in Marratxinet (Marratxi), Mallorca",
+    "status": "NO_IMG (403)",
+    "img_match": null
+  },
+  {
+    "nr": 186,
+    "name": "Wunderschönes modernes Landhaus in Santa María (W-02SQ6A)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/037d6c7a-e316-4f11-8c75-92005a866772/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 194,
+    "name": "Stylische Finca zum Erstbezug in Lauflage zum Ort und Bergbl",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 202,
+    "name": "Atemberaubendes, komplett renoviertes Herrenhaus in Alaro",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 210,
+    "name": "Newly Built Finca for Sale in Santanyi",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://sandberg-estates.com/assets/img/secret-listing.png"
+  },
+  {
+    "nr": 218,
+    "name": "Schöne Neubaufinca mit mediterranem Charme (W-02J2M1)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/8de56114-b3a2-4247-aeff-4b953fbeceb3/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 226,
+    "name": "Einzigartige Immobilie mit herrlichem Ausblick (W-02S2YL)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/b1d27705-74de-4300-aef7-70b69d42d5e9/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 234,
+    "name": "Country estate with guest cottage for sale in Santa Maria de",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAAP12013_20824_V0_FD1E.jpg"
+  },
+  {
+    "nr": 242,
+    "name": "Charmante Finca im Cortijo-Stil in Es Capdellà (W-046941)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/c9266a65-ea83-48e6-86c6-b82c3a023e40/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 250,
+    "name": "Majestic country home with sea views for sale in Ses Salines",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP1274_42437_V0_B24E.jpg"
+  },
+  {
+    "nr": 258,
+    "name": "Eine Oase der Ruhe in der Nähe von Palma (W-02W3B0)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/138bcf84-9bf6-4df1-9cb8-af9da9f84194/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 266,
+    "name": "Top Renovated Finca with 2 Guest Houses for Sale in Binissal",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 274,
+    "name": "Landhaus in bester Lage in Cala Llombards - Fertigstellung F",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P25458771/Tphoto/ID53788401-0000-0500-0000-000014d8f462.jpg.webp"
+  },
+  {
+    "nr": 282,
+    "name": "Brand new finca with sea views in Cala Llombards, Santanyi, ",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3803_132885_V0_33DA.jpg"
+  },
+  {
+    "nr": 290,
+    "name": "Authentischer Luxus zwischen Reben und Bergen (W-030EDI)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/3d1f40c6-cd9d-4f4d-9c4a-c5a3b38776ac/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 298,
+    "name": "Brandneues modernes Landhaus zum Erstbezug mit Swimmingpool ",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 306,
+    "name": "Großes Anwesen mit zwei Wohnhäusern, Ferienvermietungs-Erlau",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 314,
+    "name": "EV Exposé Binissalem",
+    "status": "NO_IMG (Page.goto: Protocol error (Page.navigate)",
+    "img_match": null
+  },
+  {
+    "nr": 322,
+    "name": "State-of-the-art villa for sale in picturesque Puntiró, Mall",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3314_117195_V0_9B4F.jpg"
+  },
+  {
+    "nr": 330,
+    "name": "Impressive 19th century mansion with courtyard, for sale in ",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP1439_47424_V0_0A9F.jpg"
+  }
+]

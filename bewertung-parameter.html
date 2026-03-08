@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Mallorca Bewertungsparameter</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif; background: #fff; color: #1a1a2e; padding: 20px 28px; font-size: 11.5px; }
+  @media print { @page { size: A4; margin: 8mm; } body { padding: 0; } }
+  h1 { font-size: 16px; font-weight: 800; margin-bottom: 2px; }
+  .sub { font-size: 10px; color: #888; margin-bottom: 12px; }
+  h2 { font-size: 11.5px; font-weight: 700; color: #1a1a2e; margin: 10px 0 6px; border-bottom: 2px solid #f0a500; padding-bottom: 3px; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .col {}
+  table { width: 100%; border-collapse: collapse; margin-bottom: 10px; }
+  th { background: #1a1a2e; color: #fff; text-align: left; padding: 4px 8px; font-size: 9.5px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+  td { padding: 4px 8px; border-bottom: 1px solid #eee; font-size: 11px; }
+  tr:nth-child(even) td { background: #f9f9fb; }
+  .w-bar { display: inline-block; height: 8px; background: #f0a500; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+  .w-val { font-weight: 700; }
+  .pill { display: inline-block; padding: 1px 6px; border-radius: 8px; font-size: 10px; font-weight: 600; }
+  .pill-green { background: #e8f5e9; color: #2e7d32; }
+  .pill-orange { background: #fff3e0; color: #e65100; }
+  .pill-red { background: #ffebee; color: #c62828; }
+  .pill-off { background: #f5f5f5; color: #999; }
+  .total-row td { font-weight: 700; background: #fff8e1 !important; border-top: 2px solid #f0a500; }
+  .boxes { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 8px; margin-top: 10px; }
+  .box { border: 1px solid #e0e0e0; border-radius: 6px; padding: 7px 10px; }
+  .box-title { font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.04em; color: #888; margin-bottom: 5px; font-weight: 600; }
+  .box-row { display: flex; justify-content: space-between; padding: 2px 0; font-size: 11px; border-bottom: 1px solid #f5f5f5; }
+  .box-row:last-child { border-bottom: none; }
+  .box-val { font-weight: 700; }
+  .highlight { color: #f0a500; font-weight: 700; }
+  .footer { margin-top: 10px; padding-top: 6px; border-top: 1px solid #eee; font-size: 10px; color: #aaa; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+
+<h1>🏝️ Mallorca — Bewertungsparameter</h1>
+<div class="sub">Stand: 08. März 2026 · mallorca-kandidaten-v2.xlsx · 333 Objekte · Budget: 2.800.000 – 5.200.000 €</div>
+
+<div class="cols">
+  <div class="col">
+    <h2>⚖️ Gewichte (Gesamtscore)</h2>
+    <table>
+      <thead><tr><th>Kategorie</th><th>Gewicht</th><th style="width:80px">Bar</th></tr></thead>
+      <tbody>
+        <tr><td>Zimmer &amp; Platz</td><td class="w-val">20%</td><td><span class="w-bar" style="width:64px"></span></td></tr>
+        <tr><td>Preis-Leistung (€/m²)</td><td class="w-val">15%</td><td><span class="w-bar" style="width:48px"></span></td></tr>
+        <tr><td>Gästehaus (0–2)</td><td class="w-val">15%</td><td><span class="w-bar" style="width:48px"></span></td></tr>
+        <tr><td>Erreichbarkeit</td><td class="w-val">15%</td><td><span class="w-bar" style="width:48px"></span></td></tr>
+        <tr><td>Grundstück/Garten</td><td class="w-val">10%</td><td><span class="w-bar" style="width:32px"></span></td></tr>
+        <tr><td>Charme / Ästhetik</td><td class="w-val">10%</td><td><span class="w-bar" style="width:32px"></span></td></tr>
+        <tr><td>Vermietlizenz</td><td class="w-val">5%</td><td><span class="w-bar" style="width:16px"></span></td></tr>
+        <tr><td>Bewirtschaftung</td><td class="w-val">5%</td><td><span class="w-bar" style="width:16px"></span></td></tr>
+        <tr><td>Renovierung</td><td class="w-val">5%</td><td><span class="w-bar" style="width:16px"></span></td></tr>
+        <tr><td>Preis/Budget</td><td class="w-val"><span class="pill pill-off">0% off</span></td><td></td></tr>
+        <tr class="total-row"><td>Summe</td><td class="highlight">100%</td><td></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="col">
+    <h2>✈️ Erreichbarkeit — Thresholds</h2>
+    <table>
+      <thead><tr><th>Ziel</th><th>Ideal</th><th>OK</th><th>Dealbreaker</th><th>Gew.</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>✈️ Flughafen PMI</td>
+          <td><span class="pill pill-green">≤15 min</span></td>
+          <td><span class="pill pill-orange">≤25 min</span></td>
+          <td><span class="pill pill-red">&gt;40 min</span></td>
+          <td class="w-val">30%</td>
+        </tr>
+        <tr>
+          <td>🏨 Daia</td>
+          <td><span class="pill pill-green">≤20 min</span></td>
+          <td><span class="pill pill-orange">≤40 min</span></td>
+          <td><span class="pill pill-red">&gt;70 min</span></td>
+          <td class="w-val">30%</td>
+        </tr>
+        <tr>
+          <td>🌊 Ses Salines</td>
+          <td><span class="pill pill-green">≤15 min</span></td>
+          <td><span class="pill pill-orange">≤30 min</span></td>
+          <td><span class="pill pill-red">&gt;45 min</span></td>
+          <td class="w-val">30%</td>
+        </tr>
+        <tr>
+          <td>⛵ Andratx</td>
+          <td><span class="pill pill-green">≤25 min</span></td>
+          <td><span class="pill pill-orange">≤40 min</span></td>
+          <td><span class="pill pill-red">&gt;60 min</span></td>
+          <td class="w-val">10%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="boxes">
+  <div class="box">
+    <div class="box-title">🛏️ Zimmer</div>
+    <div class="box-row"><span>Minimum</span><span class="box-val">5</span></div>
+    <div class="box-row"><span>Ideal</span><span class="box-val highlight">8</span></div>
+  </div>
+  <div class="box">
+    <div class="box-title">💰 Budget</div>
+    <div class="box-row"><span>Min</span><span class="box-val">2.800.000 €</span></div>
+    <div class="box-row"><span>Max</span><span class="box-val highlight">5.200.000 €</span></div>
+  </div>
+  <div class="box">
+    <div class="box-title">🌿 Grundstück</div>
+    <div class="box-row"><span>Min</span><span class="box-val">3.000 m²</span></div>
+    <div class="box-row"><span>Ideal</span><span class="box-val highlight">15.000 m²</span></div>
+  </div>
+  <div class="box">
+    <div class="box-title">🌳 Garten</div>
+    <div class="box-row"><span>Min</span><span class="box-val">1.000 m²</span></div>
+    <div class="box-row"><span>Ideal</span><span class="box-val highlight">5.000 m²</span></div>
+  </div>
+</div>
+
+<div class="footer">
+  <span>🤖 KIRA · 08.03.2026</span>
+  <span>https://mallorca-ranking-kira.netlify.app</span>
+</div>
+
+</body>
+</html>

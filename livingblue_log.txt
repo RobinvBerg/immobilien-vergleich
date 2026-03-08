@@ -1,0 +1,35 @@
+=== LIVINGBLUE PLAYWRIGHT ===
+LivingBlue ohne echtes Bild: 113
+
+[1/113] Zeile 21
+  ❌ Analyse fehlgeschlagen
+
+[2/113] Zeile 22
+  ❌ Analyse fehlgeschlagen
+
+[3/113] Zeile 23
+  ❌ Analyse fehlgeschlagen
+
+[4/113] Zeile 26
+  → Charme=5 Reno=15
+
+[5/113] Zeile 29
+  ❌ Analyse fehlgeschlagen
+
+[6/113] Zeile 30
+  ❌ Analyse fehlgeschlagen
+
+[7/113] Zeile 32
+  ❌ Analyse fehlgeschlagen
+
+[8/113] Zeile 34
+  ❌ Analyse fehlgeschlagen
+
+[9/113] Zeile 35
+  ❌ Analyse fehlgeschlagen
+
+[10/113] Zeile 37
+  → Charme=4 Reno=15
+  💾 gespeichert (2 neu)
+
+[11/113] Zeile 39

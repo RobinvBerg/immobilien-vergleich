@@ -1,0 +1,275 @@
+[
+  {
+    "nr": 6,
+    "name": "Campos — Zum Selbermachen; ehrliche Finca, ehrlicher Preis",
+    "status": "NO_IMG (403)",
+    "img_match": null
+  },
+  {
+    "nr": 14,
+    "name": "Magnificent country estate with sea views for sale in Estell",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP2629_87795_V0_0EF9.jpg"
+  },
+  {
+    "nr": 22,
+    "name": "Mallorquinisches Landgut mit einer eigenen Kapelle und mehre",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 30,
+    "name": "Magnificent country estate for sale on a huge plot in Puigpu",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP1333_83218_V0_A8CA.jpg"
+  },
+  {
+    "nr": 38,
+    "name": "Historisches Landgut mit einer bebauten Fläche von 2000 m2 u",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P23973459/Tphoto/ID53ce6d01-0000-0500-0000-0000185ec2af.jpg.webp"
+  },
+  {
+    "nr": 46,
+    "name": "VERKAUFT Son Alba im Puerto de Soller durch Living Blue Mall",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P29215379/Tphoto/ID93cabd01-0000-0500-0000-0000184647fa.jpg.webp"
+  },
+  {
+    "nr": 54,
+    "name": "Historisches mallorquinisches Anwesen in bester Lage von Est",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P20195816/Tphoto/IDe8293401-0000-0500-0000-00000d424c61.jpg.webp"
+  },
+  {
+    "nr": 62,
+    "name": "Beeindruckendes Herrenhaus mit Pool und viel Land zwischen I",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 70,
+    "name": "Alte Natursteinfinca inmitten der Natur mit Blick auf das Tr",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 78,
+    "name": "Außergewöhnliches mallorquinisches Anwesen zur Renovierung m",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 86,
+    "name": "Exklusive Finca in Calvià mit Ferienvermietungs-Erlaubnis un",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 94,
+    "name": "TRADITIONAL FINCA IN ANDRATX WITH MOUNTAIN AND SEA VIEWS",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 102,
+    "name": "Modernes Landhaus: ein neuer Standard für luxuriöses Wohnen ",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/b3ca18f4-9cd1-4a27-82b7-019e7e95c8a3/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 110,
+    "name": "Exklusives, neues Landhaus nahe dem schönen Dorf Santanyí mi",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 118,
+    "name": "Eleganter Rückzugsort auf dem Land mit luxuriöser Ausstattun",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/d243a2b1-20b0-4e4e-9cb3-9e2b98aeeefa/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 126,
+    "name": "NEW LOW-ENERGY FINCA NEAR ES TRENC IN THE SOUTH OF MALLORCA",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 134,
+    "name": "CHARMING COUNTRY HOUSE IN PUERTO ANDRATX WITH SPECTACULAR VI",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 142,
+    "name": "Ihr Privates Paradies: Wo zeitlose Eleganz auf nachhaltigen ",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://storage.googleapis.com/profile-engine-public-prod/agent_profile_images/b2a1a119-f7f6-43ea-9284-7b9e4141bf09_E&V%202024-150.jpg"
+  },
+  {
+    "nr": 150,
+    "name": "Exklusive Neubaufinca mit Swimmingpool & Panoramablick und G",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P27464188/Tphoto/IDfc11a301-0000-0500-0000-000016858ec1.jpg.webp"
+  },
+  {
+    "nr": 158,
+    "name": "Einzigartiges Finca-Anwesen mit Agroturismo-Erlaubnis in Ala",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C8157/P20195038/Tphoto/IDde263401-0000-0500-0000-00000f5c3297.jpg.webp"
+  },
+  {
+    "nr": 166,
+    "name": "Elegante Finca im rustikalen Stil mit Panoramablick (W-02MRT",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/fd323b59-c787-402b-8e02-69e658c99ea3/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 174,
+    "name": "Ein zeitgenössisches Projekt für einen Rückzugsort nahe des ",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/18bc5956-e2c4-4809-893e-36c60a700662/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 182,
+    "name": "Country villa with holiday license for sale in Caimari, Cent",
+    "status": "DELISTED (404)",
+    "img_match": null
+  },
+  {
+    "nr": 190,
+    "name": "Two fincas with holiday rental licence in Biniaraix for sale",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/xlarge_AITAJP3342_117434_V0_77EF.jpg"
+  },
+  {
+    "nr": 198,
+    "name": "Spekatakuläres Finca Anwesen mit zwei Häusern und Ferienverm",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 206,
+    "name": "Finca under construction with panoramic mountain views for s",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3895_131582_V0_CE97.jpg"
+  },
+  {
+    "nr": 214,
+    "name": "Luxurious country house for sale close to Sant Elm, Andratx",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP4342_151378_V0_F5D5.jpg"
+  },
+  {
+    "nr": 222,
+    "name": "Luxuriöse Finca mit beeindruckender Aussicht (W-02AQI5)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://storage.googleapis.com/profile-engine-public-prod/agent_profile_images/b2a1a119-f7f6-43ea-9284-7b9e4141bf09_E&V%202024-150.jpg"
+  },
+  {
+    "nr": 230,
+    "name": "Außergewöhnliches Anwesen mit Gästeapartment, Sauna, Garten ",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 238,
+    "name": "Wunderschönes Landhaus bei Alaró (W-02T4JS)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/54ecae1b-6064-4e18-bab5-5b582136bb2c/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 246,
+    "name": "Modernes Neubau-Landhaus mit Weinberg (W-02X50U)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/eb179c41-7c1b-4a4b-b516-192f97419005/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 254,
+    "name": "Schönes Landhaus mit eigener Weinproduktion (W-02QG92)",
+    "status": "OK",
+    "img_match": "FIXED",
+    "live_img": "https://uploadcare.engelvoelkers.com/c3a1c096-12c6-427a-8f6e-378c853e67d1/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 262,
+    "name": "Landhaus mit Ferienvermietungs-Erlaubnis und eigenem Weingut",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 270,
+    "name": "Traumhaft gelegenes Landhaus in Bunyola mit Ferienvermietung",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 278,
+    "name": "Exklusive Villa im Landhausstil in ruhiger Lage von Es Llomb",
+    "status": "NO_URL",
+    "img_match": null
+  },
+  {
+    "nr": 286,
+    "name": "Living Art: Ein harmonisches Zusammenspiel von Architektur u",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/e9f362ee-3b64-4427-b4aa-e37fd1a721c1/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 294,
+    "name": "Exclusive new estate project with guest house for sale in Ll",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://www.balearic-properties.com/property-image/1920_AITAJP3989_135847_V0_26ED.jpg"
+  },
+  {
+    "nr": 302,
+    "name": "Luxus-Anwesen in Santa María: Ein Meisterwerk aus modernem D",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/e26a206d-0fc1-4548-bea2-5e53e3221bde/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  },
+  {
+    "nr": 310,
+    "name": "COMPLETELY RENOVATED MEDITERRANEAN VILLA IN GENOVA WITH SEA ",
+    "status": "OK",
+    "img_match": "IMG_ERR 200",
+    "live_img": "https://www.luxury-estates-mallorca.com/base/7509/image-thumb__7509__full_width_slide_image_estate_slider_thumbnail/placeholder.webp"
+  },
+  {
+    "nr": 318,
+    "name": "Großzügige Finca mit Panoramablick und zwei Gästehäusern nah",
+    "status": "NO_IMG (200)",
+    "img_match": null
+  },
+  {
+    "nr": 326,
+    "name": "Exklusive Neubauvilla in hervorragender Lage (W-02Z5MW)",
+    "status": "OK",
+    "img_match": "MATCH",
+    "live_img": "https://uploadcare.engelvoelkers.com/9bda01a7-6732-4598-997b-1bbe9bffc8db/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/"
+  }
+]

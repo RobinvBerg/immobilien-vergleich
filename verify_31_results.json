@@ -1,0 +1,191 @@
+[
+  {
+    "nr": 1,
+    "status": "NO_IMG_FOUND",
+    "name": "Establiments \u2014 Das Volumen; 762m\u00b2 zum Umdenken",
+    "url": "https://www.idealista.com/de/inmueble/106332052/mapa?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 3,
+    "status": "NO_IMG_FOUND",
+    "name": "Establiments \u2014 Charme-Refugium; altes Steinhaus mit Charakter",
+    "url": "https://www.idealista.com/de/inmueble/106744049/foto/1/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 4,
+    "status": "NO_IMG_FOUND",
+    "name": "Palmanyola \u2014 Klein aber Wow; Designvilla vor den Toren Palmas",
+    "url": "https://www.idealista.com/de/inmueble/109708161/plano/2/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 5,
+    "status": "NO_IMG_FOUND",
+    "name": "Santa Maria \u2014 Potenzial pur; Rohling in Traumlage",
+    "url": "https://www.idealista.com/de/inmueble/106300856/foto/17/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 6,
+    "status": "NO_IMG_FOUND",
+    "name": "Campos \u2014 Zum Selbermachen; ehrliche Finca, ehrlicher Preis",
+    "url": "https://www.idealista.com/de/inmueble/81539590/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 7,
+    "status": "NO_IMG_FOUND",
+    "name": "Sa R\u00e0pita \u2014 Strandgold; aufwachen, Es Trenc, fertig",
+    "url": "https://www.idealista.com/de/inmueble/109467637/foto/18/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 8,
+    "status": "NO_IMG_FOUND",
+    "name": "Sa R\u00e0pita \u2014 Vision 1800; 5 Hektar warten auf deine Handschrift",
+    "url": "https://www.idealista.com/de/inmueble/106134268/video/1/?utm_medium=socialmedia&utm_campaign=private_sendadtofriend&utm_source=copiedLink"
+  },
+  {
+    "nr": 13,
+    "status": "NO_IMG_FOUND",
+    "name": "Bunyola \u2014 Berglage mit Lizenz; Tramuntana vor der T\u00fcr",
+    "url": "https://www.idealista.com/inmueble/110322709/"
+  },
+  {
+    "nr": 48,
+    "status": "MISMATCH",
+    "name": "Unique Estate for Sale in Bunyola",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/48_live.jpg",
+    "live_url": "https://sandberg.imgix.net/property/1732199425396-static.jpg?w=1900&h=900&auto=format&mark-scale=25&mark=https://sandberg.imgix.net/website/web-1695394606202-sandberg-logo-new-trans.png?fm=png&markalign=center%middle"
+  },
+  {
+    "nr": 55,
+    "status": "MISMATCH",
+    "name": "Country house in Andratx, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/55_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/19513/19513769/380246690_original.jpg"
+  },
+  {
+    "nr": 59,
+    "status": "NO_URL",
+    "name": "Estate Sencelles"
+  },
+  {
+    "nr": 91,
+    "status": "MISMATCH",
+    "name": "Country house in Andratx, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/91_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/14449/14449091/310102682_original.jpg"
+  },
+  {
+    "nr": 104,
+    "status": "NO_URL",
+    "name": "Kreativprojekt Sa R\u00e0pita"
+  },
+  {
+    "nr": 131,
+    "status": "NO_URL",
+    "name": "Neubaufinca Ses Covetes - N\u00e4he Es Trenc"
+  },
+  {
+    "nr": 147,
+    "status": "NO_URL",
+    "name": "Santa Maria unfertig"
+  },
+  {
+    "nr": 152,
+    "status": "MISMATCH",
+    "name": "Finca in Felanitx, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/152_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/19765/19765507/crnulz145eg_DJI_0729.jpg"
+  },
+  {
+    "nr": 165,
+    "status": "NO_URL",
+    "name": "Designer House Ses Salines"
+  },
+  {
+    "nr": 178,
+    "status": "MISMATCH",
+    "name": "Villa in Marratxinet (Marratxi), Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/178_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/18592/18592573/358084989_original.jpg"
+  },
+  {
+    "nr": 203,
+    "status": "NO_URL",
+    "name": "Contemporary Moscari"
+  },
+  {
+    "nr": 229,
+    "status": "MISMATCH",
+    "name": "Modern Luxury Finca for Sale in Santa Maria",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/229_live.jpg",
+    "live_url": "https://sandberg.imgix.net/property/1758879258874-static.jpg?w=1900&h=900&auto=format&mark-scale=25&mark=https://sandberg.imgix.net/website/web-1695394606202-sandberg-logo-new-trans.png?fm=png&markalign=center%middle"
+  },
+  {
+    "nr": 240,
+    "status": "MISMATCH",
+    "name": "Modern Luxury Villa with Panoramic Views in Cala Santany\u00ed, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/240_live.jpg",
+    "live_url": "https://sandberg.imgix.net/property/1765974719788-static.jpg?w=1900&h=900&auto=format&mark-scale=25&mark=https://sandberg.imgix.net/website/web-1695394606202-sandberg-logo-new-trans.png?fm=png&markalign=center%middle"
+  },
+  {
+    "nr": 244,
+    "status": "MISMATCH",
+    "name": "Country house in Montuiri, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/244_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/19175/19175886/a600gblw8r_20250912_132332.jpg"
+  },
+  {
+    "nr": 265,
+    "status": "MISMATCH",
+    "name": "Country house in Binissalem, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/265_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/20533/20533859/407002207_original.jpg"
+  },
+  {
+    "nr": 266,
+    "status": "MISMATCH",
+    "name": "Top Renovated Finca with 2 Guest Houses for Sale in Binissalem",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/266_live.jpg",
+    "live_url": "https://sandberg.imgix.net/property/1770289793211-static.jpg?w=1900&h=900&auto=format&mark-scale=25&mark=https://sandberg.imgix.net/website/web-1695394606202-sandberg-logo-new-trans.png?fm=png&markalign=center%middle"
+  },
+  {
+    "nr": 273,
+    "status": "NO_URL",
+    "name": "Villa Bunyola (Lizenz)"
+  },
+  {
+    "nr": 279,
+    "status": "NO_URL",
+    "name": "G\u00e4stehaus Establiments"
+  },
+  {
+    "nr": 292,
+    "status": "NO_URL",
+    "name": "Finca Campos (Lizenz)"
+  },
+  {
+    "nr": 293,
+    "status": "MISMATCH",
+    "name": "Finca in Campos, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/293_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/20520/20520519/rm5wk9n5qh_Sin t\u00edtulo-5 (24).png"
+  },
+  {
+    "nr": 303,
+    "status": "MISMATCH",
+    "name": "Country house in Santa Maria Del Cami, Mallorca",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/303_live.jpg",
+    "live_url": "https://images.kyero.com/crop/480x320/https://production-kyero-property-images.s3.amazonaws.com/20534/20534135/407019912_original.jpg"
+  },
+  {
+    "nr": 311,
+    "status": "MISMATCH",
+    "name": "Charming Finca for Sale in Portol",
+    "live_img": "/Users/robin/.openclaw/workspace/mallorca-projekt/bilder/311_live.jpg",
+    "live_url": "https://sandberg.imgix.net/property/1758614721766-static.jpg?w=1900&h=900&auto=format&mark-scale=25&mark=https://sandberg.imgix.net/website/web-1695394606202-sandberg-logo-new-trans.png?fm=png&markalign=center%middle"
+  },
+  {
+    "nr": 314,
+    "status": "NO_URL",
+    "name": "EV Expos\u00e9 Binissalem"
+  }
+]

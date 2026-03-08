@@ -1,0 +1,6095 @@
+[
+  {
+    "preis": 6500000.0,
+    "zimmer": 12.0,
+    "grd": 3575000.0,
+    "wfl": 1743,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/107919877/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 8.0,
+    "grd": 3451500.0,
+    "wfl": 1574,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/101945468/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 8.0,
+    "grd": 3400000.0,
+    "wfl": 1500,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/108854255/",
+    "titel": "Masía en Poligono 7 s/n"
+  },
+  {
+    "preis": 12875000.0,
+    "zimmer": 10.0,
+    "grd": 3112000.0,
+    "wfl": 1800,
+    "ort": "Estellencs",
+    "url": "https://www.balearic-properties.com/en/property/id/874083-historic-estate-seaviews-reform-estellencs-mallorca-html",
+    "titel": "Magnificent country estate with sea views for sale in Estellencs, Mallorca"
+  },
+  {
+    "preis": 9900000.0,
+    "zimmer": 15.0,
+    "grd": 2500000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-establiments07010-60888453538_101800/",
+    "titel": "Casa en Establiments"
+  },
+  {
+    "preis": 9000000.0,
+    "zimmer": 7.0,
+    "grd": 2500000.0,
+    "wfl": 61,
+    "ort": "Escorca",
+    "url": "https://www.rightmove.co.uk/properties/156037550",
+    "titel": "Spread over a massive 2.500.000m2 plot of land this is a rare and wonderful opportunity to buy a..."
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 7.0,
+    "grd": 2500000.0,
+    "wfl": 658,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/historic-stone-finca-in-mallorca-with-panoramic-sea-views-and-hunting-rights-in-escorca-lpo1441",
+    "titel": "HISTORIC STONE FINCA IN MALLORCA WITH PANORAMIC SEA VIEWS AND HUNTING RIGHTS IN ESCORCA"
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 15.0,
+    "grd": 2322151.0,
+    "wfl": 625,
+    "ort": "Calvià",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d52e10c1-38b2-5b77-8f51-5f752b66e873",
+    "titel": "Authentische mallorquinische Possessió mit Panoramablick bis zum Meer – ein Landgut voller Geschichte und Potenzial (W-02ZCOM)"
+  },
+  {
+    "preis": 7000000.0,
+    "zimmer": 10.0,
+    "grd": 1847413.0,
+    "wfl": 1390,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/94a816a5-ee1c-5d1b-aedf-9b31d663c239",
+    "titel": "Authentisches mallorquinisches Anwesen in Llucmajor (W-02WWFR)"
+  },
+  {
+    "preis": 11890000.0,
+    "zimmer": 20.0,
+    "grd": 1420000.0,
+    "wfl": 1780,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d3fb629c-b54d-55f4-afcc-000c8c1da207",
+    "titel": "Mallorquinisches Landhotel mit Agrarwirtschaft (W-00ADBY)"
+  },
+  {
+    "preis": 5300000.0,
+    "zimmer": 5.0,
+    "grd": 1250641.0,
+    "wfl": 3100,
+    "ort": "Sa Torre, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/40054694/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 15000000.0,
+    "zimmer": 20.0,
+    "grd": 1242000.0,
+    "wfl": 3960,
+    "ort": "Calvià",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/03af80d9-d145-11ec-91bc-060000000057",
+    "titel": "Mallorquinisches Landgut mit einer eigenen Kapelle und mehreren Nebengebäuden mit schönem Meerblick"
+  },
+  {
+    "preis": 6363000.0,
+    "zimmer": 8.0,
+    "grd": 1230000.0,
+    "wfl": 4603,
+    "ort": "Montuïri",
+    "url": "https://www.balearic-properties.com/en/property/id/822403-country-property-huge-plot-montuiri-mallorca-html",
+    "titel": "Wonderful country property for sale on a huge plot in Montuïri, Mallorca"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 15.0,
+    "grd": 1228346.0,
+    "wfl": null,
+    "ort": "Ciutadella de Menorca",
+    "url": "https://www.pisos.com/comprar/finca_rustica-cala_blanca_santandria_son_carrio07760-28423560808_105800/",
+    "titel": "Finca rústica en Ciutadella"
+  },
+  {
+    "preis": 6900000.0,
+    "zimmer": 7.0,
+    "grd": 1151000.0,
+    "wfl": 1000,
+    "ort": "Selva",
+    "url": "https://www.balearic-properties.com/en/property/id/798622-estate-selva-mallorca-html",
+    "titel": "Unique and authentic country estate for sale in Selva, Mallorca"
+  },
+  {
+    "preis": 6900000.0,
+    "zimmer": 6.0,
+    "grd": 1149000.0,
+    "wfl": 980,
+    "ort": "Selva",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/4458913d-f689-11eb-91bc-060000000057",
+    "titel": "Weitläufiges Finca-Anwesen in Selva mit Gästehaus, Pool und atemberaubender Aussicht"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 13.0,
+    "grd": 1000000.0,
+    "wfl": 2000,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/104828154/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 14.0,
+    "grd": 980000.0,
+    "wfl": 2023,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/109279219/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 8.0,
+    "grd": 970000.0,
+    "wfl": 1001,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/91044880/",
+    "titel": "Finca rústica en via Sense Nom"
+  },
+  {
+    "preis": 39000000.0,
+    "zimmer": 12.0,
+    "grd": 970000.0,
+    "wfl": 5116,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/historic-finca-with-modern-winery-on-mallorca-lf1",
+    "titel": "HISTORIC FINCA WITH MODERN WINERY ON MALLORCA"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 11.0,
+    "grd": 940000.0,
+    "wfl": 1500,
+    "ort": "Alaró",
+    "url": "https://www.balearic-properties.com/en/property/id/804531-manor-house-large-plot-alaro-mallorca-html",
+    "titel": "Grand manor house for sale, walking distance from Alaró, Mallorca"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 25.0,
+    "grd": 918238.0,
+    "wfl": 2023,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/98408169/",
+    "titel": "Finca rústica en mayor"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 12.0,
+    "grd": 918235.0,
+    "wfl": 2023,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/103081620/",
+    "titel": "Finca rústica en carretera Pol 07 Parc 091"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 20.0,
+    "grd": 918000.0,
+    "wfl": 2000,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/106472876/",
+    "titel": "Masía en camino de Muntanya"
+  },
+  {
+    "preis": 15500000.0,
+    "zimmer": 28.0,
+    "grd": 845000.0,
+    "wfl": 3000,
+    "ort": "Campanet",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e483c576-24cb-11eb-8802-060000000057",
+    "titel": "Schönes Anwesen mit Hotellizenz zum Renovieren in Campanet"
+  },
+  {
+    "preis": 3265000.0,
+    "zimmer": 16.0,
+    "grd": 830000.0,
+    "wfl": null,
+    "ort": "Ma&#xF3; Mah&#xF3;n",
+    "url": "https://www.pisos.com/comprar/finca_rustica-sant_climent_llucmacanes_es_canutells_binidali0771-52563481850_105800/",
+    "titel": "Finca rústica en San Clemente"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 7.0,
+    "grd": 808397.0,
+    "wfl": 710,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/108858225/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 13.0,
+    "grd": 808307.0,
+    "wfl": 736,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/102810111/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 10.0,
+    "grd": 808000.0,
+    "wfl": 760,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/98108474/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 7.0,
+    "grd": 800000.0,
+    "wfl": null,
+    "ort": "Alaior",
+    "url": "https://www.pisos.com/comprar/finca_rustica-alaior_centro_urbano-22517665809_105800/",
+    "titel": "Finca rústica en Torre Soli Nou"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 5.0,
+    "grd": 780000.0,
+    "wfl": 1969,
+    "ort": "Santa Margalida",
+    "url": "https://www.idealista.com/inmueble/107522863/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 2928337.0,
+    "zimmer": 8.0,
+    "grd": 759132.0,
+    "wfl": 2500,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/108293019/",
+    "titel": "Finca rústica en camino de Son Gelabert, 205"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 13.0,
+    "grd": 741425.0,
+    "wfl": 566,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/81270218/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 13.0,
+    "grd": 735000.0,
+    "wfl": 2300,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/96773288/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 13.0,
+    "grd": 735000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-llevant_saranjassa07199-55086483666_106700/",
+    "titel": "Casa rústica en Son Gual"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 13.0,
+    "grd": 735000.0,
+    "wfl": 2300,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/f0bf4b84-859d-11ec-91bc-060000000057",
+    "titel": "Exklusives Anwesen mit eigener Kapelle, zwei Gästehäusern und Panoramablick in der Nähe von Golf Son Gual, am Stadtrand von Palma"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 730441.0,
+    "wfl": 2910,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/105332448/",
+    "titel": "Finca rústica en Polígono"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 730000.0,
+    "wfl": 2910,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/108212708/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 703000.0,
+    "wfl": 573,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/94837670/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 700000.0,
+    "wfl": 2500,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/106372132/",
+    "titel": "Casa independiente en Diseminado Son Bernat Reus"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 8.0,
+    "grd": 700000.0,
+    "wfl": 736,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/105371258/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 7.0,
+    "grd": 700000.0,
+    "wfl": 736,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/105152479/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 7.0,
+    "grd": 700000.0,
+    "wfl": 600,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/93414903/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 24000000.0,
+    "zimmer": 10.0,
+    "grd": 630000.0,
+    "wfl": 2640,
+    "ort": "Puigpunyent",
+    "url": "https://www.balearic-properties.com/en/property/id/822956-magnificent-country-estate-puigpunyent-mallorca-html",
+    "titel": "Magnificent country estate for sale on a huge plot in Puigpunyent, Mallorca"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 6.0,
+    "grd": 572471.0,
+    "wfl": 1630,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/109827031/",
+    "titel": "Casa rural en poligono once parcela 1025 s/n"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 8.0,
+    "grd": 572471.0,
+    "wfl": 1630,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/95222903/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 10.0,
+    "grd": 570000.0,
+    "wfl": 1772,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/107919760/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 11.0,
+    "grd": 570000.0,
+    "wfl": 1772,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/93417651/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 11.0,
+    "grd": 570000.0,
+    "wfl": 1772,
+    "ort": "Escorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b81ecc21-24ca-11eb-8802-060000000057",
+    "titel": "Stilvolles Herrenhaus inmitten unberührter Natur in Son LLobera, Escorca"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 5.0,
+    "grd": 568200.0,
+    "wfl": 855,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/87394498/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 12.0,
+    "grd": 568000.0,
+    "wfl": 1826,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/97960996/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 12.0,
+    "grd": 568000.0,
+    "wfl": 1522,
+    "ort": "Escorca",
+    "url": "https://www.idealista.com/inmueble/90928350/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5295000.0,
+    "zimmer": 38.0,
+    "grd": 555000.0,
+    "wfl": 2947,
+    "ort": "Villafranca de Bonany",
+    "url": "https://www.idealista.com/inmueble/107628401/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4200000.0,
+    "zimmer": 13.0,
+    "grd": 550000.0,
+    "wfl": 2000,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/105695128/",
+    "titel": "Masía en Polígono"
+  },
+  {
+    "preis": 4300000.0,
+    "zimmer": 8.0,
+    "grd": 546661.0,
+    "wfl": 1927,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/108027796/",
+    "titel": "Casa rural en camino de Can Falet, 87"
+  },
+  {
+    "preis": 4200000.0,
+    "zimmer": 10.0,
+    "grd": 546661.0,
+    "wfl": 1967,
+    "ort": "Algaida",
+    "url": "https://www.balearic-properties.com/en/property/id/819811-historic-estate-algaida-mallorca-html",
+    "titel": "Historic country estate for sale on a huge plot in Algaida, Mallorca"
+  },
+  {
+    "preis": 4400000.0,
+    "zimmer": 9.0,
+    "grd": 540000.0,
+    "wfl": 1900,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/102852292/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4400000.0,
+    "zimmer": 9.0,
+    "grd": 540000.0,
+    "wfl": 1900,
+    "ort": "Algaida",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/938c3901-6451-11ee-91bc-060000000057",
+    "titel": "Historisches großes Landgut in malerischer Lage nur wenige Minuten von Randa entfernt"
+  },
+  {
+    "preis": 3573000.0,
+    "zimmer": 8.0,
+    "grd": 500000.0,
+    "wfl": null,
+    "ort": "Alaior",
+    "url": "https://www.pisos.com/comprar/finca_rustica-alaior_centro_urbano-32524801654_105800/",
+    "titel": "Finca rústica en Alayor"
+  },
+  {
+    "preis": 17500000.0,
+    "zimmer": 12.0,
+    "grd": 500000.0,
+    "wfl": 2000,
+    "ort": "Esporles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/65f4a07c-24d0-11eb-8802-060000000057",
+    "titel": "Authentisches Finca-Anwesen aus dem 17. Jahrhundert - Mit Weinanbau-Projekt nahe Esporles"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 9.0,
+    "grd": 450372.0,
+    "wfl": 2887,
+    "ort": "Gran Via de Colom, Inca",
+    "url": "https://www.idealista.com/inmueble/102229026/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 9.0,
+    "grd": 450372.0,
+    "wfl": 2887,
+    "ort": "Centro, Inca",
+    "url": "https://www.idealista.com/inmueble/107416376/",
+    "titel": "Chalet en calle del Rei"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 449604.0,
+    "wfl": 2654,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/109391282/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 8.0,
+    "grd": 449604.0,
+    "wfl": 2654,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d4804a45-d4c5-5aef-97b2-98429d0477c6",
+    "titel": "Landgut zur Renovierung in Inca (W-02LZ0Q)"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 10.0,
+    "grd": 421764.0,
+    "wfl": 1803,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/93458453/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 10.0,
+    "grd": 421764.0,
+    "wfl": 1803,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/99984954/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 10.0,
+    "grd": 421764.0,
+    "wfl": 1803,
+    "ort": "Binissalem",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/cd77eec1-24cf-11eb-8802-060000000057",
+    "titel": "Herrschaftliches Haus in Binissalem mit fantastischem Blick auf das Tramuntana-Gebirge"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 10.0,
+    "grd": 421700.0,
+    "wfl": 1800,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/102228753/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 10.0,
+    "grd": 405000.0,
+    "wfl": 1600,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/101945403/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 400000.0,
+    "wfl": null,
+    "ort": "Pollen&#xE7;a",
+    "url": "https://www.pisos.com/comprar/chalet_unifamiliar-pollenca_centro_urbano-42553649057_501477/",
+    "titel": "Chalet unifamiliar en Pollença"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 8.0,
+    "grd": 400000.0,
+    "wfl": 2887,
+    "ort": "Llubí",
+    "url": "https://www.balearic-properties.com/en/property/id/779726-finca-inca-llubi-mallorca-html",
+    "titel": "Enormous Mallorca country property with investment potential for sale in Llubí, Mallorca"
+  },
+  {
+    "preis": 25000000.0,
+    "zimmer": 22.0,
+    "grd": 400000.0,
+    "wfl": 9000,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/exclusive-finca-with-equestrian-center-and-guest-houses-in-the-south-of-mallorca-lpj007",
+    "titel": "EXCLUSIVE FINCA WITH EQUESTRIAN CENTER AND GUEST HOUSES IN THE SOUTH OF MALLORCA"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 9.0,
+    "grd": 375533.0,
+    "wfl": 1350,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/106014158/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 11.0,
+    "grd": 375533.0,
+    "wfl": 1332,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/782d4beb-9ce3-56be-b904-cb6af5cb8360",
+    "titel": "Mediterranes Landhotel in Llucmajor (W-01ZH86)"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 364000.0,
+    "wfl": 3839,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/105274335/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 364000.0,
+    "wfl": 3839,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/96943917/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 6.0,
+    "grd": 360000.0,
+    "wfl": 3800,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/98852101/",
+    "titel": "Finca rústica en km 10"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 360000.0,
+    "wfl": 5117,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/98918580/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 7.0,
+    "grd": 343000.0,
+    "wfl": 1130,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/109475860/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 24500000.0,
+    "zimmer": 12.0,
+    "grd": 320000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-establiments07010-55013195500_106700/",
+    "titel": "Casa rústica en Establiments"
+  },
+  {
+    "preis": 24500000.0,
+    "zimmer": 12.0,
+    "grd": 320000.0,
+    "wfl": 2131,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/95783ea8-6bf4-11ee-91bc-060000000057",
+    "titel": "Historisches Herrenhaus in erstklassigem Zustand und mit absoluter Privatsphäre in Establiments"
+  },
+  {
+    "preis": 8000000.0,
+    "zimmer": 34.0,
+    "grd": 316833.0,
+    "wfl": 3835,
+    "ort": "Bunyola",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c2a19b8a-f065-11f0-b3d3-060000000057",
+    "titel": "Sagenhafter Landsitz aus dem 16. Jahrhundert mit Hotel-Lizenz und gültiger Bau-Lizenz bei Bunyola"
+  },
+  {
+    "preis": 25000000.0,
+    "zimmer": 22.0,
+    "grd": 307970.0,
+    "wfl": 2576,
+    "ort": "Llucmajor",
+    "url": "https://www.balearic-properties.com/en/property/id/938328-exceptional-private-estate-for-sale-in-llucmajor-south-mallorca-html",
+    "titel": "Exceptional Private Estate for sale in Llucmajor, South Mallorca"
+  },
+  {
+    "preis": 25000000.0,
+    "zimmer": 22.0,
+    "grd": 307000.0,
+    "wfl": 9000,
+    "ort": "Llucmajor",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/33bb7b30-8284-11ec-91bc-060000000057",
+    "titel": "Einzigartige Familienresidenz mit Charme und Charakter bei Llucmajor"
+  },
+  {
+    "preis": 12000000.0,
+    "zimmer": 6.0,
+    "grd": 300000.0,
+    "wfl": 0,
+    "ort": "Sóller",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9571b115-fabb-11f0-b3d3-060000000057",
+    "titel": "VERKAUFT Son Alba im Puerto de Soller durch Living Blue Mallorca!"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 276585.0,
+    "wfl": 573,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/101758817/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 8.0,
+    "grd": 257140.0,
+    "wfl": 976,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/109517240/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 24.0,
+    "grd": 250000.0,
+    "wfl": 2134,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/104530276/",
+    "titel": "Finca rústica en calle Ruberts"
+  },
+  {
+    "preis": 75000000.0,
+    "zimmer": 30.0,
+    "grd": 243288.0,
+    "wfl": 6379,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/unique-country-resort-on-mallorca-with-guest-houses-and-vineyard-lbun2",
+    "titel": "UNIQUE COUNTRY RESORT ON MALLORCA WITH GUEST HOUSES AND VINEYARD"
+  },
+  {
+    "preis": 75900000.0,
+    "zimmer": 32.0,
+    "grd": 241437.0,
+    "wfl": 5569,
+    "ort": "Bunyola ,Villa",
+    "url": "https://sandberg-estates.com/properties/unique-estate-for-sale-in-bunyola",
+    "titel": "Unique Estate for Sale in Bunyola"
+  },
+  {
+    "preis": 2980000.0,
+    "zimmer": 10.0,
+    "grd": 237000.0,
+    "wfl": 600,
+    "ort": "Costitx",
+    "url": "https://www.idealista.com/inmueble/104838723/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 19500000.0,
+    "zimmer": 18.0,
+    "grd": 222557.0,
+    "wfl": 2226,
+    "ort": "Algaida",
+    "url": "https://www.balearic-properties.com/en/property/id/873919-lavish-country-estate-surroundings-algaida-mallorca-html",
+    "titel": "Lavish country estate for sale in the beautiful surroundings of Algaida, Mallorca"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 200000.0,
+    "wfl": 1407,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/109873504/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2920000.0,
+    "zimmer": 8.0,
+    "grd": 200000.0,
+    "wfl": 1400,
+    "ort": "Son Carrio",
+    "url": "https://www.idealista.com/inmueble/107002142/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 7490000.0,
+    "zimmer": 10.0,
+    "grd": 200000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-llevant_son_ferriol07007-60911349786_101800/",
+    "titel": "Casa rústica en Son Ferriol"
+  },
+  {
+    "preis": 7500000.0,
+    "zimmer": 5.0,
+    "grd": 200000.0,
+    "wfl": 706,
+    "ort": "Campanet",
+    "url": "https://www.balearic-properties.com/en/property/id/860891-fabulous-country-home-campanet-mallorca-html",
+    "titel": "Fabulous country home for sale in a picturesque valley near Campanet, Mallorca"
+  },
+  {
+    "preis": 7500000.0,
+    "zimmer": 5.0,
+    "grd": 200000.0,
+    "wfl": "7,599 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/171518123?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Superb country villa on a huge plot with spa and home cinema in Campanet"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 199650.0,
+    "wfl": 1407,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/108349755/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 199650.0,
+    "wfl": 1407,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/103368292/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 10.0,
+    "grd": 199650.0,
+    "wfl": 1407,
+    "ort": "Sineu",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/f0063f8e-f7e3-5274-bee4-9cb9c2e7fa05",
+    "titel": "Herrenhaus aus dem 13 Jahrhundert (W-02MP5D)"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 198500.0,
+    "wfl": 1410,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/108463003/",
+    "titel": "Casa rural en Poligono 11 Parcela 234 s/n"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 7.0,
+    "grd": 190000.0,
+    "wfl": 960,
+    "ort": "Esporles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/6d1c3def-24d0-11eb-8802-060000000057",
+    "titel": "Historischer Landsitz in bester Lage von Esporles mit Meerblick und Ferienvermietungerlaubnis"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 5.0,
+    "grd": 185220.0,
+    "wfl": 305,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/99807736/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 185000.0,
+    "wfl": 305,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/101896062/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3711750.0,
+    "zimmer": 6.0,
+    "grd": 184000.0,
+    "wfl": 281,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/100817550/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 180000.0,
+    "wfl": 300,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/95826820/",
+    "titel": "Casa rural en Poligono 2"
+  },
+  {
+    "preis": 3711750.0,
+    "zimmer": 6.0,
+    "grd": 180000.0,
+    "wfl": 343,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/99319466/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 7650000.0,
+    "zimmer": 5.0,
+    "grd": 172483.0,
+    "wfl": 1307,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/authentic-mallorca-finca-with-vineyard-bodega-and-olive-grove-lpa2392",
+    "titel": "AUTHENTIC MALLORCA FINCA WITH VINEYARD BODEGA AND OLIVE GROVE"
+  },
+  {
+    "preis": 7900000.0,
+    "zimmer": 7.0,
+    "grd": 170000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-establiments-55078632844_106700/",
+    "titel": "Casa rústica en Establiments"
+  },
+  {
+    "preis": 7900000.0,
+    "zimmer": 7.0,
+    "grd": 170000.0,
+    "wfl": 1200,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/649bfe5b-24d1-11eb-8802-060000000057",
+    "titel": "Historisches mallorquinisches Anwesen in bester Lage von Establiments mit fantastischem Blick"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 163000.0,
+    "wfl": null,
+    "ort": "Andratx",
+    "url": "https://www.kyero.com/en/property/19513769-country-house-for-sale-andratx",
+    "titel": "Country house in Andratx, Mallorca"
+  },
+  {
+    "preis": 4600000.0,
+    "zimmer": 6.0,
+    "grd": 151000.0,
+    "wfl": 775,
+    "ort": "Santa Margalida",
+    "url": "https://www.idealista.com/inmueble/107442583/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4600000.0,
+    "zimmer": 6.0,
+    "grd": 151000.0,
+    "wfl": 775,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/finca-in-santa-margalida-with-sea-views-and-a-large-plot-of-land-lmg2152",
+    "titel": "FINCA IN SANTA MARGALIDA WITH SEA VIEWS AND A LARGE PLOT OF LAND"
+  },
+  {
+    "preis": 4600000.0,
+    "zimmer": 8.0,
+    "grd": 150000.0,
+    "wfl": 1150,
+    "ort": "Santa Margalida",
+    "url": "https://www.idealista.com/inmueble/109551412/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4600000.0,
+    "zimmer": 6.0,
+    "grd": 150000.0,
+    "wfl": 820,
+    "ort": "Santa Margalida",
+    "url": "https://www.idealista.com/inmueble/103596272/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 17500000.0,
+    "zimmer": 14.0,
+    "grd": 150000.0,
+    "wfl": 1780,
+    "ort": "Algaida",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/82e75fea-ff57-11ef-9e0e-060000000057",
+    "titel": "Feng-Shui-Meisterwerk: Exquisites Refugium aus 4 Häusern inmitten der mallorquinischen Natur in Algaida"
+  },
+  {
+    "preis": 17500000.0,
+    "zimmer": 21.0,
+    "grd": 148326.0,
+    "wfl": 1784,
+    "ort": "Algaida",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/714071de-b94a-531f-8797-b3844c539869",
+    "titel": "Ein neues exklusives Wohnerlebnis (W-02XAUI)"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 9.0,
+    "grd": 142435.0,
+    "wfl": 1969,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/99421853/",
+    "titel": "Finca rústica en carretera Vieja de Sineu"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 132769.0,
+    "wfl": 763,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/110095553/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 132500.0,
+    "wfl": null,
+    "ort": "Sencelles",
+    "url": "—",
+    "titel": "Estate Sencelles"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 9.0,
+    "grd": 130000.0,
+    "wfl": 1000,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/93416664/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 130000.0,
+    "wfl": 584,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/109911714/",
+    "titel": "Casa independiente en 07230 Montuïri s/n"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 5.0,
+    "grd": 130000.0,
+    "wfl": 320,
+    "ort": "Puerto Andratx",
+    "url": "https://www.balearic-properties.com/en/property/id/797442-andratx-country-house-html",
+    "titel": "Semi-detached country house for sale in the north of Andratx, Mallorca"
+  },
+  {
+    "preis": 29500000.0,
+    "zimmer": 9.0,
+    "grd": 130000.0,
+    "wfl": 1480,
+    "ort": "Puigpunyent",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/77c0f54c-b976-11f0-b3d3-060000000057",
+    "titel": "Emblematisches Herrenhaus aus dem 18. Jahrhundert mit Pool und Garten, nur 15 Minuten von Palma entfernt"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 9.0,
+    "grd": 130000.0,
+    "wfl": 1000,
+    "ort": "Binissalem",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/979be187-24cd-11eb-8802-060000000057",
+    "titel": "Beeindruckendes Herrenhaus mit Pool und viel Land zwischen Inca und Binissalem"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 124812.0,
+    "wfl": 716,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c53f1d23-11d1-549a-868b-137fc3a8404e",
+    "titel": "Erstklassiges Grundstück mit genehmigten Projekt (W-02U1EW)"
+  },
+  {
+    "preis": 26000000.0,
+    "zimmer": 14.0,
+    "grd": 124000.0,
+    "wfl": 1500,
+    "ort": "Esporles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/3ff967c9-21b1-11ef-b7c3-060000000057",
+    "titel": "Majestätisches Herrenhaus in der Natur von Esporles"
+  },
+  {
+    "preis": 2995000.0,
+    "zimmer": 5.0,
+    "grd": 120000.0,
+    "wfl": null,
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170306417?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "This beautifully refurbished finca is ideally located just a 20-minute walk from the historic old to"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 7.0,
+    "grd": 115000.0,
+    "wfl": 420,
+    "ort": "Sineu",
+    "url": "https://www.idealista.com/inmueble/109035257/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 29500000.0,
+    "zimmer": 8.0,
+    "grd": 115000.0,
+    "wfl": 1400,
+    "ort": "Puigpunyent",
+    "url": "https://www.balearic-properties.com/en/property/id/684401-finca-estate-puigpunyent-mallorca-html",
+    "titel": "State-of-the-art finca for sale in Puigpunyent, Mallorca west"
+  },
+  {
+    "preis": 9500000.0,
+    "zimmer": 11.0,
+    "grd": 115000.0,
+    "wfl": 2697,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/historic-country-estate-vineyard-in-the-northeast-of-mallorca-with-guest-houses-lmp26",
+    "titel": "HISTORIC COUNTRY ESTATE VINEYARD IN THE NORTHEAST OF MALLORCA WITH GUEST HOUSES"
+  },
+  {
+    "preis": 3750000.0,
+    "zimmer": 8.0,
+    "grd": 106000.0,
+    "wfl": 4300,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/finca-property-in-mallorca-with-vacation-rental-license-and-outbuildings-lsm1491",
+    "titel": "FINCA PROPERTY IN MALLORCA WITH VACATION RENTAL LICENSE AND OUTBUILDINGS"
+  },
+  {
+    "preis": 8400000.0,
+    "zimmer": 9.0,
+    "grd": 101255.0,
+    "wfl": 604,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/433ba4ea-bbbd-5986-aa96-d04f887b8da0",
+    "titel": "Tradition und Moderne auf diesem historischen Weingut in Llucmajor (W-02Y313)"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 6.0,
+    "grd": 100000.0,
+    "wfl": 600,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/109978857/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 6.0,
+    "grd": 100000.0,
+    "wfl": 600,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/107651166/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 10000000.0,
+    "zimmer": 10.0,
+    "grd": 100000.0,
+    "wfl": 3249,
+    "ort": "Santanyí",
+    "url": "https://www.balearic-properties.com/en/property/id/955450-luxury-estate-santanyi-mallorca-html",
+    "titel": "Traditional Mediterranean farmhouse retreat for sale in Santanyí, Southeast Mallorca"
+  },
+  {
+    "preis": 17500000.0,
+    "zimmer": 14.0,
+    "grd": 100000.0,
+    "wfl": 1783,
+    "ort": "Montuïri",
+    "url": "https://www.rightmove.co.uk/properties/169478138",
+    "titel": "Exclusive property newly constrcuted in Algaida, Mallorca. Designed by a Feng Shui master, with 4..."
+  },
+  {
+    "preis": 17500000.0,
+    "zimmer": 14.0,
+    "grd": 100000.0,
+    "wfl": "19,192 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/169478138?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Exclusive property newly constrcuted in Algaida, Mallorca. Designed by a Feng Shui master, with 4 es"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 6.0,
+    "grd": 100000.0,
+    "wfl": 600,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/a9aed09f-69ff-11ef-9e0e-060000000057",
+    "titel": "Alte Natursteinfinca inmitten der Natur mit Blick auf das Tramuntana-Gebirge mit Ferienvermietungs-Erlaubnis"
+  },
+  {
+    "preis": 6850000.0,
+    "zimmer": 10.0,
+    "grd": 98803.0,
+    "wfl": 1334,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/country-estate-in-son-macia-with-2-main-houses-and-outbuildings-pool-and-partial-sea-view-lmp17",
+    "titel": "COUNTRY ESTATE IN SON MACIA WITH 2 MAIN HOUSES AND OUTBUILDINGS POOL AND PARTIAL SEA VIEW"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 96224.0,
+    "wfl": 414,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/105536327/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 8.0,
+    "grd": 96224.0,
+    "wfl": 414,
+    "ort": "Algaida",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/5dfdb3fe-803e-5784-9057-bc2ebd43ac37",
+    "titel": "Landhaus mit Tennisplatz und Ferienvermietlizenz (W-02DXAT)"
+  },
+  {
+    "preis": 7500000.0,
+    "zimmer": 8.0,
+    "grd": 95000.0,
+    "wfl": 1100,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/f111dfc2-24cc-11eb-8802-060000000057",
+    "titel": "Finca Hotel aus dem XVII. Jahrhundert in Santa Maria mit Sicht auf das Tramuntana Gebirge und Ferienvermietungs-Erlaubnis"
+  },
+  {
+    "preis": 7000000.0,
+    "zimmer": 5.0,
+    "grd": 90400.0,
+    "wfl": 900,
+    "ort": "Búger",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b57cb015-c9b8-11ee-91bc-060000000057",
+    "titel": "Elegantes Anwesen in idyllischer Lage bei Buger"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 8.0,
+    "grd": 89525.0,
+    "wfl": 1206,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/05467229-90e4-5143-85f8-1ff190689a54",
+    "titel": "Spektakuläres Luxusanwesen mit Parkanlagen (W-00BZIA)"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 7.0,
+    "grd": 89000.0,
+    "wfl": 3200,
+    "ort": "Centro, Inca",
+    "url": "https://www.idealista.com/inmueble/102228752/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 87127.0,
+    "wfl": 2416,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/95122367/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 87127.0,
+    "wfl": 2416,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/95972324/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 7.0,
+    "grd": 87127.0,
+    "wfl": 2416,
+    "ort": "Binissalem",
+    "url": "https://www.balearic-properties.com/en/property/id/829765-country-mansion-indoor-outdoor-pool-binissalem-mallorca-html",
+    "titel": "Magnificent country house with 2 pools and spa for sale near Binissalem, Mallorca"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 85637.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/62bb480f-5e6b-59c4-9a9c-893db1c10a26",
+    "titel": "Mallorquinische Finca mit Charakter, Privatsphäre und einzigartigem Ausblick (W-048KD0)"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 85600.0,
+    "wfl": 1065,
+    "ort": "Palma",
+    "url": "https://www.idealista.com/inmueble/110580275/",
+    "titel": "Barrio Establiments – countryHouse"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 85600.0,
+    "wfl": 1065,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/110580275/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 85600.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-establiments07010-61726841605_106700/",
+    "titel": "Casa rústica en Establiments"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 85600.0,
+    "wfl": 1065,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c803db89-f22c-11f0-b3d3-060000000057",
+    "titel": "Außergewöhnliches mallorquinisches Anwesen zur Renovierung mit privatem Brunnen und Nebengebäude in Establiments"
+  },
+  {
+    "preis": 11800000.0,
+    "zimmer": 6.0,
+    "grd": 82689.0,
+    "wfl": 777,
+    "ort": "Capdellà",
+    "url": "https://www.balearic-properties.com/en/property/id/902064-luxurious-modern-finca-calvia-mallorca-html",
+    "titel": "State-of-the-art finca with panoramic views for sale in Calviá, Mallorca"
+  },
+  {
+    "preis": 9600000.0,
+    "zimmer": 7.0,
+    "grd": 82689.0,
+    "wfl": 631,
+    "ort": "Calvià",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/b7d0d563-68a4-50d3-9c73-bfaaec8e8b85",
+    "titel": "Perfekter Fincatraum in Es Capdella (W-02N7NP)"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 12.0,
+    "grd": 82000.0,
+    "wfl": 2535,
+    "ort": "Cala Pi-Vallgornera, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/94475645/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2995000.0,
+    "zimmer": 5.0,
+    "grd": 80000.0,
+    "wfl": "4,844 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/171196925?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Renovated 5 bedroom finca with pool project near Pollensa town"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 79900.0,
+    "wfl": 620,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/97497928/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 79900.0,
+    "wfl": 620,
+    "ort": "Sóller",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/1b041bc1-c6c7-11ec-91bc-060000000057",
+    "titel": "Ausgezeichnete Finca mit Panoramablick und eigenem Weinberg bei Sóller"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 79890.0,
+    "wfl": 621,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/104839675/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 79840.0,
+    "wfl": 621,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/103227507/",
+    "titel": "Chalet en camino de sa Figuera"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 6.0,
+    "grd": 79594.0,
+    "wfl": 620,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107185300/",
+    "titel": "Finca rústica en camino de sa Figuera"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 6.0,
+    "grd": 79594.0,
+    "wfl": 620,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/99283753/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 7.0,
+    "grd": 79504.0,
+    "wfl": 621,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107156947/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 7.0,
+    "grd": 78449.0,
+    "wfl": 683,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/107598077/",
+    "titel": "Masía en son coll s/n"
+  },
+  {
+    "preis": 3450000.0,
+    "zimmer": 8.0,
+    "grd": 78449.0,
+    "wfl": 683,
+    "ort": "Deià",
+    "url": "https://www.balearic-properties.com/en/property/id/880997-historic-country-estate-sea-views-deia-mallorca-html",
+    "titel": "Historic country estate with incredible sea views for sale in Son Coll, Deià, Mallorca"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 78000.0,
+    "wfl": 619,
+    "ort": "Deià",
+    "url": "https://www.idealista.com/inmueble/107898718/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 78000.0,
+    "wfl": 1846,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108781177/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 78000.0,
+    "wfl": 619,
+    "ort": "Deià",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e9e53ea6-15f1-11f0-9e0e-060000000057",
+    "titel": "Traumhaftes Anwesen mit zwei Wohneinheiten im Herzen von Deià"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 5.0,
+    "grd": 75000.0,
+    "wfl": 576,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/110453314/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 74000.0,
+    "wfl": 313,
+    "ort": "Esporles",
+    "url": "https://www.idealista.com/inmueble/110151462/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 74000.0,
+    "wfl": 313,
+    "ort": "Esporles",
+    "url": "https://www.idealista.com/inmueble/102228768/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 74000.0,
+    "wfl": 313,
+    "ort": "Esporles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/db8b800d-d104-11f0-b3d3-060000000057",
+    "titel": "Schöne rustikale Finca zu verkaufen mitten in der Natur von Esporles mit Ferienvermietungs-Erlaubnis"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 6.0,
+    "grd": 73600.0,
+    "wfl": 322,
+    "ort": "Esporles",
+    "url": "https://www.idealista.com/inmueble/104113593/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 70000.0,
+    "wfl": 1846,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/107829070/",
+    "titel": "Casa independiente en Ma-3011"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 600,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/108258349/",
+    "titel": "Finca rústica en Ma-5100"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 700,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/108928838/",
+    "titel": "Chalet en calle del Garrover"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 600,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/107946569/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 600,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/105622867/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 15000000.0,
+    "zimmer": 7.0,
+    "grd": 70000.0,
+    "wfl": 600,
+    "ort": "Calvià",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/48f6ef40-62e5-11f0-b3d3-060000000057",
+    "titel": "Exklusive Finca in Calvià mit Ferienvermietungs-Erlaubnis und atemberaubendem Panoramablick"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 600,
+    "ort": "Porreres",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/068d3cc6-4829-11ef-b7c3-060000000057",
+    "titel": "Exklusives Landgut mit Olivenhain, eigenem Weinberg und historischer Substanz zwischen Felanitx und Porreres gelegen\n"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 70000.0,
+    "wfl": 684,
+    "ort": "Porreres",
+    "url": "https://www.luxury-estates-mallorca.com/en/fantastic-finca-in-porreres-with-vineyard-and-olive-grove-lpo2409",
+    "titel": "FANTASTIC FINCA IN PORRERES WITH VINEYARD AND OLIVE GROVE"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 68500.0,
+    "wfl": 1846,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/107777879/",
+    "titel": "Casa independiente en Ma-3011"
+  },
+  {
+    "preis": 7900000.0,
+    "zimmer": 8.0,
+    "grd": 68417.0,
+    "wfl": 872,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/aef4b190-91e5-58cf-a4f5-976441d9fc87",
+    "titel": "Autarke Finca mit Weinberg in Santa Maria (W-029YS4)"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 6.0,
+    "grd": 67500.0,
+    "wfl": 500,
+    "ort": "Esporles",
+    "url": "https://www.idealista.com/inmueble/110388678/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 8.0,
+    "grd": 66129.0,
+    "wfl": 585,
+    "ort": "Santanyí",
+    "url": "https://www.balearic-properties.com/en/property/id/951422-spacious-finca-santanyi-mallorca-html",
+    "titel": "Charming and spacious finca with privacy for sale in Santanyi, Southeast Mallorca"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 5.0,
+    "grd": 62507.0,
+    "wfl": null,
+    "ort": "Andratx",
+    "url": "https://www.kyero.com/en/property/14449091-country-house-for-sale-andratx",
+    "titel": "Country house in Andratx, Mallorca"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 62507.0,
+    "wfl": 496,
+    "ort": "Andratx Pueblo, Andratx",
+    "url": "https://www.idealista.com/inmueble/104014181/",
+    "titel": "Casa independiente en calle del Carme"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 62507.0,
+    "wfl": 596,
+    "ort": "Andratx Pueblo, Andratx",
+    "url": "https://www.idealista.com/inmueble/104089767/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 62507.0,
+    "wfl": 596,
+    "ort": "Andratx",
+    "url": "https://www.balearic-properties.com/en/property/id/885076-hillside-finca-on-a-large-plot-with-guest-house-for-sale-in-andratx-mallorca-html",
+    "titel": "Hillside finca on a large plot with guest house for sale in Andratx, Mallorca"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 5.0,
+    "grd": 62500.0,
+    "wfl": 500,
+    "ort": "Andratx",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/52760498-d8c5-11ef-9e0e-060000000057",
+    "titel": "Finca in Andratx - Autarkes Wohnen in Naturparadies"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 62500.0,
+    "wfl": 496,
+    "ort": "Andratx",
+    "url": "https://www.luxury-estates-mallorca.com/en/traditional-finca-in-andratx-with-mountain-and-sea-views-lpa1740",
+    "titel": "TRADITIONAL FINCA IN ANDRATX WITH MOUNTAIN AND SEA VIEWS"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 61848.0,
+    "wfl": 373,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/74370c16-63f6-53cc-863c-e4c465c16b69",
+    "titel": "Spektakuläre Neubaufinca in Llucmajor (W-02P2GB)"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 61648.0,
+    "wfl": 319,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/0eb96da9-0c6e-5ee8-8157-8746c51009d0",
+    "titel": "Luxuriöses privates Bergparadies mit atemberaubender Aussicht (W-02JQHB)"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 14.0,
+    "grd": 61492.0,
+    "wfl": 730,
+    "ort": "Llubí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/f4a73d88-4e3c-5a37-aca1-72b0c5f4bf8f",
+    "titel": "Luxusanwesen mit absoluter Privatsphäre (W-01Z75V)"
+  },
+  {
+    "preis": 15750000.0,
+    "zimmer": 5.0,
+    "grd": 60375.0,
+    "wfl": 492,
+    "ort": "Andratx",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/a2242945-4113-504c-8df8-e974e1168235",
+    "titel": "Grandioses Anwesen mit Hafenblick (W-02VDHO)"
+  },
+  {
+    "preis": 10800000.0,
+    "zimmer": 8.0,
+    "grd": 60000.0,
+    "wfl": 800,
+    "ort": "Calvià",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/25ece564-9500-11ee-91bc-060000000057",
+    "titel": "Historisches Landhaus mit Pool und 2 Gästehäusern in erhöhter Lage in Es Capdella"
+  },
+  {
+    "preis": 4750000.0,
+    "zimmer": 5.0,
+    "grd": 59980.0,
+    "wfl": 453,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/unique-modern-finca-in-es-carritxo-with-absolute-privacy-lec2615",
+    "titel": "UNIQUE MODERN FINCA IN ES CARRITXÓ WITH ABSOLUTE PRIVACY"
+  },
+  {
+    "preis": 11000000.0,
+    "zimmer": 5.0,
+    "grd": 57108.0,
+    "wfl": 890,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/5f0c4629-5f4d-5a47-865d-2d3f82f6249e",
+    "titel": "Modernes Landhaus: ein neuer Standard für luxuriöses Wohnen (W-02VVSS)"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 5.0,
+    "grd": 53600.0,
+    "wfl": null,
+    "ort": "Balearic Islands",
+    "url": "https://www.rightmove.co.uk/properties/137293505",
+    "titel": "Exclusive finca with a holiday rental license (ETV) located in one of the best and most coveted a..."
+  },
+  {
+    "preis": 5490000.0,
+    "zimmer": 5.0,
+    "grd": 53567.0,
+    "wfl": 685,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/106635600/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 53178.0,
+    "wfl": 890,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/107114144/",
+    "titel": "Casa rural en Diseminado Sa Raconada, 269"
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 7.0,
+    "grd": 52000.0,
+    "wfl": 930,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/01c8cb1a-a745-11ef-9e0e-060000000057",
+    "titel": "Exklusives Landhaus in Alaró: Traumvilla mit Gästehaus, Spa und 20 m Swimming Pool\n"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 51000.0,
+    "wfl": null,
+    "ort": "Sa Ràpita",
+    "url": "—",
+    "titel": "Kreativprojekt Sa Ràpita"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 51000.0,
+    "wfl": 800,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/108238237/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 51000.0,
+    "wfl": 680,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/106134268/",
+    "titel": "Casa independiente en camino Ses Rotes de sa Vinyola"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 5.0,
+    "grd": 50419.0,
+    "wfl": 645,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/109920859/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 9.0,
+    "grd": 50001.0,
+    "wfl": 899,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/96653610/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 50000.0,
+    "wfl": 1092,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/109543012/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 50000.0,
+    "wfl": 1300,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/105722626/",
+    "titel": "Chalet en paseo de Josep Nicolau"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 8.0,
+    "grd": 50000.0,
+    "wfl": 1200,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/97948474/",
+    "titel": "Casa independiente en camino de Son Gelabert"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 9.0,
+    "grd": 50000.0,
+    "wfl": 900,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/99243743/",
+    "titel": "Casa rural en Ds Poligono"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 50000.0,
+    "wfl": 330,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/94536595/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2999000.0,
+    "zimmer": 9.0,
+    "grd": 50000.0,
+    "wfl": 560,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/107666024/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49984.0,
+    "wfl": 990,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/110579301/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49984.0,
+    "wfl": 834,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/108858240/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49984.0,
+    "wfl": 900,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/97761902/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49984.0,
+    "wfl": 800,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/94887247/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49075.0,
+    "wfl": 1092,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/102832278/",
+    "titel": "Cortijo"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49000.0,
+    "wfl": 900,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/96185999/",
+    "titel": "Finca rústica en Polígono 1"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49000.0,
+    "wfl": 600,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/94749517/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 49000.0,
+    "wfl": 600,
+    "ort": "Lloret de Vistalegre",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/767584d1-da7e-11eb-91bc-060000000057",
+    "titel": "Mallorquinisches Anwesen in Lloret de Vistalegre mit schönem Panoramablick und Pool"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 48000.0,
+    "wfl": 900,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/95964432/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 7.0,
+    "grd": 47249.0,
+    "wfl": 1125,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/106130449/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 10.0,
+    "grd": 47249.0,
+    "wfl": 1125,
+    "ort": "Lloret de Vistalegre",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/5c402d19-2575-5a78-aecc-ee1a7261056d",
+    "titel": "Mallorquinische Finca aus dem XIX Jahrhundert (W-02OUPM)"
+  },
+  {
+    "preis": 7995000.0,
+    "zimmer": 5.0,
+    "grd": 47195.0,
+    "wfl": 575,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6190eacd-7648-5c32-82e0-3539657fe4e9",
+    "titel": "Exklusives Landhausprojekt in Binissalem, Mallorca: Ein Meisterwerk mediterraner Architektur (W-0467Y7)"
+  },
+  {
+    "preis": 3850000.0,
+    "zimmer": 5.0,
+    "grd": 46000.0,
+    "wfl": 573,
+    "ort": "Algaida",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c391db02-4182-11ed-91bc-060000000057",
+    "titel": "Zauberhafte Natursteinfinca mit idyllischen Aussenbereichen"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 45000.0,
+    "wfl": 990,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/106922077/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 45000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-son_roca_son_ximelis_son_anglada07011-55011200182_106700/",
+    "titel": "Casa rústica en Son Serra - Sa Vileta"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 45000.0,
+    "wfl": 990,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c15c973c-a372-11ef-9e0e-060000000057",
+    "titel": "Großzügiges Herrenhaus zur renovierung mit Panoramablick nahe La Vileta"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 44500.0,
+    "wfl": 400,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/104714633/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 44500.0,
+    "wfl": 400,
+    "ort": "Santanyí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c0435a82-fe8a-11ee-bc4b-060000000057",
+    "titel": "Exklusives, neues Landhaus nahe dem schönen Dorf Santanyí mit viel Privatsphäre - Einzugsbereit"
+  },
+  {
+    "preis": 3700000.0,
+    "zimmer": 5.0,
+    "grd": 44000.0,
+    "wfl": 450,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/104385484/",
+    "titel": "Casa independiente en plaza Major, 2"
+  },
+  {
+    "preis": 3700000.0,
+    "zimmer": 5.0,
+    "grd": 44000.0,
+    "wfl": 402,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/97829692/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 43000.0,
+    "wfl": 1243,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108858277/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 7000000.0,
+    "zimmer": 5.0,
+    "grd": 42920.0,
+    "wfl": "6,566 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170304230?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Finca on a 42,920 m² plot with 610 m² of living space, five en-suite bedrooms, terraces, garden, and"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 42600.0,
+    "wfl": 1360,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/110268806/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 42600.0,
+    "wfl": 932,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/90928257/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 42600.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-son_roca_son_ximelis_son_anglada07011-60862234965_100500/",
+    "titel": "Casa en Son Roca-Son Ximelis-Son Anglada"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 42600.0,
+    "wfl": 1360,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.rightmove.co.uk/properties/172125662",
+    "titel": "Unique Mansion with Stunning City and Sea Views for Sale in Palma"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 11.0,
+    "grd": 42600.0,
+    "wfl": "14,639 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/172125662?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Unique Mansion with Stunning City and Sea Views for Sale in Palma"
+  },
+  {
+    "preis": 5250000.0,
+    "zimmer": 9.0,
+    "grd": 42000.0,
+    "wfl": 652,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/101462385/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5450000.0,
+    "zimmer": 8.0,
+    "grd": 41597.0,
+    "wfl": 518,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/108858173/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 40094.0,
+    "wfl": 496,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/109394375/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 40094.0,
+    "wfl": 492,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/108856413/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 40094.0,
+    "wfl": 634,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/100125502/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 40094.0,
+    "wfl": 694,
+    "ort": "Sencelles",
+    "url": "https://www.balearic-properties.com/en/property/id/951063-new-finca-peaceful-sencelles-mallorca-html",
+    "titel": "Bright, newly built finca for sale in peaceful Sencelles, Central Mallorca"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 40094.0,
+    "wfl": 634,
+    "ort": "Sencelles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9dde1119-7a18-11ed-91bc-060000000057",
+    "titel": "Wunderschönes neu gebautes Landhaus mit Pool in Sencelles - Einzugsbereit!"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 40094.0,
+    "wfl": 496,
+    "ort": "Sencelles",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/61137de3-d543-5386-9397-cdfa03d0abf3",
+    "titel": "Modernes Bauprojekt – Elegante Finca in Sencelles (W-02EK6I)"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 5.0,
+    "grd": 40000.0,
+    "wfl": 458,
+    "ort": "Lloret de Vista Alegre",
+    "url": "https://www.idealista.com/inmueble/107412691/",
+    "titel": "Casa independiente en Ma-3130"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 40000.0,
+    "wfl": 694,
+    "ort": "Sencelles",
+    "url": "https://www.rightmove.co.uk/properties/169977521",
+    "titel": "Impressive country villa with modern design panoramic views and pool in Sencelles"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 40000.0,
+    "wfl": "7,470 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/169977521?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Impressive country villa with modern design panoramic views and pool in Sencelles"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 39000.0,
+    "wfl": 700,
+    "ort": "Algaida",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b4ab75b8-0ba0-11ef-bc4b-060000000057",
+    "titel": "Traumfinca mit Parkgarten und Gästehaus in ruhiger Lage 15 Minuten von Palma entfernt"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 6.0,
+    "grd": 38871.0,
+    "wfl": 859,
+    "ort": "Genova - Bonanova - Sant Agustí, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/99010664/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 6.0,
+    "grd": 36176.0,
+    "wfl": 673,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/4a65b22e-ac88-5106-a424-cc468d37eb68",
+    "titel": "Finca mit anspruchsvollem Design, Bergblick und Panorama auf die Bucht von Alcúdia (W-046QO1)"
+  },
+  {
+    "preis": 9000000.0,
+    "zimmer": 7.0,
+    "grd": 35915.0,
+    "wfl": 441,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c03fc57e-0302-5acd-a154-66cc2efa226e",
+    "titel": "Eleganter Rückzugsort auf dem Land mit luxuriöser Ausstattung (W-02VVSV)"
+  },
+  {
+    "preis": 8000000.0,
+    "zimmer": 7.0,
+    "grd": 35450.0,
+    "wfl": 732,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/2e07e567-05a6-5aa9-9fd6-77a461ad9807",
+    "titel": "Luxuriöses Landhaus mit großzügigem Außenbereich (W-02VVSW)"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 35000.0,
+    "wfl": 700,
+    "ort": "Alaró",
+    "url": "https://www.balearic-properties.com/en/property/id/742288-luxury-country-villa-alaro-mallorca-html",
+    "titel": "Incredible country house for sale at the foot of the Tramuntana mountains in Alaró, Mallorca"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 35000.0,
+    "wfl": 700,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9c393ece-24ce-11eb-8802-060000000057",
+    "titel": "Premium-Immobilie mit Top Ausblick in Bestlage von Alaro"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 6.0,
+    "grd": 34814.0,
+    "wfl": 371,
+    "ort": "Montuïri",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/3c77cb7b-49ea-5e4e-b75e-ce904d3c0e20",
+    "titel": "Moderne Neubau-Finca mit traumhaftem Blick auf die Tramuntana-Berge (W-02WEF7)"
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 7.0,
+    "grd": 34140.0,
+    "wfl": 700,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c543a9eb-0fd2-5fe5-be98-044ede104086",
+    "titel": "Luxuriöses Neubaulandhaus in privilegierter Lage (W-02NMWM)"
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 5.0,
+    "grd": 34000.0,
+    "wfl": 485,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/79db06d1-c404-11ed-91bc-060000000057",
+    "titel": "Elegante Naturstein-Finca in erhöhter Lage und bester Lage - Fertigstellung 2026"
+  },
+  {
+    "preis": 3125000.0,
+    "zimmer": 5.0,
+    "grd": 33292.0,
+    "wfl": 463,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/new-low-energy-finca-near-es-trenc-in-the-south-of-mallorca-letr1667",
+    "titel": "NEW LOW-ENERGY FINCA NEAR ES TRENC IN THE SOUTH OF MALLORCA"
+  },
+  {
+    "preis": 7800000.0,
+    "zimmer": 5.0,
+    "grd": 33280.0,
+    "wfl": 945,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/819291-luxury-hillside-villa-santa-maria-mallorca-html",
+    "titel": "Luxury hillside villa for sale in the countryside of Santa Maria, Mallorca"
+  },
+  {
+    "preis": 7250000.0,
+    "zimmer": 5.0,
+    "grd": 33210.0,
+    "wfl": 430,
+    "ort": "Calvià",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b1d73b4e-fdc4-11ee-bc4b-060000000057",
+    "titel": "Perfekte Harmonie: Traumhaftes Landhaus am Fuße der Tramuntana-Berge in Calvia mit Oliven-, Mandel- und Weinanbau"
+  },
+  {
+    "preis": 25000000.0,
+    "zimmer": 22.0,
+    "grd": 31956.0,
+    "wfl": 2576,
+    "ort": "Llucmajor",
+    "url": "https://www.rightmove.co.uk/properties/165100778",
+    "titel": "Elegant private country estate with panoramic views, extensive grounds, and luxurious living spac..."
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 7.0,
+    "grd": 31900.0,
+    "wfl": 636,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/102364990/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 7950000.0,
+    "zimmer": 6.0,
+    "grd": 31858.0,
+    "wfl": 806,
+    "ort": "Calvià",
+    "url": "https://www.balearic-properties.com/en/property/id/812613-estate-horseriding-calvia-mallorca-html",
+    "titel": "Magnificent finca on extensive private plot for sale in Calvia, Mallorca"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 31850.0,
+    "wfl": 403,
+    "ort": "Ses Covetes",
+    "url": "—",
+    "titel": "Neubaufinca Ses Covetes - Nähe Es Trenc"
+  },
+  {
+    "preis": 7950000.0,
+    "zimmer": 7.0,
+    "grd": 31800.0,
+    "wfl": 885,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/834498-impressive-country-estate-vineyard-santa-maria-mallorca-html",
+    "titel": "Impressive country estate with vineyard for sale in Santa Maria, Mallorca"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 31621.0,
+    "wfl": 600,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/107420981/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 31600.0,
+    "wfl": 815,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/109936136/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 7000000.0,
+    "zimmer": 5.0,
+    "grd": 31276.0,
+    "wfl": 457,
+    "ort": "Andratx",
+    "url": "https://www.luxury-estates-mallorca.com/en/charming-country-house-in-puerto-andratx-with-spectacular-views-lpa1594",
+    "titel": "CHARMING COUNTRY HOUSE IN PUERTO ANDRATX WITH SPECTACULAR VIEWS"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 31000.0,
+    "wfl": 607,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/104827967/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 31000.0,
+    "wfl": 520,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/869647-eco-friendly-private-villa-with-holiday-license-for-sale-in-santa-maria-mallorca-html",
+    "titel": "Eco friendly private villa with holiday license for sale in Santa Maria, Mallorca"
+  },
+  {
+    "preis": 6180000.0,
+    "zimmer": 6.0,
+    "grd": 31000.0,
+    "wfl": 450,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e928d9c3-22b8-11ec-91bc-060000000057",
+    "titel": "Erstklassige Neubau-Finca mit atemberaubendem Blick bei Alaro - bezugsfertig im Frühling 2025!"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30587.0,
+    "wfl": 307,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/97039897/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30587.0,
+    "wfl": 307,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/107211475/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30587.0,
+    "wfl": 307,
+    "ort": "Porreres",
+    "url": "https://www.balearic-properties.com/en/property/id/825128-finca-holiday-license-tennis-court-porreres-mallorca-html",
+    "titel": "Country oasis with holiday rental license and tennis court for sale in Porreres, Mallorca"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30580.0,
+    "wfl": 400,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/107006222/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30580.0,
+    "wfl": 400,
+    "ort": "Porreres",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/6bb26756-2e86-11ed-91bc-060000000057",
+    "titel": "Schöne Finca mit Ferienvermietungs-Erlaubnis und eigenem Tennisplatz bei Porreres"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30508.0,
+    "wfl": 401,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/97884590/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 30500.0,
+    "wfl": 700,
+    "ort": "Porreres",
+    "url": "https://www.idealista.com/inmueble/101965448/",
+    "titel": "Casa independiente en camino de Banyeres, 441"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 30409.0,
+    "wfl": 656,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e18cf5f5-5511-11ed-91bc-060000000057",
+    "titel": "Traumhaftes Landhaus zwischen Alaró und Santa Maria"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 5.0,
+    "grd": 30100.0,
+    "wfl": 602,
+    "ort": "Bunyola",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/a676a999-f401-11ed-91bc-060000000057",
+    "titel": "Repräsentatives Landhaus zwischen Santa Maria del Cami und Bunyola zum Kauf mit Ferienlizenz und separatem Gästetrakt"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 9.0,
+    "grd": 30100.0,
+    "wfl": 520,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/464aa1da-185d-5e1e-8cc7-23bf912e875b",
+    "titel": "Ihr Privates Paradies: Wo zeitlose Eleganz auf nachhaltigen Luxus trifft (W-02PSL1)"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 444,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/110596745/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3975000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 500,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/106549690/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 533,
+    "ort": "Sa Ràpita",
+    "url": "https://www.idealista.com/inmueble/109467637/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 500,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/110319830/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 620,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/109602000/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5250000.0,
+    "zimmer": 9.0,
+    "grd": 30000.0,
+    "wfl": 1010,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/110401623/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 660,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/85513371/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 660,
+    "ort": "Alqueria Blanca",
+    "url": "https://www.balearic-properties.com/en/property/id/766153-alqueria-blanca-finca-html",
+    "titel": "Country property with holiday rental license for sale in Alqueria Blanca, Mallorca"
+  },
+  {
+    "preis": 7950000.0,
+    "zimmer": 6.0,
+    "grd": 30000.0,
+    "wfl": "4,521 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170074088?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Charming country home in an excellent location in Calvia. If you want to enjoy the tranquil country "
+  },
+  {
+    "preis": 2975000.0,
+    "zimmer": 6.0,
+    "grd": 30000.0,
+    "wfl": 478,
+    "ort": "Sineu",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/72c65e6c-33ac-5c4f-a93b-bd91fea95005",
+    "titel": "Exklusive Luxusfinca in Sineu mit Nebengebäude: mediterrane Eleganz (W-02UVAD)"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 5.0,
+    "grd": 30000.0,
+    "wfl": 600,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/natural-stone-finca-in-mallorca-with-distant-views-absolute-privacy-and-rental-license-lbun3",
+    "titel": "NATURAL STONE FINCA IN MALLORCA WITH DISTANT VIEWS, ABSOLUTE PRIVACY AND RENTAL LICENSE"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29307.0,
+    "wfl": null,
+    "ort": "Sta. Maria",
+    "url": "—",
+    "titel": "Santa Maria unfertig"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29307.0,
+    "wfl": 450,
+    "ort": "Santa Eugenia",
+    "url": "https://www.idealista.com/inmueble/109971477/",
+    "titel": "Casa independiente en Ma-3020 s/n"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29307.0,
+    "wfl": 319,
+    "ort": "Santa Eugenia",
+    "url": "https://www.idealista.com/inmueble/108116652/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29307.0,
+    "wfl": 319,
+    "ort": "Santa Eugenia",
+    "url": "https://www.idealista.com/inmueble/107125608/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29307.0,
+    "wfl": 500,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/106300856/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 5.0,
+    "grd": 29242.0,
+    "wfl": null,
+    "ort": "Santanyí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/a17a4c57-cdea-53bc-83e9-157f3ff1f28e",
+    "titel": "Exklusive Finca am Rande des Naturparks Mondragó (W-02L5L4)"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29000.0,
+    "wfl": 400,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/108997521/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29000.0,
+    "wfl": 300,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/107041510/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 9950000.0,
+    "zimmer": 7.0,
+    "grd": 29000.0,
+    "wfl": 1000,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/067d6d16-b639-11f0-b3d3-060000000057",
+    "titel": "Makelloses, brandneues Finca-Anwesen in Alaró mit Traumblick auf die Berge grossem, separatem Gästehaus - bezugsfertig"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 29000.0,
+    "wfl": 400,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/1c589803-618f-11f0-b3d3-060000000057",
+    "titel": "Exklusive Neubaufinca mit Swimmingpool & Panoramablick und Gästeapartment in Santa Maria - Bezugsfertig!"
+  },
+  {
+    "preis": 3700000.0,
+    "zimmer": 5.0,
+    "grd": 28924.0,
+    "wfl": null,
+    "ort": "Sant Josep de sa Talaia",
+    "url": "https://www.pisos.com/comprar/chalet-sant_josep_de_sa_talaia_centro_urbano-40032624840_108900/",
+    "titel": "Chalet en San Jose"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 28400.0,
+    "wfl": 550,
+    "ort": "Portopetro, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109262786/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 8.0,
+    "grd": 28285.0,
+    "wfl": 1180,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/107530363/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 28129.0,
+    "wfl": 575,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/863b1fa9-3fff-5773-b338-6b7fdf26c43f",
+    "titel": "Moderne Neubau Finca mit Pool in Llucmajor (W-02VXFA)"
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 28000.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/19765507-country-house-for-sale-felanitx",
+    "titel": "Finca in Felanitx, Mallorca"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 28000.0,
+    "wfl": 696,
+    "ort": "S'Alquería Blanca - Calonge, Santanyí",
+    "url": "https://www.idealista.com/inmueble/106600830/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 28000.0,
+    "wfl": 615,
+    "ort": "Algaida",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9b5991ab-69b1-11ee-91bc-060000000057",
+    "titel": "Großes Landhaus mit Pool, separatem Nebengebäude und Ferienvermietungserlaubnis bei Algaida"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 8.0,
+    "grd": 27760.0,
+    "wfl": 796,
+    "ort": "Son Ametller, Marratxi",
+    "url": "https://www.idealista.com/inmueble/108342254/",
+    "titel": "Finca rústica en Urbanització Afor Urbanización son Ametler"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 27550.0,
+    "wfl": 750,
+    "ort": "Portopetro, Santanyí",
+    "url": "https://www.idealista.com/inmueble/103754205/",
+    "titel": "Finca rústica en camino De Sa Cova Des Gat"
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 26500.0,
+    "wfl": 777,
+    "ort": "Cas Concos",
+    "url": "https://www.balearic-properties.com/en/property/id/871545-magnificent-country-mansion-felanitx-mallorca-html",
+    "titel": "Stunning country estate for sale in a picturesque area of Felanitx, Mallorca"
+  },
+  {
+    "preis": 3890000.0,
+    "zimmer": 5.0,
+    "grd": 26258.0,
+    "wfl": 913,
+    "ort": "Cala Murada",
+    "url": "https://www.balearic-properties.com/en/property/id/907717-beautiful-finca-rental-license-cala-murada-html",
+    "titel": "Beautiful finca with holiday license for sale close to Cala Murada, Mallorca"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 17.0,
+    "grd": 26000.0,
+    "wfl": 2000,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/95288523/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 8400000.0,
+    "zimmer": 8.0,
+    "grd": 26000.0,
+    "wfl": 1000,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/6a8f4f6b-484a-11ec-91bc-060000000057",
+    "titel": "Spektakulärer Landsitz mit unvergleichlich schönem Blick auf die Zwillingsberge von Alaró"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 17.0,
+    "grd": 26000.0,
+    "wfl": 2000,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b475a39b-24ce-11eb-8802-060000000057",
+    "titel": "Einzigartiges Finca-Anwesen mit Agroturismo-Erlaubnis in Alaró"
+  },
+  {
+    "preis": 7975000.0,
+    "zimmer": 7.0,
+    "grd": 26000.0,
+    "wfl": 1100,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/a7876350-24cc-11eb-8802-060000000057",
+    "titel": "Komplett renoviertes, historisches Finca-Anwesen mit eigener Olivenölproduktion in Bestlage von Santa María del Camí"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 5.0,
+    "grd": 25000.0,
+    "wfl": 438,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/94860947/",
+    "titel": "Finca rústica en Diseminado Varis, 26"
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 25000.0,
+    "wfl": null,
+    "ort": "Carrer de Cas Concos",
+    "url": "https://www.rightmove.co.uk/properties/170770907",
+    "titel": "Luxury Estate for Sale in Cas Concos, Southeast MallorcaThis exceptional Mallorca villa is set on..."
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 25000.0,
+    "wfl": null,
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170770907?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Luxury Estate for Sale in Cas Concos, Southeast MallorcaThis exceptional Mallorca villa is set on a "
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 7.0,
+    "grd": 25000.0,
+    "wfl": "3,767 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170475902?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Charming finca with guest house, pool and rental license between Campos and Felanitx"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 7.0,
+    "grd": 24716.0,
+    "wfl": 448,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/108507289/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 10.0,
+    "grd": 24716.0,
+    "wfl": 448,
+    "ort": "Petra",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c4b2affa-bc44-59ed-9e9f-99597c6520c5",
+    "titel": "Charmante Naturstein-Finca mit atemberaubendem Weitblick (W-02JNUK)"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 7.0,
+    "grd": 24000.0,
+    "wfl": 450,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/110700019/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 23457.0,
+    "wfl": 621,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/109933367/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 8.0,
+    "grd": 23457.0,
+    "wfl": 565,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/106342272/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 23457.0,
+    "wfl": 621,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/108808336/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 10.0,
+    "grd": 23457.0,
+    "wfl": 565,
+    "ort": "Algaida",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/12a475d6-439f-509b-94ae-e79421d5b2a6",
+    "titel": "Elegante Finca im rustikalen Stil mit Panoramablick (W-02MRTU)"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 23418.0,
+    "wfl": 379,
+    "ort": "Binissalem",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c5f17c23-77ed-5075-87ce-aad8e9bbc49c",
+    "titel": "Landhaus mit Ferienvermietlizenz in Binissalem (W-0224BW)"
+  },
+  {
+    "preis": 14500000.0,
+    "zimmer": 9.0,
+    "grd": 23406.0,
+    "wfl": 686,
+    "ort": "Bunyola",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/89162e36-ea55-595e-91d9-8863f1a2c855",
+    "titel": "Moderne Neubauvilla mit 360° Blick – exklusives Anwesen bei Palma (W-02F7JJ)"
+  },
+  {
+    "preis": 7900000.0,
+    "zimmer": 6.0,
+    "grd": 23332.0,
+    "wfl": 557,
+    "ort": "Sineu",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/10d61a03-644b-59be-846f-f57411d10166",
+    "titel": "Design-Landhaus mit herrlichem Blick in Sineu (W-02S3JQ)"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 5.0,
+    "grd": 23314.0,
+    "wfl": 393,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109831644/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 6.0,
+    "grd": 23314.0,
+    "wfl": null,
+    "ort": "Santanyí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/41ef5187-036c-526b-9aed-02ae0140defd",
+    "titel": "Authentische Neubaufinca in Meeresnähe und außergewöhnlicher Lage in Porto Petro (W-04724I)"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 23000.0,
+    "wfl": 330,
+    "ort": "Marratxí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e63246ad-726c-11ee-91bc-060000000057",
+    "titel": "Finca-Neubaupojekt in der Nähe von Palma und Santa Maria"
+  },
+  {
+    "preis": 7900000.0,
+    "zimmer": 5.0,
+    "grd": 23000.0,
+    "wfl": 700,
+    "ort": "Sineu",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/66935bd7-011d-11ee-91bc-060000000057",
+    "titel": "Aussergewöhnliches Anwesen mit traumhaftem Blick in Sineu"
+  },
+  {
+    "preis": 14500000.0,
+    "zimmer": 6.0,
+    "grd": 23000.0,
+    "wfl": 1850,
+    "ort": "Bunyola",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/036e994e-d2f0-11ed-91bc-060000000057",
+    "titel": "Einzigartiges Projekt in Bestlage zwischen Santa Maria del Camì und Bunyola - Fertigstellung Sommer 2026"
+  },
+  {
+    "preis": 5750000.0,
+    "zimmer": 5.0,
+    "grd": 23000.0,
+    "wfl": 362,
+    "ort": "Marratxí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c0855588-2594-5556-9596-b6ed5c9f01fb",
+    "titel": "Ein zeitgenössisches Projekt für einen Rückzugsort nahe des Tramuntana-Gebirges auf Mallorca (W-02ZLJI)"
+  },
+  {
+    "preis": 4990000.0,
+    "zimmer": 7.0,
+    "grd": 22500.0,
+    "wfl": 490,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/110672183/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4999999.0,
+    "zimmer": 7.0,
+    "grd": 22500.0,
+    "wfl": 492,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/105885873/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4999999.0,
+    "zimmer": 8.0,
+    "grd": 22500.0,
+    "wfl": 492,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/baaa570e-8983-5bea-9507-11fdcfb53fba",
+    "titel": "Wunderschöne Villa mit fantastischem Blick auf Selva (W-02WIWC)"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 5.0,
+    "grd": 22453.0,
+    "wfl": 421,
+    "ort": "Sencelles",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d37baea7-19ee-5502-8d23-ab7654c6b663",
+    "titel": "Ein architektonisches Juwel für Weinliebhaber (W-02SHPM)"
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 22350.0,
+    "wfl": 650,
+    "ort": "Palma",
+    "url": "https://www.idealista.com/inmueble/110672146/",
+    "titel": "calle Albercuix – chalet"
+  },
+  {
+    "preis": 5650000.0,
+    "zimmer": 6.0,
+    "grd": 22350.0,
+    "wfl": 650,
+    "ort": "Son Vida, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/110672146/",
+    "titel": "Casa independiente en calle Albercuix"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 22078.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/18592573-villa-for-sale-marratxinet-marratxi",
+    "titel": "Villa in Marratxinet (Marratxi), Mallorca"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 5.0,
+    "grd": 22000.0,
+    "wfl": 437,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109973057/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4995000.0,
+    "zimmer": 10.0,
+    "grd": 22000.0,
+    "wfl": 600,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/106095310/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4995000.0,
+    "zimmer": 7.0,
+    "grd": 22000.0,
+    "wfl": 557,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/105615008/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 22000.0,
+    "wfl": 1216,
+    "ort": "Montuïri",
+    "url": "https://www.rightmove.co.uk/properties/161279327",
+    "titel": "Luxurious, eco-friendly finca set on 22,000m2 plot in Montuiri, Majorca. Features 6 bedrooms, 6 b..."
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 22000.0,
+    "wfl": "13,089 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/165318779?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Exclusive, fully renovated luxury estate in Montuïri, Mallorca - an oasis of elegance, space, and na"
+  },
+  {
+    "preis": 4995000.0,
+    "zimmer": 10.0,
+    "grd": 22000.0,
+    "wfl": 600,
+    "ort": "Selva",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/8d6bfa1f-7c02-11ef-9e0e-060000000057",
+    "titel": "Einzigartiges Anwesen in Selva: Ihr exklusives Zuhause inmitten der Natur"
+  },
+  {
+    "preis": 9500000.0,
+    "zimmer": 5.0,
+    "grd": 22000.0,
+    "wfl": 670,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/5ed7b292-1197-11ed-91bc-060000000057",
+    "titel": "Premium-Anwesen in Bestlage und herausragendem Ausblick bis auf das Meer"
+  },
+  {
+    "preis": 7600000.0,
+    "zimmer": 5.0,
+    "grd": 21856.0,
+    "wfl": 889,
+    "ort": "Sencelles",
+    "url": "https://www.balearic-properties.com/en/property/id/930932-finca-guest-house-sencelles-mallorca-html",
+    "titel": "Newly built country estate for sale in Sencelles, Central Mallorca"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 6.0,
+    "grd": 21484.0,
+    "wfl": 1058,
+    "ort": "Caimari",
+    "url": "https://www.balearic-properties.com/en/property/id/948538-country-villa-rental-license-caimari-mallorca-html",
+    "titel": "Country villa with holiday license for sale in Caimari, Central Mallorca"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 21433.0,
+    "wfl": 452,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6a65603b-a833-586d-b339-fd583a040ae9",
+    "titel": "Einzigartige und exklusive Finca in Llucmajor (W-02WGDB)"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 8.0,
+    "grd": 21390.0,
+    "wfl": 565,
+    "ort": "Algaida",
+    "url": "https://www.idealista.com/inmueble/97714555/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 21309.0,
+    "wfl": 468,
+    "ort": "Santanyí",
+    "url": "https://www.luxury-estates-mallorca.com/en/spacious-country-house-near-santanyi-mallorca-lsy1474",
+    "titel": "SPACIOUS COUNTRY HOUSE NEAR SANTANYÍ MALLORCA"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 8.0,
+    "grd": 21300.0,
+    "wfl": 990,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107796985/",
+    "titel": "Casa independiente en camino de Cas Patró Lau"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 21256.0,
+    "wfl": 674,
+    "ort": "Cala Santanyí, Santanyí",
+    "url": "https://www.idealista.com/inmueble/101567809/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 5.0,
+    "grd": 21199.0,
+    "wfl": 341,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/0731f52f-600b-5457-95dd-c247864f49c3",
+    "titel": "Wunderschönes modernes Landhaus in Santa María (W-02SQ6A)"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 5.0,
+    "grd": 21133.0,
+    "wfl": 285,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/e5899a52-88da-5d11-af0e-fdb9e88266a8",
+    "titel": "Spektakuläres Anwesen inmitten der Natur in Llucmajor (W-02MPHW)"
+  },
+  {
+    "preis": 4200000.0,
+    "zimmer": 6.0,
+    "grd": 21100.0,
+    "wfl": 402,
+    "ort": "Llucmajor interior",
+    "url": "https://www.balearic-properties.com/en/property/id/924698-new-finca-privacy-llucmajor-mallorca-html",
+    "titel": "Newly built finca with full privacy for sale in Llucmajor, Mallorca southeast"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 21049.0,
+    "wfl": 539,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d181d138-6854-506d-ab70-8f9f2f317f06",
+    "titel": "Weitblick und Ruhe: Mediterrane Finca-Oase - wo großzügige Eleganz auf modernes Wohnen trifft (W-02ZKZV)"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 21000.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/106107249/",
+    "titel": "Finca rústica en camino de Cas Patró Lau"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 21000.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/106690612/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 21000.0,
+    "wfl": 965,
+    "ort": "Biniaraix",
+    "url": "https://www.balearic-properties.com/en/property/id/920753-two-fincas-with-holiday-rental-licence-in-biniaraix-for-sale-mallorca",
+    "titel": "Two fincas with holiday rental licence in Biniaraix for sale, Mallorca"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 21000.0,
+    "wfl": 965,
+    "ort": "Sóller",
+    "url": "https://www.rightmove.co.uk/properties/162277661",
+    "titel": "Two fincas, each with a holiday rental licences and pool in Biniaraix, Mallorca"
+  },
+  {
+    "preis": 3750000.0,
+    "zimmer": 6.0,
+    "grd": 21000.0,
+    "wfl": 570,
+    "ort": "Llucmajor",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/66b7be9c-4c67-11f0-b3d3-060000000057",
+    "titel": "Neubau-Finca mit sechs Schlafzimmern und Pool in Llucmajor"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 6.0,
+    "grd": 21000.0,
+    "wfl": 700,
+    "ort": "Selva",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/00a17de6-0b7b-11ee-91bc-060000000057",
+    "titel": "Historisches Juwel mit Panoramablick in Gehweite nach Caimari"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 20899.0,
+    "wfl": 1216,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/luxury-finca-in-mallorca-with-pool-and-vacation-rental-license-in-central-location-lmt1816",
+    "titel": "LUXURY FINCA IN MALLORCA WITH POOL AND VACATION RENTAL LICENSE IN CENTRAL LOCATION"
+  },
+  {
+    "preis": 8500000.0,
+    "zimmer": 6.0,
+    "grd": 20878.0,
+    "wfl": 800,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/8d95feb4-ba10-11ee-91bc-060000000057",
+    "titel": "Stylische Finca zum Erstbezug in Lauflage zum Ort und Bergblick in Santa Maria - Bezugsbereit im Frühling / Sommer 2026!"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20724.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107019749/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 20600.0,
+    "wfl": 475,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/105042091/",
+    "titel": "Finca rústica en Diseminado Sector 2"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 20500.0,
+    "wfl": 530,
+    "ort": "Es Garrovers, Marratxi",
+    "url": "https://www.idealista.com/inmueble/109932755/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 20500.0,
+    "wfl": 440,
+    "ort": "Es Garrovers, Marratxi",
+    "url": "https://www.idealista.com/inmueble/109042712/",
+    "titel": "Finca rústica en camino de Sa Fita, 4"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 12.0,
+    "grd": 20462.0,
+    "wfl": 1018,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/renovated-hotel-in-natural-stone-with-pool-near-the-beach-in-the-south-of-mallorca-lh11-1",
+    "titel": "RENOVATED HOTEL IN NATURAL STONE WITH POOL NEAR THE BEACH IN THE SOUTH OF MALLORCA"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 20262.0,
+    "wfl": 762,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/104983331/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 20262.0,
+    "wfl": 914,
+    "ort": "Son Oliva - Plaza Toros - Camp Redó, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/106859024/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 20262.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-establiments-55042116325_106700/",
+    "titel": "Casa rústica en Establiments"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 5.0,
+    "grd": 20262.0,
+    "wfl": 762,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/ae18976a-1445-11ef-b7c3-060000000057",
+    "titel": "Elegantes renoviertes mallorquinisches Herrenhaus mit Panoramablick in Establiments, nahe Palma"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20154.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/101968785/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20150.0,
+    "wfl": 21115,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/109723517/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20150.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107155990/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20150.0,
+    "wfl": 965,
+    "ort": "Sóller",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/ef6762e7-0a8a-11ee-91bc-060000000057",
+    "titel": "Spekatakuläres Finca Anwesen mit zwei Häusern und Ferienvermietungs Erlaubnis in Biniaraix"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 5.0,
+    "grd": 20000.0,
+    "wfl": 421,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/103293851/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3650000.0,
+    "zimmer": 5.0,
+    "grd": 20000.0,
+    "wfl": 500,
+    "ort": "S'Alquería Blanca - Calonge, Santanyí",
+    "url": "https://www.idealista.com/inmueble/107017029/",
+    "titel": "Casa independiente en Ma-4012, 49"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 10.0,
+    "grd": 20000.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/107326633/",
+    "titel": "Chalet pareado en carretera Diseminado Sector Num 4"
+  },
+  {
+    "preis": 4750000.0,
+    "zimmer": 10.0,
+    "grd": 20000.0,
+    "wfl": 965,
+    "ort": "Soller",
+    "url": "https://www.idealista.com/inmueble/104295053/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 5.0,
+    "grd": 20000.0,
+    "wfl": 470,
+    "ort": "Marratxí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/8d1b910f-f454-11ef-9e0e-060000000057",
+    "titel": "Große, komplett renovierte, lichtdurchflutete Finca mit Pferdestall in Marratxí"
+  },
+  {
+    "preis": 7775000.0,
+    "zimmer": 6.0,
+    "grd": 20000.0,
+    "wfl": 780,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/4524a33e-71a1-11ee-91bc-060000000057",
+    "titel": "Design-Finca in der besten Lage von Santa Maria"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 20000.0,
+    "wfl": 566,
+    "ort": "Montuïri",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/2e2284d0-027d-11ed-91bc-060000000057",
+    "titel": "Vollständig renovierte Luxus-Finca am Rande von Montuïri"
+  },
+  {
+    "preis": 5200000.0,
+    "zimmer": 7.0,
+    "grd": 20000.0,
+    "wfl": 1200,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/971ce122-24ce-11eb-8802-060000000057",
+    "titel": "Atemberaubendes, komplett renoviertes Herrenhaus in Alaro"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 5.0,
+    "grd": 19821.0,
+    "wfl": 399,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/110029454/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 19811.0,
+    "wfl": null,
+    "ort": "Moscari",
+    "url": "—",
+    "titel": "Contemporary Moscari"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 10.0,
+    "grd": 19811.0,
+    "wfl": 832,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/b9eae846-4335-5890-b790-7a7b8bebd3d9",
+    "titel": "Wo zeitgenössisches Design in perfekter Harmonie mit der mediterranen Landschaft verschmilzt (W-02NQDS)"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 6.0,
+    "grd": 19533.0,
+    "wfl": null,
+    "ort": "Santanyí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/57e3bc2f-2ba6-5ef9-8938-4bee02c0c78f",
+    "titel": "Ebenerdige Neubaufinca vor den Toren Santanyis (W-02J4NY)"
+  },
+  {
+    "preis": 4300000.0,
+    "zimmer": 7.0,
+    "grd": 19347.0,
+    "wfl": 794,
+    "ort": "Inca",
+    "url": "https://www.balearic-properties.com/en/property/id/935195-modern-finca-mountain-views-inca-mallorca-html",
+    "titel": "Finca under construction with panoramic mountain views for sale in Inca, Central Mallorca"
+  },
+  {
+    "preis": 4300000.0,
+    "zimmer": 7.0,
+    "grd": 19347.0,
+    "wfl": 794,
+    "ort": "Inca",
+    "url": "https://www.rightmove.co.uk/properties/165100754",
+    "titel": "Peaceful country estate with mountain views and guest house near Inca"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 7.0,
+    "grd": 19000.0,
+    "wfl": 495,
+    "ort": "Esporles",
+    "url": "https://www.idealista.com/inmueble/104624063/",
+    "titel": "Masía en Diseminado Pol 3, 427"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 8.0,
+    "grd": 18900.0,
+    "wfl": 830,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/109031663/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 7.0,
+    "grd": 18899.0,
+    "wfl": 834,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/105693364/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 10.0,
+    "grd": 18457.0,
+    "wfl": 604,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/105110115/",
+    "titel": "Casa rural en camino Vell de Cala Pi"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 18457.0,
+    "wfl": 642,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/42a4e3af-4025-5dae-93ed-06a5e4d2ad89",
+    "titel": "Beeindruckende Finca mit ETV-Lizenz (W-02U57P)"
+  },
+  {
+    "preis": 3390000.0,
+    "zimmer": 5.0,
+    "grd": 18450.0,
+    "wfl": 462,
+    "ort": "Porreres",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/5011d818-1c92-11ed-91bc-060000000057",
+    "titel": "Autarke Finca mit exklusivem Design, ausgerichtet nach Feng Shui, mit Meerblick bei Porreres"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 8.0,
+    "grd": 18379.0,
+    "wfl": 54,
+    "ort": "Santanyí ,Finca",
+    "url": "https://sandberg-estates.com/properties/newly-built-finca-for-sale-in-santanyi",
+    "titel": "Newly Built Finca for Sale in Santanyi"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 5.0,
+    "grd": 18379.0,
+    "wfl": 529,
+    "ort": "Santanyí",
+    "url": "https://www.balearic-properties.com/en/property/id/937029-country-estate-santanyi-mallorca-html",
+    "titel": "Impressive country estate for sale in Santanyí, southeast Mallorca"
+  },
+  {
+    "preis": 5400000.0,
+    "zimmer": 5.0,
+    "grd": 18379.0,
+    "wfl": 529,
+    "ort": "Santanyí",
+    "url": "https://www.rightmove.co.uk/properties/162156182",
+    "titel": "Country estate with pool, gym, spa, pool house and luxury features in Santanyí"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 11.0,
+    "grd": 18367.0,
+    "wfl": 430,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/264f3b0d-97f3-5240-9d05-6b459566c50c",
+    "titel": "Wunderschönes vollständig renoviertes Landhaus in traumhafter Lage (W-02WANF)"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 18191.0,
+    "wfl": 392,
+    "ort": "Andratx Pueblo, Andratx",
+    "url": "https://www.idealista.com/inmueble/91974863/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 18191.0,
+    "wfl": 392,
+    "ort": "Andratx Pueblo, Andratx",
+    "url": "https://www.idealista.com/inmueble/109409050/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 18191.0,
+    "wfl": 392,
+    "ort": "S´Arraco",
+    "url": "https://www.balearic-properties.com/en/property/id/801104-luxury-country-home-andratx-mallorca-html",
+    "titel": "Luxurious country house for sale close to S´Arracó, Puerto Andratx, Mallorca"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 18191.0,
+    "wfl": 392,
+    "ort": "Sant Elm",
+    "url": "https://www.balearic-properties.com/en/property/id/951314-luxury-country-home-andratx-mallorca-html",
+    "titel": "Luxurious country house for sale close to Sant Elm, Andratx"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 6.0,
+    "grd": 18191.0,
+    "wfl": 259,
+    "ort": "Andratx",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/425cbef4-a614-5ec9-97c3-a07da40f6cfe",
+    "titel": "Charmante Finca mit Pool (W-02N9E4)"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 18000.0,
+    "wfl": 569,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/107832984/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 9.0,
+    "grd": 18000.0,
+    "wfl": 430,
+    "ort": "Llucmajor",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/03c7d858-3ad4-11f0-b3d3-060000000057",
+    "titel": "Großzügiges Landhaus in Llucmajor - Ideal für Mehrgenerationen, Großfamilien oder exklusive Firmenveranstaltungen"
+  },
+  {
+    "preis": 3150000.0,
+    "zimmer": 5.0,
+    "grd": 17943.0,
+    "wfl": 703,
+    "ort": "Portopetro, Santanyí",
+    "url": "https://www.idealista.com/inmueble/90928182/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 6.0,
+    "grd": 17925.0,
+    "wfl": 376,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/104588981/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 6.0,
+    "grd": 17925.0,
+    "wfl": 680,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/106196003/",
+    "titel": "Casa rural en camino Path Diseminado Poligono 4, 75"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17759.0,
+    "wfl": 464,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/110604695/",
+    "titel": "Casa independiente en Diseminado Poligono 10, 392"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 336,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/110674021/",
+    "titel": "Casa independiente en calle Sebastián Vila"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 488,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/107015241/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 480,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/90928128/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 350,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/102364183/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 464,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/101977642/",
+    "titel": "Finca rústica en carretera Diseminado Sector Num 2"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 430,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/96758025/",
+    "titel": "Finca rústica en Diseminado Poligono 4"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 17758.0,
+    "wfl": 430,
+    "ort": "Santanyí",
+    "url": "https://www.balearic-properties.com/en/property/id/851284-luxury-finca-panoramic-views-santanyi-mallorca-html",
+    "titel": "New luxury finca with panoramic views for sale in the countryside near Santanyí, Mallorca"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 6.0,
+    "grd": 17758.0,
+    "wfl": null,
+    "ort": "Santanyí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/185be19f-fc59-57e3-a839-23b9372fda80",
+    "titel": "Schöne Neubaufinca mit mediterranem Charme (W-02J2M1)"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 7.0,
+    "grd": 17700.0,
+    "wfl": 830,
+    "ort": "S'Alquería Blanca - Calonge, Santanyí",
+    "url": "https://www.idealista.com/inmueble/108040453/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 17526.0,
+    "wfl": 380,
+    "ort": "Son Carrio",
+    "url": "https://www.idealista.com/inmueble/108680791/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17500.0,
+    "wfl": 430,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/108894190/",
+    "titel": "Chalet en calle Castelnovo"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 17480.0,
+    "wfl": 488,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/106881493/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 17479.0,
+    "wfl": 490,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/109134382/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 17479.0,
+    "wfl": 475,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/107898056/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6000000.0,
+    "zimmer": 6.0,
+    "grd": 17335.0,
+    "wfl": 494,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/52e0d12a-c615-53bb-892f-4c3b9f15ba2e",
+    "titel": "Atemberaubendes Landhaus mit ETV- Lizenz (W-00AC49)"
+  },
+  {
+    "preis": 6800000.0,
+    "zimmer": 6.0,
+    "grd": 17332.0,
+    "wfl": 663,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9b43bb83-24cc-11eb-8802-060000000057",
+    "titel": "Einmaliges Finca-Anwesen mit Gästeapartment und spektakulärem Ausblick, in Alleinlage on top of the hill zwischen Alaro und Santa Maria del Camí"
+  },
+  {
+    "preis": 6800000.0,
+    "zimmer": 8.0,
+    "grd": 17332.0,
+    "wfl": 663,
+    "ort": "Alaró",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d10f568d-14a5-5af1-8869-8c28c61cbc7e",
+    "titel": "Luxuriöse Finca mit beeindruckender Aussicht (W-02AQI5)"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 6.0,
+    "grd": 17080.0,
+    "wfl": 511,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/5e725c6a-349d-5ee7-b862-c489edebe57b",
+    "titel": "Authentisches mediterranes Landhaus mit Blick auf die Berge und das Dorf (W-046YNX)"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 5.0,
+    "grd": 17066.0,
+    "wfl": 499,
+    "ort": "Puigpunyent",
+    "url": "https://www.idealista.com/inmueble/109790700/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 5.0,
+    "grd": 17000.0,
+    "wfl": 449,
+    "ort": "Puigpunyent",
+    "url": "https://www.idealista.com/inmueble/105913048/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4450000.0,
+    "zimmer": 5.0,
+    "grd": 17000.0,
+    "wfl": 460,
+    "ort": "Llucmajor",
+    "url": "https://www.balearic-properties.com/en/property/id/954221-private-retreat-with-excellent-facilies-for-sale-in-llucmajor-south-mallorca",
+    "titel": "Private retreat with excellent facilies for sale in Llucmajor, South Mallorca"
+  },
+  {
+    "preis": 4450000.0,
+    "zimmer": 5.0,
+    "grd": 17000.0,
+    "wfl": 460,
+    "ort": "Llucmajor",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/e023db9b-f540-11f0-b3d3-060000000057",
+    "titel": "Fantastisches Anwesen mit Gästehaus - Ihr privater Rückzugsort auf Llucmajor"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 5.0,
+    "grd": 17000.0,
+    "wfl": 466,
+    "ort": "Sineu",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/025cead7-8b3e-5c72-8513-9492fd721b86",
+    "titel": "Einzigartige Immobilie mit herrlichem Ausblick (W-02S2YL)"
+  },
+  {
+    "preis": 4450000.0,
+    "zimmer": 5.0,
+    "grd": 17000.0,
+    "wfl": 460,
+    "ort": "Llucmajor",
+    "url": "https://www.luxury-estates-mallorca.com/en/idyllic-and-stylish-finca-in-llucmajor-llm2507",
+    "titel": "IDYLLIC AND STYLISH FINCA IN LLUCMAJOR"
+  },
+  {
+    "preis": 11500000.0,
+    "zimmer": 11.0,
+    "grd": 16911.0,
+    "wfl": 580,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6f7e6242-19bf-5ede-83a3-88bee7a3b970",
+    "titel": "Exklusiver mediterraner Rückzugsort mit zeitgenössischer Eleganz (W-02Z8A6)"
+  },
+  {
+    "preis": 11500000.0,
+    "zimmer": 5.0,
+    "grd": 16900.0,
+    "wfl": 670,
+    "ort": "Santa Maria ,",
+    "url": "https://sandberg-estates.com/properties/modern-luxury-finca-for-sale-in-santa-maria",
+    "titel": "Modern Luxury Finca for Sale in Santa Maria"
+  },
+  {
+    "preis": 11500000.0,
+    "zimmer": 5.0,
+    "grd": 16900.0,
+    "wfl": 670,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/511b5e52-241a-11f0-b3d3-060000000057",
+    "titel": "Außergewöhnliches Anwesen mit Gästeapartment, Sauna, Garten und beheiztem Pool in Santa Maria"
+  },
+  {
+    "preis": 4515000.0,
+    "zimmer": 6.0,
+    "grd": 16870.0,
+    "wfl": 420,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/110700945/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6950000.0,
+    "zimmer": 5.0,
+    "grd": 16800.0,
+    "wfl": 500,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/be2cc32d-b96f-11f0-b3d3-060000000057",
+    "titel": "Prächtiges Landhaus mit Gästehaus und Bergblick in Santa Maria del Cami"
+  },
+  {
+    "preis": 11500000.0,
+    "zimmer": 5.0,
+    "grd": 16753.0,
+    "wfl": 626,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/953656-finca-panoramic-views-santa-maria-cami-malloca-html",
+    "titel": "Outstanding hilltop finca for sale in Santa Maria del Camí, Central Mallorca"
+  },
+  {
+    "preis": 6300000.0,
+    "zimmer": 8.0,
+    "grd": 16731.0,
+    "wfl": null,
+    "ort": "Santanyí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/03955939-4d52-57d1-9854-c922dded6be3",
+    "titel": "Anwesen mit Meerblick und Gästeapartment (W-009XQS)"
+  },
+  {
+    "preis": 6950000.0,
+    "zimmer": 6.0,
+    "grd": 16698.0,
+    "wfl": 498,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/753938-finca-guest-cottage-santa-maria-mallorca-html",
+    "titel": "Country estate with guest cottage for sale in Santa Maria del Cami, Mallorca"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 5.0,
+    "grd": 16651.0,
+    "wfl": 466,
+    "ort": "Sineu",
+    "url": "https://www.balearic-properties.com/en/property/id/933707-development-country-home-sineu-mallorca-html",
+    "titel": "New development country home for sale in Sineu, Central Mallorca"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 7.0,
+    "grd": 16600.0,
+    "wfl": 1300,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/109857421/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 7.0,
+    "grd": 16600.0,
+    "wfl": 1300,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/73f074e2-b8d4-11f0-b3d3-060000000057",
+    "titel": "Großzügiges Anwesen mit authentischem mallorquinischem Charme und Panoramablick auf die Berge von Alaró"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 6.0,
+    "grd": 16550.0,
+    "wfl": 465,
+    "ort": "Sineu",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/98edff95-16c6-11f0-9e0e-060000000057",
+    "titel": "Landhaus mit fantastischer Aussicht und nachhaltigem Design - Bezugsfertig im Frühjahr 2026!"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 16451.0,
+    "wfl": 369,
+    "ort": "Alaró",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/0978f83c-2295-5214-b049-085bb940c944",
+    "titel": "Wunderschönes Landhaus bei Alaró (W-02T4JS)"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 16029.0,
+    "wfl": 456,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/106131124/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 6.0,
+    "grd": 16029.0,
+    "wfl": 456,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/1c1408d5-bcce-5714-aa3e-4f9f47a9b63a",
+    "titel": "Hochqualitatives Anwesen mit Ferienvermietungslizenz (W-01R0FK)"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 5.0,
+    "grd": 16000.0,
+    "wfl": 3839,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/105766043/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 5.0,
+    "grd": 16000.0,
+    "wfl": 456,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/97953798/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3990000.0,
+    "zimmer": 7.0,
+    "grd": 16000.0,
+    "wfl": 23,
+    "ort": "Cala Santanyí ,Villa",
+    "url": "https://sandberg-estates.com/properties/modern-luxury-villa-with-panoramic-views-in-cala-santanyi-mallorca",
+    "titel": "Modern Luxury Villa with Panoramic Views in Cala Santanyí, Mallorca"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 16000.0,
+    "wfl": 710,
+    "ort": "Montuïri",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/550136b9-f99d-11ef-9e0e-060000000057",
+    "titel": "Anwesen mit eigenem Weinberg - Bezugsfertig!"
+  },
+  {
+    "preis": 6600000.0,
+    "zimmer": 5.0,
+    "grd": 16000.0,
+    "wfl": null,
+    "ort": "Calvià",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/76c6a2de-fcde-5973-a4cb-ff20d5a9e258",
+    "titel": "Charmante Finca im Cortijo-Stil in Es Capdellà (W-046941)"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 5.0,
+    "grd": 15976.0,
+    "wfl": 508,
+    "ort": "Alaró",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/b6f6f841-ea09-57c3-a59e-3a7620c98896",
+    "titel": "Exklusive Neubau-Finca in privilegierter Lage in Alaro (W-02T55L)"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 15954.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/19175886-country-house-for-sale-montuiri",
+    "titel": "Country house in Montuiri, Mallorca"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 6.0,
+    "grd": 15954.0,
+    "wfl": 451,
+    "ort": "Montuïri",
+    "url": "https://www.balearic-properties.com/en/property/id/918037-unique-finca-vineyard-montuiri-mallorca-html",
+    "titel": "Unique finca for sale with vineyard in Montuiri, Mallorca"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 6.0,
+    "grd": 15954.0,
+    "wfl": 451,
+    "ort": "Balearic Islands",
+    "url": "https://www.rightmove.co.uk/properties/165284951",
+    "titel": "Spectacular luxury estate with Mediterranean charm in Montuiri"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 15954.0,
+    "wfl": "7,728 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/170135468?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Newly built Mallorcan-style estate with 5 ensuite bedrooms, guest house, 65 m² pool, private vineyar"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 7.0,
+    "grd": 15954.0,
+    "wfl": 718,
+    "ort": "Montuïri",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/a8327bb2-d99f-5445-9a8b-ebb98521847d",
+    "titel": "Modernes Neubau-Landhaus mit Weinberg (W-02X50U)"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 15954.0,
+    "wfl": 718,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/new-build-natural-stone-finca-with-vineyard-in-the-centre-of-mallorca-lmo23",
+    "titel": "NEW BUILD NATURAL STONE FINCA WITH VINEYARD IN THE CENTRE OF MALLORCA"
+  },
+  {
+    "preis": 8750000.0,
+    "zimmer": 8.0,
+    "grd": 15886.0,
+    "wfl": 732,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/f13d5435-4000-5737-8988-14887db5bc91",
+    "titel": "Einzigartiges Luxus-Landhaus in Santa Maria (W-02T7AQ)"
+  },
+  {
+    "preis": 8750000.0,
+    "zimmer": 5.0,
+    "grd": 15845.0,
+    "wfl": 818,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/931049-brand-new-finca-mountains-views-santa-maria-del-cami-mallorca-html",
+    "titel": "Brand new finca for sale in the countryside of Santa Maria del Cami, Mallorca"
+  },
+  {
+    "preis": 8750000.0,
+    "zimmer": 5.0,
+    "grd": 15845.0,
+    "wfl": 823,
+    "ort": "Santa Maria",
+    "url": "https://www.luxury-estates-mallorca.com/en/spacious-new-build-finca-in-santa-maria-del-cami-with-charm-and-authenticity-lsmc2478",
+    "titel": "SPACIOUS NEW-BUILD FINCA IN SANTA MARIA DEL CAMÍ WITH CHARM AND AUTHENTICITY"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 15741.0,
+    "wfl": 512,
+    "ort": "Cala Santanyí, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109393213/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 15675.0,
+    "wfl": 878,
+    "ort": "Cala Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/110659734/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 6.0,
+    "grd": 15675.0,
+    "wfl": 878,
+    "ort": "Cala Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/110452988/",
+    "titel": "Finca rústica en Cala Llombards"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 8.0,
+    "grd": 15587.0,
+    "wfl": 560,
+    "ort": "Algaida",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/936eeaea-a445-5444-9abe-3c70a0b40b0d",
+    "titel": "Authentische Natursteinfinca in der Nähe von Palma (W-02Z04A)"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 15351.0,
+    "wfl": 565,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/97343762/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 7.0,
+    "grd": 15344.0,
+    "wfl": 512,
+    "ort": "Sencelles",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/43caee83-dbd7-5467-829e-28c20745090e",
+    "titel": "Schönes Landhaus mit eigener Weinproduktion (W-02QG92)"
+  },
+  {
+    "preis": 6600000.0,
+    "zimmer": 6.0,
+    "grd": 15340.0,
+    "wfl": 523,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/2296c786-6190-5bf5-8364-8c08a3b2a92d",
+    "titel": "Autarke mediterrane Residenz in Bestlage (W-02SZSQ)"
+  },
+  {
+    "preis": 5100000.0,
+    "zimmer": 5.0,
+    "grd": 15242.0,
+    "wfl": 805,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/108578199/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5100000.0,
+    "zimmer": 6.0,
+    "grd": 15242.0,
+    "wfl": 375,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/c3152ea2-50e8-5f49-a49b-4e680745a178",
+    "titel": "Grosszügige Neubaufinca mit Tramuntanablick in Inca (W-030L53)"
+  },
+  {
+    "preis": 5250000.0,
+    "zimmer": 5.0,
+    "grd": 15241.0,
+    "wfl": 623,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.balearic-properties.com/en/property/id/943398-new-finca-open-views-palma-mallorca-html",
+    "titel": "Immaculate finca with open views for sale in Palma, Mallorca"
+  },
+  {
+    "preis": 5250000.0,
+    "zimmer": 5.0,
+    "grd": 15241.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/29daf13f-4749-53da-bdac-c61943a41f0a",
+    "titel": "Eine Oase der Ruhe in der Nähe von Palma (W-02W3B0)"
+  },
+  {
+    "preis": 8495000.0,
+    "zimmer": 5.0,
+    "grd": 15191.0,
+    "wfl": 678,
+    "ort": "Alaró",
+    "url": "https://www.balearic-properties.com/en/property/id/931050-new-finca-mountain-views-alaro-mallorca-html",
+    "titel": "Newly built finca with panoramic mountain views for sale in Alaró, Mallorca"
+  },
+  {
+    "preis": 8495000.0,
+    "zimmer": 5.0,
+    "grd": 15190.0,
+    "wfl": 650,
+    "ort": "Alaró",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/70a16d77-bc01-5e24-b68e-e77fc238ea7a",
+    "titel": "Einzigartiges Landhaus in Alaró - Modernes Design, das die Essenz Mallorcas einfängt (W-02T79S)"
+  },
+  {
+    "preis": 2995000.0,
+    "zimmer": 5.0,
+    "grd": 15150.0,
+    "wfl": 755,
+    "ort": "Llucmajor Interior, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/96732915/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 8250000.0,
+    "zimmer": 5.0,
+    "grd": 15100.0,
+    "wfl": 640,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/da90f459-24cc-11eb-8802-060000000057",
+    "titel": "Landhaus mit Ferienvermietungs-Erlaubnis und eigenem Weingut in Santa Maria del Cami"
+  },
+  {
+    "preis": 8250000.0,
+    "zimmer": 7.0,
+    "grd": 15093.0,
+    "wfl": 640,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/315cbef7-0a51-5450-b9c2-0c4ddb740f6a",
+    "titel": "State of the art – Natursteinfinca mit Weinberg (W-02E2YU)"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 15070.0,
+    "wfl": 541,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109637231/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 4450000.0,
+    "zimmer": 6.0,
+    "grd": 15055.0,
+    "wfl": 460,
+    "ort": "Llucmajor",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/842094f2-d6f9-5c0f-95e1-6d4fc7a62554",
+    "titel": "Eine mediterrane Oase: Ihr privates Paradies (W-02XZZO)"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 15000.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/20533859-country-house-for-sale-binissalem",
+    "titel": "Country house in Binissalem, Mallorca"
+  },
+  {
+    "preis": 3888000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 730,
+    "ort": "Palma",
+    "url": "https://www.idealista.com/inmueble/110574379/",
+    "titel": "Barrio Establiments – chalet"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 450,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/110672251/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 15000.0,
+    "wfl": 472,
+    "ort": "Santa Eugenia",
+    "url": "https://www.idealista.com/inmueble/110591347/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3888000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 730,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/110574379/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 480,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/108002780/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 15000.0,
+    "wfl": 432,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/109667994/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 380,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/93414852/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 580,
+    "ort": "Consell",
+    "url": "https://www.idealista.com/inmueble/109664311/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 5000000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 300,
+    "ort": "Ses Palmeres, Llucmajor",
+    "url": "https://www.idealista.com/inmueble/104679266/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 6500000.0,
+    "zimmer": 7.0,
+    "grd": 15000.0,
+    "wfl": 660,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/105699963/",
+    "titel": "Finca rústica en via Sense Nom"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 540,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108731470/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 449,
+    "ort": "Portopetro, Santanyí",
+    "url": "https://www.idealista.com/inmueble/108603034/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-llevant_saranjassa07199-55842612978_106700/",
+    "titel": "Casa en S'aranjassa"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 472,
+    "ort": "Binissalem ,Finca",
+    "url": "https://sandberg-estates.com/properties/top-renovated-finca-with-2-guest-houses-for-sale-in-binissalem",
+    "titel": "Top Renovated Finca with 2 Guest Houses for Sale in Binissalem"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 15000.0,
+    "wfl": "5,081 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/172055120?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Top Renovated Finca with 2 Guest Houses for Sale in Binissalem"
+  },
+  {
+    "preis": 2950000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 540,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/69c05943-5b15-11f0-b3d3-060000000057",
+    "titel": "Modernes Landhaus mit guter Anbindung - mit Pool und großem Garten außerhalb von Palma - Fertigstellung Anfang 2026"
+  },
+  {
+    "preis": 3995000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 568,
+    "ort": "Marratxí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/43574075-09a6-11f0-9e0e-060000000057",
+    "titel": "Exklusive Neubau-Finca im mediterranen Stil in Marratxinet - Bezugsfertig im Winter 2026 !"
+  },
+  {
+    "preis": 8750000.0,
+    "zimmer": 5.0,
+    "grd": 15000.0,
+    "wfl": 670,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/edad55bb-9f14-11ee-91bc-060000000057",
+    "titel": "Landhaus in Santa Maria mit spektakulärem Blick auf das Tramuntanagebirge - Bezugsfertig Frühling 2026"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 15000.0,
+    "wfl": 380,
+    "ort": "Bunyola",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/a1baae13-24d0-11eb-8802-060000000057",
+    "titel": "Traumhaft gelegenes Landhaus in Bunyola mit Ferienvermietungs-Erlaubnis, Pool, Gästehaus und Meerblick"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 7.0,
+    "grd": 14981.0,
+    "wfl": 596,
+    "ort": "Alaró",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/55b7f65b-d8df-54be-9222-0a289faf73fd",
+    "titel": "Exklusive Finca für höchste Ansprüche (W-02HDL1)"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 14958.0,
+    "wfl": 690,
+    "ort": "Cala Santanyí, Santanyí",
+    "url": "https://www.idealista.com/inmueble/102514567/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 14958.0,
+    "wfl": 715,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/100436028/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 14958.0,
+    "wfl": 596,
+    "ort": "Cala Santanyí, Santanyí",
+    "url": "https://www.idealista.com/inmueble/90997005/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 6.0,
+    "grd": 14955.0,
+    "wfl": 650,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/102697763/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 14785.0,
+    "wfl": null,
+    "ort": "Bunyola",
+    "url": "—",
+    "titel": "Villa Bunyola (Lizenz)"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 6.0,
+    "grd": 14785.0,
+    "wfl": 355,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/110322709/",
+    "titel": "Casa independiente en Ds Poligon 8 Rustega"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 14785.0,
+    "wfl": 333,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/103844334/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3990000.0,
+    "zimmer": 5.0,
+    "grd": 14750.0,
+    "wfl": 455,
+    "ort": "Santanyí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/55806507-b17c-11ef-9e0e-060000000057",
+    "titel": "Landhaus in bester Lage in Cala Llombards - Fertigstellung Frühjahr 2026"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 14730.0,
+    "wfl": 880,
+    "ort": "Cala d'Or, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109262760/",
+    "titel": "Finca rústica en Poligono 8"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14587.0,
+    "wfl": 662,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/109317941/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14587.0,
+    "wfl": null,
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/168762821?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Fully Renovated Mallorca Private Villa with Guest Houses and Exceptional ViewsThis splendid estate o"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14585.0,
+    "wfl": 660,
+    "ort": "Montuiri",
+    "url": "https://www.idealista.com/inmueble/110452671/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14585.0,
+    "wfl": 660,
+    "ort": "Montuïri",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/1ce825bd-c9e5-11f0-b3d3-060000000057",
+    "titel": "Bemerkenswerte, renovierte Finca mit Gästehäusern, Pool und Ausblicken in Montuïri"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 6.0,
+    "grd": 14520.0,
+    "wfl": 425,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/108643926/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3250000.0,
+    "zimmer": 6.0,
+    "grd": 14520.0,
+    "wfl": 425,
+    "ort": "Sencelles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/fa9007ac-574a-11f0-b3d3-060000000057",
+    "titel": "Neubauprojekt bei Sencelles - Zeitlose Architektur inmitten mallorquinischer Natur"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14500.0,
+    "wfl": 375,
+    "ort": "Cala Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/102210938/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 5.0,
+    "grd": 14500.0,
+    "wfl": 350,
+    "ort": "Maria de la Salut",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b1617ae7-87b1-11ef-9e0e-060000000057",
+    "titel": "Eleganz und Natur pur - Modernes mallorquinisches Landhaus mit Panoramablick in Maria de la Salut"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14500.0,
+    "wfl": 375,
+    "ort": "Santanyí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/6d73e82d-2d41-11ee-91bc-060000000057",
+    "titel": "Exklusive Villa im Landhausstil in ruhiger Lage von Es Llombards - Einzugsbereit"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 14483.0,
+    "wfl": 364,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/109355117/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14393.0,
+    "wfl": null,
+    "ort": "Establiments",
+    "url": "—",
+    "titel": "Gästehaus Establiments"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14393.0,
+    "wfl": 601,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/105573706/",
+    "titel": "Finca rústica en camino Joan Bauza, 10"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 7.0,
+    "grd": 14393.0,
+    "wfl": 601,
+    "ort": "Establiments - Son Sardina, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/106744049/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4250000.0,
+    "zimmer": 6.0,
+    "grd": 14336.0,
+    "wfl": 591,
+    "ort": "Selva",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/5003eee2-9846-5e8f-80f7-36455c0d2b8d",
+    "titel": "Luxus Neubaufinca mit Traumblick (W-02OT9B)"
+  },
+  {
+    "preis": 4900000.0,
+    "zimmer": 5.0,
+    "grd": 14330.0,
+    "wfl": 744,
+    "ort": "Santanyí",
+    "url": "https://www.balearic-properties.com/en/property/id/932687-new-finca-seaviews-cala-llombards-santanyi-mallorca-html",
+    "titel": "Brand new finca with sea views in Cala Llombards, Santanyi, Mallorca"
+  },
+  {
+    "preis": 6200000.0,
+    "zimmer": 7.0,
+    "grd": 14300.0,
+    "wfl": 790,
+    "ort": "Palma",
+    "url": "https://www.idealista.com/inmueble/110672200/",
+    "titel": "Barrio La Soledat – chalet"
+  },
+  {
+    "preis": 6200000.0,
+    "zimmer": 7.0,
+    "grd": 14300.0,
+    "wfl": 790,
+    "ort": "Llevant - La Soledat, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/110672200/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 350,
+    "ort": "Santanyí",
+    "url": "https://www.idealista.com/inmueble/110645918/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 570,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/108734515/",
+    "titel": "Finca rústica en Diseminado Poligono 5"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 434,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/109262776/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 350,
+    "ort": "Cala Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/105089478/",
+    "titel": "Finca rústica en camino de Na Borràs"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 350,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/100339111/",
+    "titel": "Finca rústica en Diseminado Poligono 5"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 450,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/101240432/",
+    "titel": "Finca rústica en calle Sant Domingo"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14300.0,
+    "wfl": 500,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/99984569/",
+    "titel": "Finca rústica en poligono 5, 195"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 5.0,
+    "grd": 14224.0,
+    "wfl": 349,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/108160281/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 7.0,
+    "grd": 14224.0,
+    "wfl": 595,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/9a2a87cf-0a87-5261-806b-a644e885aeff",
+    "titel": "Traum Refugium inmitten von Weinfeldern (W-02BQAP)"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 5.0,
+    "grd": 14210.0,
+    "wfl": 543,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/106843288/",
+    "titel": "Casa independiente en Poligono 4"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 5.0,
+    "grd": 14210.0,
+    "wfl": 543,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.balearic-properties.com/en/property/id/830550-immaculate-villa-views-santa-maria-mallorca-html",
+    "titel": "Immaculate new villa with mountain views for sale in Santa Maria, Mallorca"
+  },
+  {
+    "preis": 16200000.0,
+    "zimmer": 5.0,
+    "grd": 14210.0,
+    "wfl": 700,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/9c3f12d2-2add-11ee-91bc-060000000057",
+    "titel": "Beeindruckendes Anwesen mit exzellenter Ausstattung und 360° Panoramablick in Santa María del Camí"
+  },
+  {
+    "preis": 16200000.0,
+    "zimmer": 8.0,
+    "grd": 14210.0,
+    "wfl": 700,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/bb91abb8-1b00-5f9c-9b11-98cfdfe90f51",
+    "titel": "Living Art: Ein harmonisches Zusammenspiel von Architektur und Natur (W-02R350)"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 14206.0,
+    "wfl": 876,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/108678043/",
+    "titel": "Chalet adosado en calle Des Sol"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 14206.0,
+    "wfl": 1000,
+    "ort": "Porreres",
+    "url": "https://www.balearic-properties.com/en/property/id/961412-luxury-estate-panoramic-views-son-mora-negri-porreres-mallorca-html",
+    "titel": "Luxury estate with panoramic views and absolute privacy for sale in Porreres, Central Mallorca"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 14206.0,
+    "wfl": 1000,
+    "ort": "Porreres",
+    "url": "https://www.rightmove.co.uk/properties/171770525",
+    "titel": "Exclusive country home with sustainable design in exclusive Son Mora Negri, Porreres"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 14206.0,
+    "wfl": "10,764 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/171770525?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Exclusive country home with sustainable design in exclusive Son Mora Negri, Porreres"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 14206.0,
+    "wfl": 831,
+    "ort": "Porreres",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/c0b71a55-fdeb-11f0-b3d3-060000000057",
+    "titel": "Hochwertiges Refugium in erhöhter Lage mit Panoramablick und moderner Ausstattung in Porreres"
+  },
+  {
+    "preis": 3550000.0,
+    "zimmer": 5.0,
+    "grd": 14206.0,
+    "wfl": 332,
+    "ort": "Binissalem",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d31309e2-3244-5373-b3cc-24fd038ce9fa",
+    "titel": "Authentischer Luxus zwischen Reben und Bergen (W-030EDI)"
+  },
+  {
+    "preis": 3650000.0,
+    "zimmer": 6.0,
+    "grd": 14200.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/20520519-country-house-for-sale-campos",
+    "titel": "Finca in Campos, Mallorca"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 14200.0,
+    "wfl": 720,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/104885822/",
+    "titel": "Casa rural en camino de son Fogó"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 10.0,
+    "grd": 14200.0,
+    "wfl": 780,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/96425177/",
+    "titel": "Chalet adosado"
+  },
+  {
+    "preis": 3750000.0,
+    "zimmer": 6.0,
+    "grd": 14200.0,
+    "wfl": 794,
+    "ort": "Llucmajor",
+    "url": "https://www.balearic-properties.com/en/property/id/937433-exclusive-new-estate-project-with-guest-house-for-sale-in-llucmajor-south-mallorca-html",
+    "titel": "Exclusive new estate project with guest house for sale in Llucmajor, South Mallorca"
+  },
+  {
+    "preis": 4950000.0,
+    "zimmer": 6.0,
+    "grd": 14200.0,
+    "wfl": 794,
+    "ort": "Marratxí",
+    "url": "https://www.balearic-properties.com/en/property/id/933500-new-country-estate-marratxi-mallorca-html",
+    "titel": "Exclusive new estate with guest house for sale in Marratxi, Palma de Mallorca"
+  },
+  {
+    "preis": 3825000.0,
+    "zimmer": 6.0,
+    "grd": 14200.0,
+    "wfl": 570,
+    "ort": "Marratxí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/a900cd92-7851-11f0-b3d3-060000000057",
+    "titel": "Großzügiges Neubau-Landhaus in fussläufiger Nähe nach Pòrtol - Bezugsfertig im Herbst/Winter 2026!"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 7.0,
+    "grd": 14200.0,
+    "wfl": 750,
+    "ort": "Costitx",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/6ce877c0-ee7b-11ee-bc4b-060000000057",
+    "titel": "Exquisites Landhaus: Refugium mit Pool inmitten der Natur zwischen Llubí und Costitx"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 5.0,
+    "grd": 14200.0,
+    "wfl": 550,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/8c56bb56-d514-11ec-91bc-060000000057",
+    "titel": "Brandneues modernes Landhaus zum Erstbezug mit Swimmingpool bei Santa Maria del Cami"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 14186.0,
+    "wfl": 427,
+    "ort": "Cala Santanyí, Santanyí",
+    "url": "https://www.idealista.com/inmueble/97829672/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3300000.0,
+    "zimmer": 5.0,
+    "grd": 14146.0,
+    "wfl": 287,
+    "ort": "Marratxí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/cca188a3-3ae9-53ee-9959-919ab4a8572b",
+    "titel": "Idyllisches Anwesen mit Panoramablick (W-02ZFTK)"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 6.0,
+    "grd": 14079.0,
+    "wfl": 405,
+    "ort": "Selva",
+    "url": "https://www.idealista.com/inmueble/108417034/",
+    "titel": "Chalet en via Sense Nom"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 14032.0,
+    "wfl": 876,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/107085451/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 14032.0,
+    "wfl": 931,
+    "ort": "Petra",
+    "url": "https://www.idealista.com/inmueble/108425796/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 11.0,
+    "grd": 14032.0,
+    "wfl": 931,
+    "ort": "Petra",
+    "url": "https://www.balearic-properties.com/en/property/id/936687-beautiful-rustic-finca-petra-mallorca-html",
+    "titel": "Beautiful rustic finca for sale in Petra, Central Mallorca"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 12.0,
+    "grd": 14032.0,
+    "wfl": 876,
+    "ort": "Petra",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/d2d7dbe8-4bf4-518c-8219-ac9fc70068fb",
+    "titel": "Traumhaftes Anwesen in der Nähe von Petra (W-02N6UQ)"
+  },
+  {
+    "preis": 4790000.0,
+    "zimmer": 8.0,
+    "grd": 13900.0,
+    "wfl": 945,
+    "ort": "Santa Eugènia",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/f48de3ab-2f15-11f0-b3d3-060000000057",
+    "titel": "Schönes Landhaus mit Pool, drei Gästehäusern sowie Tennis- und Volleyballplatz in der Nähe von Santa Eugenia"
+  },
+  {
+    "preis": 7500000.0,
+    "zimmer": 8.0,
+    "grd": 13610.0,
+    "wfl": 550,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/9b799d69-c848-57d0-ad7f-7235e6054448",
+    "titel": "Luxus-Anwesen in Santa María: Ein Meisterwerk aus modernem Design und rustikalem Charme (W-02S985)"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 13500.0,
+    "wfl": null,
+    "ort": "Mallorca",
+    "url": "https://www.kyero.com/en/property/20534135-country-house-for-sale-santa-maria-del-cami",
+    "titel": "Country house in Santa Maria Del Cami, Mallorca"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 13500.0,
+    "wfl": 667,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/110628020/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 13500.0,
+    "wfl": 667,
+    "ort": "Santa María del Camí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/99866620-c9e9-11f0-b3d3-060000000057",
+    "titel": "Charmantes Landhaus mit Gästehaus, großem und gepflegtem Garten in der Nähe von Santa Maria del Camí"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 5.0,
+    "grd": 13492.0,
+    "wfl": 667,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/109408136/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3000000.0,
+    "zimmer": 7.0,
+    "grd": 13492.0,
+    "wfl": 667,
+    "ort": "Santa Maria del Camí",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/29289ac7-75a1-5cb5-8ebc-904ba489f313",
+    "titel": "Ein Oase der Weite und des Lichts in Santa María (W-02TU41)"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 8.0,
+    "grd": 13130.0,
+    "wfl": 740,
+    "ort": "Centro, Inca",
+    "url": "https://www.idealista.com/inmueble/110353892/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 8.0,
+    "grd": 13130.0,
+    "wfl": 740,
+    "ort": "Inca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/031de57f-e001-11f0-b3d3-060000000057",
+    "titel": "Großes Anwesen mit zwei Wohnhäusern, Ferienvermietungs-Erlaubnis und spektakulärer Aussicht in Inca"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 8.0,
+    "grd": 13128.0,
+    "wfl": 741,
+    "ort": "Cristo Rey - Parque Europa, Inca",
+    "url": "https://www.idealista.com/inmueble/110436045/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 8.0,
+    "grd": 13128.0,
+    "wfl": 740,
+    "ort": "Son Amonda - Reis Catòlics, Inca",
+    "url": "https://www.idealista.com/inmueble/110096836/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 8.0,
+    "grd": 13128.0,
+    "wfl": 706,
+    "ort": "Son Amonda - Reis Catòlics, Inca",
+    "url": "https://www.idealista.com/inmueble/106348961/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3500000.0,
+    "zimmer": 12.0,
+    "grd": 13128.0,
+    "wfl": 706,
+    "ort": "Inca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/de965f71-8cd4-5244-a11d-bf49a2eba80e",
+    "titel": "Finca mit Ferienvermietungslizenz in Inca (W-00DMQG)"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 13000.0,
+    "wfl": 680,
+    "ort": "Sencelles",
+    "url": "https://www.idealista.com/inmueble/107568578/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 13000.0,
+    "wfl": 680,
+    "ort": "Sencelles",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/186600bc-f9e7-11ef-9e0e-060000000057",
+    "titel": "Mallorquinisches Landhaus mit Tramuntana-Blick im Herzen der Insel"
+  },
+  {
+    "preis": 3750000.0,
+    "zimmer": 5.0,
+    "grd": 12200.0,
+    "wfl": "5,005 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/171566531?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Spacious country home in a private location with sea views close to Pollensa"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 6.0,
+    "grd": 11789.0,
+    "wfl": 958,
+    "ort": "Marratxinet, Marratxi",
+    "url": "https://www.idealista.com/inmueble/105670643/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6290000.0,
+    "zimmer": 6.0,
+    "grd": 11005.0,
+    "wfl": 690,
+    "ort": "Bañalbufar",
+    "url": "https://www.idealista.com/inmueble/110458993/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6290000.0,
+    "zimmer": 6.0,
+    "grd": 11000.0,
+    "wfl": 688,
+    "ort": "Bañalbufar",
+    "url": "https://www.idealista.com/inmueble/108600828/",
+    "titel": "Casa independiente en calle Font"
+  },
+  {
+    "preis": 3550000.0,
+    "zimmer": 5.0,
+    "grd": 10332.0,
+    "wfl": 300,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/94202518/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3550000.0,
+    "zimmer": 5.0,
+    "grd": 10332.0,
+    "wfl": 300,
+    "ort": "Bunyola",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/4d82a394-bd9e-11eb-91bc-060000000057",
+    "titel": "Vollständig renovierte Finca mit Pool, Meerblick und Ferienvermietungs-Erlaubnis in Bunyola"
+  },
+  {
+    "preis": 3550000.0,
+    "zimmer": 5.0,
+    "grd": 10000.0,
+    "wfl": 300,
+    "ort": "Bunyola",
+    "url": "https://www.idealista.com/inmueble/88910494/",
+    "titel": "Finca rústica en poligono 07"
+  },
+  {
+    "preis": 6900000.0,
+    "zimmer": 6.0,
+    "grd": 10000.0,
+    "wfl": "6,770 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/169852664?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Historic Royal Estate with Panoramic Sea Views and Vacation License"
+  },
+  {
+    "preis": 6950000.0,
+    "zimmer": 6.0,
+    "grd": 9953.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/chalet-ponent_genova07015-61751658808_102300/",
+    "titel": "Chalet en Gènova"
+  },
+  {
+    "preis": 6950000.0,
+    "zimmer": 6.0,
+    "grd": 9953.0,
+    "wfl": 629,
+    "ort": null,
+    "url": "https://www.luxury-estates-mallorca.com/en/completely-renovated-mediterranean-villa-in-genova-with-sea-views-and-vacation-rental-license-lge2623",
+    "titel": "COMPLETELY RENOVATED MEDITERRANEAN VILLA IN GENOVA WITH SEA VIEWS AND VACATION RENTAL LICENSE"
+  },
+  {
+    "preis": 2995000.0,
+    "zimmer": 5.0,
+    "grd": 9800.0,
+    "wfl": 680,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/108541311/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 6.0,
+    "grd": 9718.0,
+    "wfl": 633,
+    "ort": "Pòrtol, Marratxi",
+    "url": "https://www.idealista.com/inmueble/110252307/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 7.0,
+    "grd": 9718.0,
+    "wfl": 577,
+    "ort": "Pòrtol, Marratxi",
+    "url": "https://www.idealista.com/inmueble/109458876/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 6.0,
+    "grd": 9718.0,
+    "wfl": 633,
+    "ort": "Pòrtol, Marratxi",
+    "url": "https://www.idealista.com/inmueble/109370554/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 6.0,
+    "grd": 9718.0,
+    "wfl": 633,
+    "ort": "Pòrtol, Marratxi",
+    "url": "https://www.idealista.com/inmueble/109340380/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 7.0,
+    "grd": 9718.0,
+    "wfl": 577,
+    "ort": "Portol ,Villa",
+    "url": "https://sandberg-estates.com/properties/charming-finca-for-sale-in-portol",
+    "titel": "Charming Finca for Sale in Portol"
+  },
+  {
+    "preis": 4800000.0,
+    "zimmer": 6.0,
+    "grd": 9718.0,
+    "wfl": 633,
+    "ort": "Marratxí",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/b39c6ac2-87e9-11f0-b3d3-060000000057",
+    "titel": "Renoviertes, historisches Landhaus mit Meerblick, beheizbarem Pool und Gästehaus in Portol"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 6.0,
+    "grd": 9000.0,
+    "wfl": 752,
+    "ort": "Son Ramonell - Es Figueral, Marratxi",
+    "url": "https://www.idealista.com/inmueble/104323830/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 6.0,
+    "grd": 8988.0,
+    "wfl": 426,
+    "ort": "Rafal - Son Forteza, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/106413029/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 8988.0,
+    "wfl": 690,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109903112/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 4100000.0,
+    "zimmer": 5.0,
+    "grd": 8988.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-llevant_sa_casa_blanca07198-59252480300_105600/",
+    "titel": "Casa en Sa Casa Blanca"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 5.0,
+    "grd": 8629.0,
+    "wfl": 303,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/24f743f3-c60b-5cbb-ada7-b498ba69f307",
+    "titel": "Hochwertiges Landhaus in exklusiver Lage Puntiros (W-02CBAM)"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8301.0,
+    "wfl": 475,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/110468580/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8301.0,
+    "wfl": 475,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/109200794/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 8301.0,
+    "wfl": 376,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/108928723/",
+    "titel": "Casa rural en Poligono 7"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/110663523/",
+    "titel": "Finca rústica en Diseminado Poligono 14, 28"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/110470320/",
+    "titel": "Casa independiente en calle Església, Plaça, 3"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 384,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/110126792/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 403,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/109473280/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/108949451/",
+    "titel": "Casa rural en calle de Sant Jordi"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 475,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/108914364/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 336,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/108911857/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3900000.0,
+    "zimmer": 8.0,
+    "grd": 8300.0,
+    "wfl": 472,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/108905958/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 6290000.0,
+    "zimmer": 6.0,
+    "grd": 8294.0,
+    "wfl": 376,
+    "ort": "Bañalbufar",
+    "url": "https://www.idealista.com/inmueble/108858113/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6290000.0,
+    "zimmer": 5.0,
+    "grd": 8294.0,
+    "wfl": 314,
+    "ort": "Bañalbufar",
+    "url": "https://www.idealista.com/inmueble/99040413/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8261.0,
+    "wfl": null,
+    "ort": "Binissalem",
+    "url": "—",
+    "titel": "EV Exposé Binissalem"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8261.0,
+    "wfl": 400,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/108828908/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8261.0,
+    "wfl": 475,
+    "ort": "Zona periurbana, Inca",
+    "url": "https://www.idealista.com/inmueble/108914046/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 11.0,
+    "grd": 8261.0,
+    "wfl": 400,
+    "ort": "Binissalem",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6971ac2a-f182-5703-a001-2c6f306cd2ae",
+    "titel": "Zeitgemäßes Landleben mit Weitblick -  Stilvolle Finca nahe Binissalem (W-0307JX)"
+  },
+  {
+    "preis": 6295000.0,
+    "zimmer": 6.0,
+    "grd": 8193.0,
+    "wfl": 680,
+    "ort": "Bañalbufar",
+    "url": "https://www.idealista.com/inmueble/108295303/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 6290000.0,
+    "zimmer": 6.0,
+    "grd": 8193.0,
+    "wfl": 680,
+    "ort": "Banyalbufar",
+    "url": "https://www.balearic-properties.com/en/property/id/886272-impressive-villa-sea-views-access-banyalbulfar-mallorca-html",
+    "titel": "Incredible seafront finca with boathouse for sale in Banyalbufar, Mallorca"
+  },
+  {
+    "preis": 9900000.0,
+    "zimmer": 8.0,
+    "grd": 8170.0,
+    "wfl": null,
+    "ort": "Son Vida",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6074c9c7-aa4a-510d-8358-b7bf77e10a22",
+    "titel": "Eklektische Villa mit außergewöhnlichem Spa in Son Vida (W-0190ZK)"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 8071.0,
+    "wfl": 248,
+    "ort": "Andratx",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/f7d63c50-04d3-5150-93fb-7781ffe11392",
+    "titel": "Private Finca in Lauflage zum Hafen (W-02NKXZ)"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8000.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/110476886/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8000.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/108908824/",
+    "titel": "Casa rural en Diseminado Poligono 14"
+  },
+  {
+    "preis": 2985000.0,
+    "zimmer": 6.0,
+    "grd": 8000.0,
+    "wfl": 600,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/107434447/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3950000.0,
+    "zimmer": 5.0,
+    "grd": 8000.0,
+    "wfl": 250,
+    "ort": "Port d'Andratx, Andratx",
+    "url": "https://www.idealista.com/inmueble/104921008/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8000.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.idealista.com/inmueble/109920405/",
+    "titel": "Masía"
+  },
+  {
+    "preis": 3400000.0,
+    "zimmer": 8.0,
+    "grd": 8000.0,
+    "wfl": 472,
+    "ort": "Binissalem",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/cd17e094-5a46-11f0-b3d3-060000000057",
+    "titel": "Großzügige Finca mit Panoramablick und zwei Gästehäusern nahe Binissalem"
+  },
+  {
+    "preis": 2900000.0,
+    "zimmer": 6.0,
+    "grd": 7933.0,
+    "wfl": 490,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/0b707c8e-2f86-5a36-a0b5-7ee1fa55caa3",
+    "titel": "Hochwertige Villa in Bestlage Puntiros (W-02EEHA)"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 6.0,
+    "grd": 7904.0,
+    "wfl": 622,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109027322/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 6.0,
+    "grd": 7904.0,
+    "wfl": 622,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109027446/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 8.0,
+    "grd": 7904.0,
+    "wfl": 622,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/6ceacca5-2195-5d5b-993d-4cde649528b6",
+    "titel": "Luxusvilla mit atemberaubendem Meerblick nahe Palma (W-0469PC)"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 8.0,
+    "grd": 7904.0,
+    "wfl": 622,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/ea56517b-0086-5e24-af55-036e4833ab39",
+    "titel": "State of the Art - Design trifft Meerblick (W-02UIVW)"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7800.0,
+    "wfl": 500,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108934698/",
+    "titel": "Casa independiente en Diseminado 8742- Sa Casa Blanca"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 6.0,
+    "grd": 7751.0,
+    "wfl": 768,
+    "ort": "Puntiró",
+    "url": "https://www.balearic-properties.com/en/property/id/920054-luxury-villa-seaviews-puntiro-mallorca-html",
+    "titel": "State-of-the-art villa for sale in picturesque Puntiró, Mallorca"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7614.0,
+    "wfl": 605,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109852084/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7614.0,
+    "wfl": 395,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109377960/",
+    "titel": "Chalet"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7614.0,
+    "wfl": 395,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109707002/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7614.0,
+    "wfl": 395,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108070433/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 7.0,
+    "grd": 7614.0,
+    "wfl": 544,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/0ad01ffd-1454-5e13-a2d2-4f29dd89d9d4",
+    "titel": "Imposantes Villen-Anwesen in bester Lage von Puntiró (W-046QTB)"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7600.0,
+    "wfl": 500,
+    "ort": "Santa Maria del Cami",
+    "url": "https://www.idealista.com/inmueble/109315207/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7600.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-llevant_sa_casa_blanca07198-57582745520_106700/",
+    "titel": "Casa rústica en Puntiró"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7600.0,
+    "wfl": 500,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/836456ca-83eb-11f0-b3d3-060000000057",
+    "titel": "Imposantes Anwesen mit Gästeapartment, absoluter Privatsphäre und Meerblick in Puntiró"
+  },
+  {
+    "preis": 12900000.0,
+    "zimmer": 11.0,
+    "grd": 7500.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-ponent_genova07015-55026855868_106700/",
+    "titel": "Casa rústica en Génova"
+  },
+  {
+    "preis": 12900000.0,
+    "zimmer": 11.0,
+    "grd": 7500.0,
+    "wfl": 1530,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/42f47441-6f9d-11ec-91bc-060000000057",
+    "titel": "Luxuriöse Villa in Genova mit spektakulärem Blick auf die Bucht von Palma"
+  },
+  {
+    "preis": 5950000.0,
+    "zimmer": 6.0,
+    "grd": 7500.0,
+    "wfl": 584,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/35513c0c-ba77-52b2-b49b-6428e92efe78",
+    "titel": "Exklusive Neubauvilla in hervorragender Lage (W-02Z5MW)"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 7500.0,
+    "wfl": 295,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.engelvoelkers.com/de/de/exposes/61b16cd7-e29d-5dc9-80ff-325939b2447d",
+    "titel": "Purer Luxus mit unvergleichbarem Weitblick (W-02QDDA)"
+  },
+  {
+    "preis": 12900000.0,
+    "zimmer": 11.0,
+    "grd": 7447.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-ponent_genova07015-56697137540_105600/",
+    "titel": "Casa en Gènova"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 6.0,
+    "grd": 7400.0,
+    "wfl": 230,
+    "ort": "Campanet",
+    "url": "https://www.rightmove.co.uk/properties/171278972",
+    "titel": "Unfinished luxury retreat with rental license, guest house and sweeping views in Campanet"
+  },
+  {
+    "preis": 3600000.0,
+    "zimmer": 6.0,
+    "grd": 7400.0,
+    "wfl": "2,476 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/171278972?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "Unfinished luxury retreat with rental license, guest house and sweeping views in Campanet"
+  },
+  {
+    "preis": 3800000.0,
+    "zimmer": 6.0,
+    "grd": 7371.0,
+    "wfl": 440,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/106961200/",
+    "titel": "Finca rústica"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 8.0,
+    "grd": 7280.0,
+    "wfl": 1480,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108104792/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 8.0,
+    "grd": 7280.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa_rustica-son_rapinya_los_almendros07013-55032914687_106700/",
+    "titel": "Casa rústica en Son Dameto"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 8.0,
+    "grd": 7280.0,
+    "wfl": 1480,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/fa8eb813-e7fb-11ec-91bc-060000000057",
+    "titel": "Investitionsmöglichkeit mit Hotellizenz und neuem Projekt für eine Seniorenresidenz in Son Dameto"
+  },
+  {
+    "preis": 4500000.0,
+    "zimmer": 5.0,
+    "grd": 7217.0,
+    "wfl": null,
+    "ort": "Palma de Mallorca",
+    "url": "https://www.pisos.com/comprar/casa-llevant_sa_casa_blanca07198-55884147453_530581/",
+    "titel": "Casa en calle Poligono 34"
+  },
+  {
+    "preis": 4700000.0,
+    "zimmer": 5.0,
+    "grd": 7206.0,
+    "wfl": 454,
+    "ort": "Es Llombards, Santanyí",
+    "url": "https://www.idealista.com/inmueble/110060757/",
+    "titel": "Casa independiente en Ma-6100, 2"
+  },
+  {
+    "preis": 6480000.0,
+    "zimmer": 6.0,
+    "grd": 7201.0,
+    "wfl": 619,
+    "ort": "Camp De Mar",
+    "url": "https://www.luxury-estates-mallorca.com/en/mediterranean-villa-in-camp-de-mar-with-pool-and-sea-views-lpa2558",
+    "titel": "MEDITERRANEAN VILLA IN CAMP DE MAR WITH POOL AND SEA VIEWS"
+  },
+  {
+    "preis": 5800000.0,
+    "zimmer": 8.0,
+    "grd": 7200.0,
+    "wfl": 1600,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/107437671/",
+    "titel": "Masía en calle d'Andalusia"
+  },
+  {
+    "preis": 3200000.0,
+    "zimmer": 8.0,
+    "grd": 7100.0,
+    "wfl": 1600,
+    "ort": "Marratxí",
+    "url": "https://www.balearic-properties.com/en/property/id/824802-restored-19th-century-mansion-in-marratxi-mallorca-html",
+    "titel": "Impressive 19th century mansion with courtyard, for sale in Marratxi, Mallorca"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 5.0,
+    "grd": 7000.0,
+    "wfl": 700,
+    "ort": "Alaró",
+    "url": "https://www.idealista.com/inmueble/110655898/",
+    "titel": "Casa rural"
+  },
+  {
+    "preis": 5900000.0,
+    "zimmer": 5.0,
+    "grd": 7000.0,
+    "wfl": 1600,
+    "ort": "La Vileta - Son Rapinya, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/108240469/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7000.0,
+    "wfl": 395,
+    "ort": "Son Ferriol - Sant Jordi, Palma de Mallorca",
+    "url": "https://www.idealista.com/inmueble/109425955/",
+    "titel": "Casa independiente"
+  },
+  {
+    "preis": 3999000.0,
+    "zimmer": 5.0,
+    "grd": 7000.0,
+    "wfl": "4,252 sq. ft.",
+    "ort": null,
+    "url": "https://www.rightmove.co.uk/properties/168703472?currencyCode=GBP#/?channel=OVERSEAS",
+    "titel": "5-Bedroom Villa for Sale in Puntiro, Palma"
+  },
+  {
+    "preis": 5500000.0,
+    "zimmer": 5.0,
+    "grd": 7000.0,
+    "wfl": 700,
+    "ort": "Alaró",
+    "url": "https://www.livingblue-mallorca.com/de-de/immobilien/717623e9-0be1-11f1-b3d3-060000000057",
+    "titel": "Fantastische Neubau-Immobilie mit unvergleichlichem Blick in Alaró mit Schwimmbad, Garage und Aufzug - Einzugsbereit"
+  }
+]

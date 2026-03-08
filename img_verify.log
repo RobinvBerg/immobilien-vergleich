@@ -1,0 +1,18 @@
+=== SCHRITT 1: DUPLIKATE ===
+⚠️  6 Duplikate in 2 Gruppen:
+  3x: [73, 194, 200]
+  3x: [104, 210, 279]
+
+=== SCHRITT 2: LIVINGBLUE BILD-VERGLEICH ===
+LivingBlue mit Bild in lb_bilder/: 104
+
+✅ Korrekt: 104/104
+🔄 Korrigiert: 0
+❓ Kein LB-Referenzbild: 0: []
+
+=== FINAL: DUPLIKAT-CHECK NACH KORREKTUREN ===
+⚠️  Noch 6 Duplikate:
+  3x: [73, 194, 200]
+  3x: [104, 210, 279]
+
+FERTIG

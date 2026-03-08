@@ -1,0 +1,389 @@
+=== GET IMAGES FINAL ===
+Fehlende Bilder: 77
+
+[1/77] Zeile 22 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[2/77] Zeile 30 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[3/77] Zeile 37 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[4/77] Zeile 39 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[5/77] Zeile 42 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[6/77] Zeile 44 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/7fed9688-469f-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[7/77] Zeile 46 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[8/77] Zeile 55 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[9/77] Zeile 62 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/77c0f54c-b976-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[10/77] Zeile 63 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+  💾 gespeichert (8 neu)
+
+[11/77] Zeile 74 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[12/77] Zeile 84 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[13/77] Zeile 87 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[14/77] Zeile 104 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[15/77] Zeile 106 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/767584d1-da7e-11eb-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[16/77] Zeile 109 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[17/77] Zeile 110 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[18/77] Zeile 117 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/b4ab75b8-0ba0-11ef-bc4b-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[19/77] Zeile 122 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[20/77] Zeile 142 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/a676a999-f401-11ed-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[21/77] Zeile 151 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[22/77] Zeile 159 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[23/77] Zeile 161 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[24/77] Zeile 164 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/effc176b-02a6-11ed-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[25/77] Zeile 172 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[26/77] Zeile 173 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/66935bd7-011d-11ee-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[27/77] Zeile 181 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[28/77] Zeile 183 
+  ❌ kein Bild — skip
+
+[29/77] Zeile 192 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/66b7be9c-4c67-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[30/77] Zeile 193 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+  💾 gespeichert (21 neu)
+
+[31/77] Zeile 197 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[32/77] Zeile 198 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/ae18976a-1445-11ef-b7c3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[33/77] Zeile 199 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[34/77] Zeile 200 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[35/77] Zeile 201 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/4524a33e-71a1-11ee-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[36/77] Zeile 202 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/2e2284d0-027d-11ed-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[37/77] Zeile 203 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/971ce122-24ce-11eb-8802-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[38/77] Zeile 208 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/7621b9b8-00d5-11f0-9e0e-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[39/77] Zeile 210 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[40/77] Zeile 211 
+  ❌ kein Bild — skip
+
+[41/77] Zeile 217 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/03c7d858-3ad4-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[42/77] Zeile 220 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[43/77] Zeile 222 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[44/77] Zeile 226 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[45/77] Zeile 231 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/511b5e52-241a-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[46/77] Zeile 232 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[47/77] Zeile 237 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/73f074e2-b8d4-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[48/77] Zeile 238 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[49/77] Zeile 242 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[50/77] Zeile 263 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+  💾 gespeichert (32 neu)
+
+[51/77] Zeile 268 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[52/77] Zeile 269 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[53/77] Zeile 270 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[54/77] Zeile 271 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[55/77] Zeile 275 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[56/77] Zeile 276 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[57/77] Zeile 277 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[58/77] Zeile 278 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[59/77] Zeile 279 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/6d73e82d-2d41-11ee-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[60/77] Zeile 286 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/9c3f12d2-2add-11ee-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[61/77] Zeile 289 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=25
+
+[62/77] Zeile 297 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/a900cd92-7851-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[63/77] Zeile 298 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/6ce877c0-ee7b-11ee-bc4b-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[64/77] Zeile 299 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[65/77] Zeile 301 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/91c3a2dd-42c1-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[66/77] Zeile 302 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[67/77] Zeile 305 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/99866620-c9e9-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[68/77] Zeile 307 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[69/77] Zeile 309 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/186600bc-f9e7-11ef-9e0e-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[70/77] Zeile 310 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+  💾 gespeichert (45 neu)
+
+[71/77] Zeile 313 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[72/77] Zeile 319 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/cd17e094-5a46-11f0-b3d3-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[73/77] Zeile 325 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[74/77] Zeile 326 (LivingBlue)
+  Playwright fehler: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.livingblue-mallorca.com/de-de/immobilien/42f47441-6f9d-11ec-91bc-060000000057", waiting until "networkidle"
+
+  ❌ kein Bild — skip
+
+[75/77] Zeile 329 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[76/77] Zeile 332 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+[77/77] Zeile 333 (LivingBlue)
+  ✅ Playwright: https://images.egorealestate.com/Z800x600/OAYES/S5/C8157/P29
+  → Charme=4 Reno=15
+
+=== FERTIG: 50 neu, gesamt 291/309 ===

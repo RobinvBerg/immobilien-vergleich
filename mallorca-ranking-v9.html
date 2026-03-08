@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mallorca Immobilien — Scoring v7 (Klickbar)</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#1a1a2e;color:#e0e0e0;padding:20px}
+h1{font-size:1.4em;margin-bottom:16px;color:#fff}
+.layout{display:flex;gap:24px}
+.controls{min-width:300px;max-width:340px;position:sticky;top:20px;align-self:flex-start;flex-shrink:0}
+.controls h2{font-size:1em;margin-bottom:12px;color:#aaa;text-transform:uppercase;letter-spacing:1px}
+.slider-group{margin-bottom:10px}
+.slider-group label{display:flex;justify-content:space-between;font-size:.85em;margin-bottom:3px}
+.slider-group label span.val{color:#4fc3f7;font-weight:bold;min-width:35px;text-align:right}
+input[type=range]{width:100%;accent-color:#4fc3f7;height:6px}
+.total-bar{margin:12px 0;padding:8px 12px;background:#222;border-radius:6px;font-size:.85em;display:flex;justify-content:space-between}
+.total-bar .warn{color:#ff6b6b}
+.total-bar .ok{color:#69f0ae}
+.divider{border:0;border-top:1px solid #333;margin:14px 0}
+
+.cards-wrap{flex:1;min-width:0}
+.cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px;align-items:stretch}
+
+.card{background:#16213e;border-radius:12px;overflow:hidden;transition:transform .2s,box-shadow .2s;position:relative;display:flex;flex-direction:column}
+.card.excluded{opacity:0.45;border:2px solid #c0392b;pointer-events:auto}
+.card.excluded .excl-badge{display:block}
+.excl-badge{display:none;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(192,57,43,0.9);color:#fff;padding:6px 14px;border-radius:8px;font-size:0.85rem;font-weight:700;z-index:10;white-space:nowrap}
+.delisted-badge{position:absolute;top:12px;right:12px;background:rgba(230,126,34,0.92);color:#fff;padding:4px 10px;border-radius:6px;font-size:0.75rem;font-weight:700;z-index:10;white-space:nowrap}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.4)}
+.card[style*="cursor: pointer"]:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(79,195,247,.3);border:1px solid rgba(79,195,247,.5)}
+.card.top3{border:1px solid rgba(79,195,247,.3)}
+.card.rank-1{border-color:#ffd700;box-shadow:0 0 16px rgba(255,215,0,.2)}
+.card.rank-2{border-color:#c0c0c0;box-shadow:0 0 12px rgba(192,192,192,.15)}
+.card.rank-3{border-color:#cd7f32;box-shadow:0 0 12px rgba(205,127,50,.15)}
+
+.card-img{width:100%;height:200px;object-fit:cover;display:block}
+.rank-badge{position:absolute;top:12px;left:12px;background:rgba(26,26,46,.85);color:#4fc3f7;font-weight:bold;font-size:1.3em;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;border:2px solid #4fc3f7;text-shadow:0 1px 2px rgba(0,0,0,.3)}
+.rank-1 .rank-badge{background:linear-gradient(135deg,#ffd700,#ffb300);color:#1a1a2e;border-color:#ffd700;font-size:1.4em;box-shadow:0 0 12px rgba(255,215,0,.5)}
+.rank-2 .rank-badge{background:linear-gradient(135deg,#c0c0c0,#a0a0a0);color:#1a1a2e;border-color:#c0c0c0;font-size:1.4em;box-shadow:0 0 10px rgba(192,192,192,.4)}
+.rank-3 .rank-badge{background:linear-gradient(135deg,#cd7f32,#a0522d);color:#fff;border-color:#cd7f32;font-size:1.4em;box-shadow:0 0 10px rgba(205,127,50,.4)}
+
+.card-body{padding:16px;flex:1;display:flex;flex-direction:column}
+.card-name{font-size:1.05em;font-weight:bold;color:#fff;margin-bottom:2px}
+.card-location{font-size:.82em;color:#888;margin-bottom:10px}
+
+.score-row{display:flex;align-items:center;gap:8px;margin-bottom:14px}
+.score-bar-bg{flex:1;height:10px;background:#2a2a4a;border-radius:5px;overflow:hidden}
+.score-bar-fill{height:100%;border-radius:5px;transition:width .3s}
+.score-num{font-weight:bold;font-size:1.1em;min-width:42px;text-align:right}
+
+.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px 16px;font-size:.82em;margin-bottom:12px}
+.stat-label{color:#888}
+.stat-value{color:#ccc;font-weight:500;text-align:right}
+
+.badges{display:flex;flex-wrap:wrap;gap:6px}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.75em;font-weight:bold}
+.badge-ja{background:#2e7d32;color:#fff}
+.badge-maybe{background:#f57f17;color:#fff}
+.badge-no{background:#333;color:#666}
+.badge-info{background:#1a3a5c;color:#4fc3f7}
+.card-price{font-size:1.2em;font-weight:bold;color:#e0e0e0;margin-bottom:12px}
+.card-price span{color:#4fc3f7;font-size:1.05em}
+
+.license-ribbon{position:absolute;top:14px;right:-2px;padding:4px 14px 4px 10px;font-size:.82em;font-weight:bold;border-radius:4px 0 0 4px;z-index:2}
+.license-ribbon.lic-ja{background:#00c853;color:#fff;box-shadow:0 0 14px rgba(0,200,83,.55),0 2px 6px rgba(0,0,0,.3)}
+.license-ribbon.lic-maybe{background:#ff9800;color:#fff;box-shadow:0 0 12px rgba(255,152,0,.5),0 2px 6px rgba(0,0,0,.3)}
+.license-ribbon.lic-no{background:#444;color:#888;box-shadow:0 2px 4px rgba(0,0,0,.2)}
+
+.badges-row{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:8px}
+
+@media(max-width:760px){
+  .layout{flex-direction:column}
+  .controls{max-width:100%;position:static}
+  .cards-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<h1>🏡 Mallorca Immobilien — Interaktives Scoring</h1>
+<div class="layout">
+<div class="controls">
+<h2>Gewichtungen</h2>
+<div id="sliders"></div>
+<div id="weightSum" style="margin-top:6px;font-size:.9em;font-weight:bold;padding:4px 8px;border-radius:4px;text-align:center"></div>
+
+<hr class="divider">
+<h2>Budget-Grenze</h2>
+<div id="budgetSlider"></div>
+<hr class="divider">
+<h2>Schwellenwerte Zimmer</h2>
+<div id="zimmerTh"></div>
+<hr class="divider">
+<h2>Schwellenwerte Grundstück</h2>
+<div id="grundTh"></div>
+<hr class="divider">
+<h2>Schwellenwerte Gästehaus</h2>
+<div id="gaesteTh"></div>
+<h2>Schwellenwerte Erreichbarkeit</h2>
+<div id="thresholds"></div>
+</div>
+<div class="cards-wrap">
+<div class="cards-grid" id="cardsGrid"></div>
+</div>
+</div>
+<script>
+const DATA = [{"name": "Establiments — Das Volumen; 762m² zum Umdenken", "desc": "Riesig, tolle Lage — aber nur 4 Zimmer. Umbau nötig, dann ein Monster.", "img": "images/image_001.jpg", "zimmer": 4, "grundstueck": 20262, "garten": 19500, "location": "Establiments", "ss_min": 53, "fl_min": 20, "daia_min": 39, "and_min": 35, "preis": 3600000, "bebaut": 762, "charme": 4, "reno": 70, "baujahr": "~1960s", "bewirt": 3, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/106332052/", "gaestehaus": 0}, {"name": "Binissalem — Platz für alle; 8 Zimmer, endlose Gärten", "desc": "Sommer im Garten, Elli zum Abendessen — alles nah, alles einfach.", "img": "images/image_002.jpg", "zimmer": 8, "grundstueck": 8261, "garten": 7861, "location": "Binissalem", "ss_min": 57, "fl_min": 24, "daia_min": 42, "and_min": 42, "preis": 3400000, "bebaut": 400, "charme": 4, "reno": 72, "baujahr": "2002", "bewirt": 3, "vermiet": 0, "url": "https://www.engelvoelkers.com/es/de/exposes/6971ac2a-f182-5703-a001-2c6f306cd2ae?utm_source=expose_sharing&utm_medium=copy_link", "gaestehaus": 2}, {"name": "Establiments — Charme-Refugium; altes Steinhaus mit Charakter", "desc": "Altes Steinhaus mit Charakter — aber Renovierung nötig für moderne Standards.", "img": "images/image_003.jpg", "zimmer": 7, "grundstueck": 14393, "garten": 13792, "location": "Establiments", "ss_min": 53, "fl_min": 20, "daia_min": 39, "and_min": 35, "preis": 4500000, "bebaut": 601, "charme": 5, "reno": 62, "baujahr": "1980", "bewirt": 2, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/106744049/", "gaestehaus": 1}, {"name": "Palmanyola — Klein aber Wow; Designvilla vor den Toren Palmas", "desc": "Modern, sofort bezugsfertig, nah dran — aber Grundstück zu klein für drei Kinder.", "img": "images/image_004.jpg", "zimmer": 5, "grundstueck": 2500, "garten": 1830, "location": "Palmanyola", "ss_min": 50, "fl_min": 16, "daia_min": 23, "and_min": 32, "preis": 5600000, "bebaut": 670, "charme": 4, "reno": 78, "baujahr": "~1990s", "bewirt": 4, "vermiet": 0, "url": "https://www.idealista.com/inmueble/109708161/", "gaestehaus": 0}, {"name": "Santa Maria — Potenzial pur; Rohling in Traumlage", "desc": "Traumlage, nah am Flughafen — aber unfertig. Mit kleinen Kindern erstmal stressig.", "img": "images/image_005.jpg", "zimmer": 5, "grundstueck": 29307, "garten": 28807, "location": "Sta Maria", "ss_min": 49, "fl_min": 16, "daia_min": 32, "and_min": 34, "preis": 4100000, "bebaut": 500, "charme": 4, "reno": 48, "baujahr": "2024", "bewirt": 3, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/106300856/", "gaestehaus": 1}, {"name": "Campos — Zum Selbermachen; ehrliche Finca, ehrlicher Preis", "desc": "Solide Basis, fairer Preis — aber hier muss noch Hand angelegt werden.", "img": "images/image_006.jpg", "zimmer": 6, "grundstueck": 11700, "garten": 11344, "location": "Campos", "ss_min": 13, "fl_min": 21, "daia_min": 57, "and_min": 50, "preis": 2850000, "bebaut": 356, "charme": 4, "reno": 50, "baujahr": "~1990s", "bewirt": 3, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/81539590/", "gaestehaus": 2}, {"name": "Sa Ràpita — Strandgold; aufwachen, Es Trenc, fertig", "desc": "10 Minuten zum Es Trenc Strand, perfekt für Sommer — aber über eine Stunde zum Familienhaus.", "img": "images/image_007.jpg", "zimmer": 5, "grundstueck": 30000, "garten": 29467, "location": "Sa Ràpita", "ss_min": 17, "fl_min": 28, "daia_min": 64, "and_min": 58, "preis": 3950000, "bebaut": 533, "charme": 4, "reno": 68, "baujahr": "2024", "bewirt": 2, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/109467637/", "gaestehaus": 1}, {"name": "Sa Ràpita — Vision 1800; 5 Hektar warten auf deine Handschrift", "desc": "Für Visionäre — aber nichts für 6 Wochen im Jahr. Ehrlich gesagt: zu viel Projekt.", "img": "images/image_008.jpg", "zimmer": 6, "grundstueck": 51000, "garten": 50320, "location": "Sa Ràpita", "ss_min": 17, "fl_min": 28, "daia_min": 64, "and_min": 58, "preis": 2950000, "bebaut": 680, "charme": 3, "reno": 30, "baujahr": "1800", "bewirt": 4, "vermiet": 0, "url": "https://www.idealista.com/de/inmueble/106134268/", "gaestehaus": 1}, {"name": "Sencelles — 13 Hektar Paradies; dein eigenes Landgut", "desc": "13 Hektar Privatsphäre — genug Platz für alles was ihr vorhabt.", "img": "images/image_009.jpg", "zimmer": 6, "grundstueck": 132500, "garten": 131818, "location": "Sencelles", "ss_min": 45, "fl_min": 26, "daia_min": 44, "and_min": 45, "preis": 3900000, "bebaut": 682, "charme": 5, "reno": 85, "baujahr": "1890", "bewirt": 2, "vermiet": 50, "url": "https://ev-mallorca.com/en/mallorca-property/excellent-estate-with-its-own-vineyard-olive-grove-and-incredible-charm-W-02Q8YG", "gaestehaus": 1, "delisted": true}, {"name": "Ses Salines — Neubau Deluxe; einziehen und leben", "desc": "Koffer abstellen, fertig. Aber weit vom Familienhaus und über Budget.", "img": "images/image_010.jpg", "zimmer": 5, "grundstueck": 23800, "garten": 23401, "location": "Ses Salines", "ss_min": 0, "fl_min": 34, "daia_min": 70, "and_min": 63, "preis": 5450000, "bebaut": 399, "charme": 5, "reno": 98, "baujahr": "2025", "bewirt": 4, "vermiet": 0, "url": "https://ev-mallorca.com/en/mallorca-property/unique-designer-house-in-a-quiet-location-W-0475DS", "gaestehaus": 0}, {"name": "Moscari — Architekten-Traum; Design trifft Serra de Tramuntana", "desc": "Aufwachen mit Bergblick, einschlafen mit Stille — aber weit weg vom Familienhaus.", "img": "images/image_011.jpg", "zimmer": 5, "grundstueck": 19811, "garten": 18979, "location": "Moscari", "ss_min": 62, "fl_min": 34, "daia_min": 52, "and_min": 52, "preis": 3950000, "bebaut": 832, "charme": 5, "reno": 92, "baujahr": "2018", "bewirt": 4, "vermiet": 0, "url": "https://ev-mallorca.com/en/mallorca-property/where-contemporary-design-blends-in-perfect-harmony-with-the-mediterranean-landscape-W-02NQDS", "gaestehaus": 0}, {"name": "Campos — Finca mit Lizenz; 14 Hektar mallorquinischer Traum", "desc": "Vermieten wenn ihr nicht da seid, ankommen wenn ihr wollt — die Finca rechnet sich.", "img": "images/image_012.jpg", "zimmer": 6, "grundstueck": 14200, "garten": 13764, "location": "Campos", "ss_min": 13, "fl_min": 23, "daia_min": 57, "and_min": 50, "preis": 3490000, "bebaut": 436, "charme": 4, "reno": 65, "baujahr": "1997", "bewirt": 2, "vermiet": 100, "url": "https://ev-mallorca.com/en/mallorca-property/dreamlike-finca-with-rental-license-near-es-trenc-W-02ZICD", "gaestehaus": 0}, {"name": "Bunyola — Berglage mit Lizenz; Tramuntana vor der Tür", "desc": "20 Minuten zum Familienhaus, Berge vor der Tür, Gäste im Haus — alles gleichzeitig.", "img": "images/image_013.jpg", "zimmer": 6, "grundstueck": 14785, "garten": 0, "location": "Bunyola", "ss_min": 53, "fl_min": 20, "daia_min": 20, "and_min": 38, "preis": 3500000, "bebaut": 355, "charme": 5, "reno": 70, "baujahr": "2008", "bewirt": 3, "vermiet": 100, "url": "https://www.idealista.com/inmueble/110322709/", "gaestehaus": 2}];
+
+const weights = [
+  {id:'zimmer',label:'Zimmer',val:20,min:0,max:20},
+  {id:'preis',label:'Preis/Budget',val:15,min:0,max:20},
+  {id:'value',label:'Preis-Leistung',val:15,min:0,max:20},
+  {id:'grund',label:'Grundstück/Garten-Verhältnis',val:15,min:0,max:20},
+  {id:'erreich',label:'Erreichbarkeit',val:10,min:0,max:20},
+  {id:'vermiet',label:'Vermietlizenz',val:10,min:0,max:20},
+  {id:'charme',label:'Charme/Ästhetik',val:10,min:0,max:20},
+  {id:'bewirt',label:'Bewirtschaftung',val:5,min:0,max:20},
+  {id:'reno',label:'Renovierung',val:0,min:0,max:20},
+  {id:'gaeste',label:'Gästehaus',val:0,min:0,max:20}
+];
+
+let budgetLimit = 5000000;
+
+const thresholds = [
+  {id:'daia_ideal',label:'Daia Ideal (min)',val:20,min:5,max:60},
+  {id:'daia_akz',label:'Daia Akzeptabel',val:40,min:10,max:80},
+  {id:'daia_deal',label:'Daia Dealbreaker',val:70,min:20,max:120},
+  {id:'fl_ideal',label:'Flughafen Ideal',val:15,min:5,max:40},
+  {id:'fl_akz',label:'Flughafen Akzeptabel',val:25,min:10,max:50},
+  {id:'fl_deal',label:'Flughafen Dealbreaker',val:40,min:15,max:60},
+  {id:'and_ideal',label:'Andratx Ideal',val:25,min:5,max:50},
+  {id:'and_akz',label:'Andratx Akzeptabel',val:40,min:10,max:70},
+  {id:'and_deal',label:'Andratx Dealbreaker',val:60,min:20,max:90},
+  {id:'daia_w',label:'Gewicht Daia %',val:50,min:0,max:100},
+  {id:'fl_w',label:'Gewicht Flughafen %',val:30,min:0,max:100},
+  {id:'and_w',label:'Gewicht Andratx %',val:15,min:0,max:100},{id:'ss_ideal',label:'Ses Salines Ideal',val:15,min:5,max:40},{id:'ss_akz',label:'Ses Salines Akzeptabel',val:30,min:10,max:60},{id:'ss_deal',label:'Ses Salines Dealbreaker',val:45,min:20,max:90},{id:'ss_w',label:'Gewicht Ses Salines %',val:20,min:0,max:100},
+];
+
+const zimmerTh = [
+  {id:'zi_min',label:'Minimum Zimmer',val:5,min:3,max:10},
+  {id:'zi_ideal',label:'Ideal Zimmer',val:8,min:5,max:15},
+];
+
+const grundTh = [
+  {id:'gr_min',label:'Grundstück Min (m²)',val:3000,min:0,max:20000,step:500},
+  {id:'gr_ideal',label:'Grundstück Ideal (m²)',val:15000,min:5000,max:50000,step:1000},
+  {id:'ga_min',label:'Garten Min (m²)',val:1000,min:0,max:10000,step:500},
+  {id:'ga_ideal',label:'Garten Ideal (m²)',val:5000,min:1000,max:30000,step:500},
+];
+
+const gaesteTh = [
+  {id:'gh_min',label:'Minimum Gästehäuser',val:0,min:0,max:2},
+];
+
+function formatBudget(val) {
+  return (val/1e6).toFixed(val%1e6===0?1:2).replace('.',',') + ' Mio €';
+}
+
+function makeSliders(container, items, onChange) {
+  const el = document.getElementById(container);
+  items.forEach(s => {
+    const d = document.createElement('div');
+    d.className = 'slider-group';
+    const min = s.min ?? 0, max = s.max ?? 40, step = s.step ?? 1;
+    d.innerHTML = `<label>${s.label} <span class="val" id="v_${s.id}">${s.val}</span></label><input type="range" id="s_${s.id}" min="${min}" max="${max}" step="${step}" value="${s.val}">`;
+    el.appendChild(d);
+    d.querySelector('input').addEventListener('input', e => {
+      s.val = Number(e.target.value);
+      document.getElementById('v_'+s.id).textContent = s.val;
+      onChange();
+    });
+  });
+}
+
+function initBudgetSlider() {
+  const el = document.getElementById('budgetSlider');
+  const d = document.createElement('div');
+  d.className = 'slider-group';
+  d.innerHTML = `<label>Budget-Grenze <span class="val" id="v_budget">${formatBudget(budgetLimit)}</span></label><input type="range" id="s_budget" min="1000000" max="10000000" step="250000" value="${budgetLimit}">`;
+  el.appendChild(d);
+  d.querySelector('input').addEventListener('input', e => {
+    budgetLimit = Number(e.target.value);
+    document.getElementById('v_budget').textContent = formatBudget(budgetLimit);
+    compute();
+  });
+}
+
+function getW(id) { return weights.find(w=>w.id===id).val; }
+function getT(id) { return thresholds.find(t=>t.id===id).val; }
+function getZ(id) { return zimmerTh.find(t=>t.id===id).val; }
+function getG(id) { return grundTh.find(t=>t.id===id).val; }
+function getGH(id) { return gaesteTh.find(t=>t.id===id).val; }
+
+function destScore(mins, ideal, akz, deal) {
+  if (mins <= ideal) return 100;
+  if (mins >= deal) return 0;
+  if (mins <= akz) return 100 - ((mins-ideal)/(akz-ideal))*50;
+  return 50 - ((mins-akz)/(deal-akz))*50;
+}
+
+function preisScore(preis) {
+  if (preis <= 0) return 100;
+  const b = budgetLimit;
+  if (preis <= b) {
+    // Linear: 0€ = 100, budget = 50
+    return 100 - (preis / b) * 50;
+  } else {
+    // Linear: budget = 50, 2x budget = 0
+    if (preis >= 2 * b) return 0;
+    return 50 - ((preis - b) / b) * 50;
+  }
+}
+
+function compute() {
+  const totalWeight = weights.reduce((s,w)=>s+w.val,0);
+
+  const scored = DATA.map(o => {
+    const ziMin=getZ('zi_min'), ziIdeal=getZ('zi_ideal');
+    const sZi = o.zimmer<ziMin ? 0 : o.zimmer>=ziIdeal ? 100 : ((o.zimmer-ziMin)/(ziIdeal-ziMin))*100;
+
+    const dw=getT('daia_w'), fw=getT('fl_w'), aw=getT('and_w'), sw=getT('ss_w');
+    const dwt=dw+fw+aw+sw||1;
+    const sEr = (destScore(o.daia_min,getT('daia_ideal'),getT('daia_akz'),getT('daia_deal'))*(dw/dwt)
+      + destScore(o.fl_min,getT('fl_ideal'),getT('fl_akz'),getT('fl_deal'))*(fw/dwt)
+      + destScore(o.and_min,getT('and_ideal'),getT('and_akz'),getT('and_deal'))*(aw/dwt)+ destScore(o.ss_min||45,getT('ss_ideal'),getT('ss_akz'),getT('ss_deal'))*(sw/dwt));
+
+    const grMin=getG('gr_min'),grId=getG('gr_ideal'),gaMin=getG('ga_min'),gaId=getG('ga_ideal');
+    const sg = o.grundstueck<grMin?0:o.grundstueck>=grId?100:((o.grundstueck-grMin)/(grId-grMin))*100;
+    const sga = o.garten<gaMin?0:o.garten>=gaId?100:((o.garten-gaMin)/(gaId-gaMin))*100;
+    const sGr = sg*0.5+sga*0.5;
+
+    const sCh = (o.charme/5)*100;
+    const sVm = o.vermiet;
+    const sRe = o.reno;
+    const sBw = (o.bewirt/5)*100;
+    const sPr = preisScore(o.preis);
+
+    const ghMin = getGH('gh_min');
+    const excluded = (o.zimmer < ziMin) || (o.grundstueck < grMin) || (o.preis > budgetLimit) || (o.gaestehaus < ghMin);
+    let excludeReason = '';
+    if (o.zimmer < ziMin) excludeReason = 'Zu wenig Zimmer';
+    else if (o.grundstueck < grMin) excludeReason = 'Grundstück zu klein';
+    else if (o.preis > budgetLimit) excludeReason = 'Über Budget';
+    else if (o.gaestehaus < ghMin) excludeReason = 'Zu wenig Gästehäuser';
+    return {...o, sZi, sEr, sGr, sCh, sVm, sRe, sBw, sPr, excluded, excludeReason, _val:null};
+  });
+
+  // Preis-Leistung (relative comparison)
+  const eur_m2 = scored.filter(o=>o.bebaut>0&&o.preis>0).map(o=>o.preis/o.bebaut);
+  const rpm = scored.filter(o=>o.preis>0).map(o=>o.zimmer/(o.preis/1e6));
+  const minE=Math.min(...eur_m2),maxE=Math.max(...eur_m2);
+  const minR=Math.min(...rpm),maxR=Math.max(...rpm);
+
+  scored.forEach(o => {
+    let s1=50,s2=50;
+    if(o.bebaut>0&&o.preis>0&&maxE>minE) s1=(1-(o.preis/o.bebaut-minE)/(maxE-minE))*100;
+    if(o.preis>0&&maxR>minR) s2=((o.zimmer/(o.preis/1e6)-minR)/(maxR-minR))*100;
+    o.sVa = s1*0.5+s2*0.5;
+  });
+
+  // Weighted average: sum(score_i * weight_i) / sum(weight_i)
+  scored.forEach(o => {
+    if (totalWeight === 0) { o.score = 0; return; }
+    const sGa = (o.gaestehaus / 2) * 100;
+    o.sGa = sGa;
+    o.score = (
+      o.sZi*getW('zimmer') + o.sEr*getW('erreich') + o.sGr*getW('grund')
+      + o.sCh*getW('charme') + o.sVm*getW('vermiet') + o.sVa*getW('value')
+      + o.sRe*getW('reno') + o.sBw*getW('bewirt') + o.sPr*getW('preis') + o.sGa*getW('gaeste')
+    ) / totalWeight;
+    if (o.excluded) o.score = -1;
+  });
+
+  scored.sort((a,b)=>b.score-a.score);
+  render(scored);
+}
+
+// URL mapping for properties with external links
+
+
+
+
+function render(data) {
+  const grid = document.getElementById('cardsGrid');
+  grid.innerHTML = '';
+  const maxScore = data[0]?.score||1;
+  data.forEach((o,i) => {
+    const pct = (o.score/maxScore)*100;
+    const hue = Math.round((o.score/100)*120);
+    const color = `hsl(${hue},70%,50%)`;
+    const licRibbon = o.vermiet>=100?'<div class="license-ribbon lic-ja">✓ Lizenz</div>':o.vermiet>=50?'<div class="license-ribbon lic-maybe">~ Evtl. Lizenz</div>':'<div class="license-ribbon lic-no">– Keine Lizenz</div>';
+    const delistedBadge = o.delisted ? '<div class="delisted-badge">⚠️ Nicht mehr gelistet</div>' : '';
+
+    const rankMedal = !o.excluded?(i===0?'🥇':i===1?'🥈':i===2?'🥉':''):'';
+    const rankClass = o.excluded?' excluded':(i<3?` top3 rank-${i+1}`:'');
+    const card = document.createElement('div');
+    card.className = 'card' + rankClass;
+    card.innerHTML = `
+      <img class="card-img" src="${o.img}" alt="${o.name}" loading="lazy">
+      <div class="excl-badge">⛔ ${o.excludeReason}</div>
+      <div class="rank-badge">${o.excluded?'—':(rankMedal||i+1)}</div>
+      ${licRibbon}
+      ${delistedBadge}
+      <div class="card-body">
+        <div class="card-name">${o.name}</div><div style="font-style:italic;font-size:0.9em;color:#bbb;font-weight:500;margin-top:4px">${o.desc || ""}</div>
+        <div class="card-location">📍 ${o.location}</div>
+        <div class="score-row">
+          <div class="score-bar-bg"><div class="score-bar-fill" style="width:${pct}%;background:${color}"></div></div>
+          <div class="score-num" style="color:${color}">${o.excluded?'—':o.score.toFixed(1)}</div>
+        </div>
+        <div class="card-price">💰 <span>${(o.preis/1e6).toFixed(2)}M €</span></div>
+        <div class="stats-grid">
+          <span class="stat-label">Zimmer</span><span class="stat-value">${o.zimmer}</span>
+          <span class="stat-label">Fläche</span><span class="stat-value">${o.bebaut.toLocaleString('de')} m²</span>
+          <span class="stat-label">Grundstück</span><span class="stat-value">${o.grundstueck.toLocaleString('de')} m²</span>
+          <span class="stat-label">Garten</span><span class="stat-value">${o.garten.toLocaleString('de')} m²</span>
+          <span class="stat-label">✈️ Flughafen</span><span class="stat-value">${o.fl_min} min</span>
+          <span class="stat-label">🏠 Daia</span><span class="stat-value">${o.daia_min} min</span>
+          <span class="stat-label">⛵ Andratx</span><span class="stat-value">${o.and_min} min</span>
+          <span class="stat-label">💶 Preis-Score</span><span class="stat-value">${o.sPr.toFixed(0)}/100</span>
+        </div>
+        <div class="badges-row">
+          <span class="badge badge-info">Charme ${o.charme}/5</span>
+          <span class="badge badge-info">Reno ${o.reno}/100</span>
+          <span class="badge badge-info">Bewirt ${o.bewirt}/5</span>
+          <span class="badge badge-info">Gästehaus ${o.gaestehaus}</span>
+        </div>
+      </div>`;
+
+    // Add click handler to make cards clickable
+    const url = o.url || null;
+    if (url) {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', () => {
+        window.open(url, '_blank');
+      });
+    }
+
+    grid.appendChild(card);
+  });
+}
+
+function updateWeightSum() {
+  const sum = weights.reduce((s,w)=>s+w.val,0);
+  const el = document.getElementById('weightSum');
+  const ok = sum <= 100;
+  el.textContent = 'Gesamt: ' + sum + '%' + (ok ? ' ✅' : ' ⚠️');
+  el.style.color = ok ? '#66bb6a' : '#ef5350';
+  el.style.background = ok ? 'rgba(102,187,106,.12)' : 'rgba(239,83,80,.12)';
+}
+makeSliders('sliders', weights, () => { updateWeightSum(); compute(); });
+makeSliders('thresholds', thresholds, compute);
+makeSliders('zimmerTh', zimmerTh, compute);
+makeSliders('grundTh', grundTh, compute);
+makeSliders('gaesteTh', gaesteTh, compute);
+initBudgetSlider();
+updateWeightSum();
+compute();
+
+
+// Property Card Click Handlers
+let propertyData = [];
+
+// Load JSON data
+fetch('./excel_data_with_links.json')
+    .then(response => response.json())
+    .then(data => {
+        propertyData = data;
+        addClickHandlers();
+    })
+    .catch(error => console.error('Error loading property data:', error));
+
+function addClickHandlers() {
+    const cards = document.querySelectorAll('.card');
+    
+    cards.forEach((card, index) => {
+        card.style.cursor = 'pointer';
+        card.addEventListener('click', function() {
+            // Find property by name in card
+            const nameElement = card.querySelector('h3');
+            if (!nameElement) return;
+            
+            const cardName = nameElement.textContent.trim();
+            
+            // Try to find matching property by name
+            let property = propertyData.find(prop => 
+                prop.Name && cardName.includes(prop.Name.substring(0, 20))
+            );
+            
+            // If not found by name, try by index position
+            if (!property && index < propertyData.length) {
+                property = propertyData[index];
+            }
+            
+            if (property && property.URL) {
+                window.open(property.url, '_blank');
+            } else {
+                console.log('No URL found for property:', cardName);
+            }
+        });
+    });
+    
+    console.log(`Added click handlers to ${cards.length} cards`);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1350 @@
+=== Mallorca Bilder-Analyse gestartet ===
+Gesamt: 309 Objekte, bereits erledigt: 0
+
+[1/309] Zeile 15: https://www.balearic-properties.com/en/property/id/874083-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+=== Mallorca Bilder-Analyse gestartet ===
+Gesamt: 309 Objekte, bereits erledigt: 0
+
+[1/309] Zeile 15: https://www.balearic-properties.com/en/property/id/874083-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=45 Gebäude=Rustikale Steinburg/Finca mit Haupthaus,
+
+[2/309] Zeile 16: https://www.balearic-properties.com/en/property/id/824989-en
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=3 Reno=15 Gebäude=Modernes Landgut mit Haupthaus, mehreren
+
+[3/309] Zeile 17: https://www.luxury-estates-mallorca.com/en/historic-stone-fi
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPO144
+  → Charme=4 Reno=35 Gebäude=Rustikale Steinhaus-Finca mit traditione
+
+[4/309] Zeile 18: https://www.engelvoelkers.com/de/de/exposes/d52e10c1-38b2-5b
+  ✅ main: https://uploadcare.engelvoelkers.com/ad501604-7c7a-442b-96ea
+  → Charme=4 Reno=55 Gebäude=Rustikale Possessió mit Haupthaus (Stein
+
+[5/309] Zeile 19: https://www.engelvoelkers.com/de/de/exposes/94a816a5-ee1c-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/84aa7f19-462b-4111-b858
+  → Charme=2 Reno=85 Gebäude=Rustikale Finca mit mehreren Gebäuden, H
+
+[6/309] Zeile 20: https://www.engelvoelkers.com/de/de/exposes/d3fb629c-b54d-55
+  ✅ main: https://uploadcare.engelvoelkers.com/ea6e78bd-86c8-47c7-beba
+  → Charme=4 Reno=45 Gebäude=Historischer Gutshof aus dem 15. Jahrhun
+
+[7/309] Zeile 21: https://www.livingblue-mallorca.com/de-de/immobilien/2ff5a8f
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[8/309] Zeile 22: https://www.livingblue-mallorca.com/de-de/immobilien/5d667e2
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[9/309] Zeile 23: https://www.livingblue-mallorca.com/de-de/immobilien/03af80d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[10/309] Zeile 24: https://www.balearic-properties.com/en/property/id/822403-co
+=== Mallorca Bilder-Analyse gestartet ===
+Gesamt: 309 Objekte, bereits erledigt: 0
+
+[1/309] Zeile 15: https://www.balearic-properties.com/en/property/id/874083-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=65 Gebäude=Rustikale Steinmansion mit Nebengebäuden
+
+[2/309] Zeile 16: https://www.balearic-properties.com/en/property/id/824989-en
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=3 Reno=15 Gebäude=Moderne Finca mit Haupthaus, separatem G
+
+[3/309] Zeile 17: https://www.luxury-estates-mallorca.com/en/historic-stone-fi
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPO144
+  → Charme=4 Reno=35 Gebäude=Rustikale Steinf inca mit Haupthaus, mas
+
+[4/309] Zeile 18: https://www.engelvoelkers.com/de/de/exposes/d52e10c1-38b2-5b
+  ✅ main: https://uploadcare.engelvoelkers.com/ad501604-7c7a-442b-96ea
+  → Charme=4 Reno=55 Gebäude=Rustikale Possessió mit Haupthaus (Terra
+
+[5/309] Zeile 19: https://www.engelvoelkers.com/de/de/exposes/94a816a5-ee1c-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/84aa7f19-462b-4111-b858
+  → Charme=2 Reno=85 Gebäude=Rustikale Finca mit mehreren Gebäuden, H
+
+[6/309] Zeile 20: https://www.engelvoelkers.com/de/de/exposes/d3fb629c-b54d-55
+  ✅ main: https://uploadcare.engelvoelkers.com/ea6e78bd-86c8-47c7-beba
+  → Charme=4 Reno=45 Gebäude=Historischer Gutshof aus dem 15. Jahrhun
+
+[7/309] Zeile 21: https://www.livingblue-mallorca.com/de-de/immobilien/2ff5a8f
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[8/309] Zeile 22: https://www.livingblue-mallorca.com/de-de/immobilien/5d667e2
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[9/309] Zeile 23: https://www.livingblue-mallorca.com/de-de/immobilien/03af80d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[10/309] Zeile 24: https://www.balearic-properties.com/en/property/id/822403-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=35 Gebäude=Historisches Herrenhaus (ehemaliges Jesu
+
+[11/309] Zeile 25: https://www.balearic-properties.com/en/property/id/798622-es
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=35 Gebäude=Rustikale Tramuntana-Finca mit Naturstei
+
+[12/309] Zeile 26: https://www.livingblue-mallorca.com/de-de/immobilien/4458913
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[13/309] Zeile 27: https://www.luxury-estates-mallorca.com/en/historic-finca-wi
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LF1/we
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5621428 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBVhWje8LVEj6FcXkug'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[14/309] Zeile 28: https://www.balearic-properties.com/en/property/id/804531-ma
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=75 Gebäude=Rustikales Herrenhaus mit Nebengebäude, 
+
+[15/309] Zeile 29: https://www.livingblue-mallorca.com/de-de/immobilien/e483c57
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[16/309] Zeile 30: https://www.livingblue-mallorca.com/de-de/immobilien/f0bf4b8
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[17/309] Zeile 31: https://www.balearic-properties.com/en/property/id/822956-ma
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=15 Gebäude=Historisches Herrenhaus, 2-stöckig, Haup
+
+[18/309] Zeile 32: https://www.livingblue-mallorca.com/de-de/immobilien/b81ecc2
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[19/309] Zeile 33: https://www.balearic-properties.com/en/property/id/819811-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=75 Gebäude=Historisches Landgut aus dem 15. Jahrhun
+
+[20/309] Zeile 34: https://www.livingblue-mallorca.com/de-de/immobilien/938c390
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (20/309)
+
+[21/309] Zeile 35: https://www.livingblue-mallorca.com/de-de/immobilien/65f4a07
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[22/309] Zeile 36: https://www.engelvoelkers.com/de/de/exposes/d4804a45-d4c5-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/eec75283-6359-4231-ba48
+  → Charme=4 Reno=55 Gebäude=Rustikale Finca mit Haupthaus, massiven 
+
+[23/309] Zeile 37: https://www.livingblue-mallorca.com/de-de/immobilien/cd77eec
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[24/309] Zeile 38: https://www.balearic-properties.com/en/property/id/779726-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=2 Reno=65 Gebäude=Rustikale Finca mit Haupthaus (2-stöckig
+
+[25/309] Zeile 39: https://www.livingblue-mallorca.com/de-de/immobilien/93f36d9
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[26/309] Zeile 40: https://www.luxury-estates-mallorca.com/en/exclusive-finca-w
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPJ007
+  → Charme=4 Reno=5 Gebäude=Modernes Reitanlage-Anwesen mit Hauptgeb
+
+[27/309] Zeile 41: https://www.engelvoelkers.com/de/de/exposes/782d4beb-9ce3-56
+  ✅ main: https://uploadcare.engelvoelkers.com/3fa11fdf-9925-4279-8d97
+  → Charme=4 Reno=15 Gebäude=Hacienda-Stil Landgut aus den 1920er Jah
+
+[28/309] Zeile 42: https://www.livingblue-mallorca.com/de-de/immobilien/95783ea
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[29/309] Zeile 43: https://www.livingblue-mallorca.com/de-de/immobilien/c2a19b8
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[30/309] Zeile 44: https://www.livingblue-mallorca.com/de-de/immobilien/7fed968
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, zwei Gesch
+
+[31/309] Zeile 45: https://www.balearic-properties.com/en/property/id/938328-ex
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=45 Gebäude=Rustikale Steinhaus-Finca mit Hauptgebäu
+
+[32/309] Zeile 46: https://www.livingblue-mallorca.com/de-de/immobilien/33bb7b3
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[33/309] Zeile 47: https://www.livingblue-mallorca.com/de-de/immobilien/9571b11
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[34/309] Zeile 48: https://www.luxury-estates-mallorca.com/en/unique-country-re
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LBUN2/
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit hohen Decken, Balken
+
+[35/309] Zeile 49: https://sandberg-estates.com/properties/unique-estate-for-sa
+  ✅ main: https://sandberg.imgix.net/property/1732199425396-static.jpg
+  → Charme=4 Reno=5 Gebäude=Moderne Luxus-Villa mit weitläufigen Grü
+
+[36/309] Zeile 50: https://www.balearic-properties.com/en/property/id/873919-la
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Moderne, zweigeteilte Villa mit zwei sym
+
+[37/309] Zeile 51: https://www.balearic-properties.com/en/property/id/860891-fa
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Moderne Finca, eingeschossig, Haupthaus 
+
+[38/309] Zeile 52: https://www.engelvoelkers.com/de/de/exposes/f0063f8e-f7e3-52
+  ✅ main: https://uploadcare.engelvoelkers.com/f92b62c6-6041-4e9d-9243
+  → Charme=4 Reno=15 Gebäude=Historische Finca aus dem 14. Jahrhunder
+
+[39/309] Zeile 53: https://www.livingblue-mallorca.com/de-de/immobilien/6d1c3de
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[40/309] Zeile 54: https://www.luxury-estates-mallorca.com/en/authentic-mallorc
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPA239
+  → Charme=4 Reno=45 Gebäude=Rustikale Finca mit Haupthaus, Nebengebä
+  💾 Excel gespeichert (40/309)
+
+[41/309] Zeile 55: https://www.livingblue-mallorca.com/de-de/immobilien/649bfe5
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[42/309] Zeile 56: https://www.kyero.com/en/property/19513769-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  → Charme=4 Reno=35 Gebäude=Rustikale Mallorca-Finca mit Haupthaus u
+
+[43/309] Zeile 57: https://www.luxury-estates-mallorca.com/en/finca-in-santa-ma
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LMG215
+  → Charme=4 Reno=25 Gebäude=Rustikale Finca mit Haupthaus, zweistöck
+
+[44/309] Zeile 58: https://www.livingblue-mallorca.com/de-de/immobilien/82e75fe
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[45/309] Zeile 59: https://www.engelvoelkers.com/de/de/exposes/714071de-b94a-53
+  ✅ main: https://uploadcare.engelvoelkers.com/c38ea592-22b6-43b2-b2b6
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8749460 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBdTnxXyyR81XgBn6wJ'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[46/309] Zeile 61: https://www.balearic-properties.com/en/property/id/797442-an
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=65 Gebäude=Rustikale Finca, Haupthaus mit 5 Schlafz
+
+[47/309] Zeile 62: https://www.livingblue-mallorca.com/de-de/immobilien/77c0f54
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[48/309] Zeile 63: https://www.livingblue-mallorca.com/de-de/immobilien/979be18
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[49/309] Zeile 64: https://www.engelvoelkers.com/de/de/exposes/c53f1d23-11d1-54
+  ✅ main: https://uploadcare.engelvoelkers.com/a410a292-959e-43a6-bda5
+  → Charme=2 Reno=85 Gebäude=Landhaus-Neubau-Projekt, ebenerdiges Hau
+
+[50/309] Zeile 65: https://www.livingblue-mallorca.com/de-de/immobilien/3ff967c
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[51/309] Zeile 66: https://www.balearic-properties.com/en/property/id/684401-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=5 Gebäude=Klassisches Herrenhaus aus Naturstein, 3
+
+[52/309] Zeile 67: https://www.luxury-estates-mallorca.com/en/historic-country-
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LMP26/
+  → Charme=5 Reno=35 Gebäude=Historisches Weingut aus dem 13. Jahrhun
+
+[53/309] Zeile 68: https://www.luxury-estates-mallorca.com/en/finca-property-in
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LSM149
+  → Charme=4 Reno=35 Gebäude=Rustikale Finca mit zwei renovierten Häu
+
+[54/309] Zeile 69: https://www.engelvoelkers.com/de/de/exposes/433ba4ea-bbbd-59
+  ✅ main: https://uploadcare.engelvoelkers.com/2866ccab-4656-43e0-8915
+  → Charme=4 Reno=45 Gebäude=Historisches Herrenhaus von 1894, 2-stöc
+
+[55/309] Zeile 70: https://www.balearic-properties.com/en/property/id/955450-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit Haupthaus, separatem
+
+[56/309] Zeile 71: https://www.livingblue-mallorca.com/de-de/immobilien/a9aed09
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[57/309] Zeile 72: https://www.luxury-estates-mallorca.com/en/country-estate-in
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LMP17/
+  → Charme=4 Reno=35 Gebäude=Rustikale Finca mit zwei Hauptgebäuden, 
+
+[58/309] Zeile 73: https://www.engelvoelkers.com/de/de/exposes/5dfdb3fe-803e-57
+  ✅ main: https://uploadcare.engelvoelkers.com/275e5985-e078-48ba-a7b6
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9261844 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBh72A3s1UzsK3RDfoE'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[59/309] Zeile 74: https://www.livingblue-mallorca.com/de-de/immobilien/f111dfc
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[60/309] Zeile 75: https://www.livingblue-mallorca.com/de-de/immobilien/b57cb01
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (60/309)
+
+[61/309] Zeile 76: https://www.engelvoelkers.com/de/de/exposes/05467229-90e4-51
+  ✅ main: https://uploadcare.engelvoelkers.com/05e8a065-cc10-422e-a6e5
+  → Charme=4 Reno=15 Gebäude=Klassisches Herrenhaus mit mediterranem 
+
+[62/309] Zeile 77: https://www.balearic-properties.com/en/property/id/829765-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[63/309] Zeile 78: https://www.engelvoelkers.com/de/de/exposes/62bb480f-5e6b-59
+  ✅ main: https://uploadcare.engelvoelkers.com/dcb3b08f-ea12-4ac4-aa53
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 10792012 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBiK4V4WcsMcvL1RsnJ'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[64/309] Zeile 79: https://www.livingblue-mallorca.com/de-de/immobilien/c803db8
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[65/309] Zeile 80: https://www.balearic-properties.com/en/property/id/902064-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Moderne Villa, einstöckig, mit Pool und 
+
+[66/309] Zeile 81: https://www.engelvoelkers.com/de/de/exposes/b7d0d563-68a4-50
+  ✅ main: https://uploadcare.engelvoelkers.com/a8299f90-a955-48e7-8a82
+  → Charme=5 Reno=0 Gebäude=Moderne Designvilla mit großzügiger offe
+
+[67/309] Zeile 82: https://www.livingblue-mallorca.com/de-de/immobilien/1b041bc
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[68/309] Zeile 83: https://www.balearic-properties.com/en/property/id/880997-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=45 Gebäude=Historische Finca aus dem 13. Jahrhunder
+
+[69/309] Zeile 84: https://www.livingblue-mallorca.com/de-de/immobilien/e9e53ea
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus von 1880, 2-stöckig,
+
+[70/309] Zeile 85: https://www.livingblue-mallorca.com/de-de/immobilien/db8b800
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[71/309] Zeile 86: https://www.balearic-properties.com/en/property/id/918140-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Steinvilla mit Haupthaus und s
+
+[72/309] Zeile 87: https://www.livingblue-mallorca.com/de-de/immobilien/48f6ef4
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[73/309] Zeile 88: https://www.livingblue-mallorca.com/de-de/immobilien/068d3cc
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[74/309] Zeile 89: https://www.luxury-estates-mallorca.com/en/fantastic-finca-i
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPO240
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[75/309] Zeile 90: https://www.engelvoelkers.com/de/de/exposes/aef4b190-91e5-58
+  ✅ main: https://uploadcare.engelvoelkers.com/10766775-328a-485c-9f2d
+  → Charme=4 Reno=5 Gebäude=Moderne Steinfinca, 2-stöckig mit großzü
+
+[76/309] Zeile 91: https://www.balearic-properties.com/en/property/id/951422-sp
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Steinarchitektur-Finca, Haupth
+
+[77/309] Zeile 92: https://www.kyero.com/en/property/14449091-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhBmHtse6HJdyYyJVgFj'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[78/309] Zeile 93: https://www.balearic-properties.com/en/property/id/885076-hi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=35 Gebäude=Rustikale Mallorca-Finca mit Haupthaus, 
+
+[79/309] Zeile 94: https://www.livingblue-mallorca.com/de-de/immobilien/5276049
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[80/309] Zeile 95: https://www.luxury-estates-mallorca.com/en/traditional-finca
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPA174
+  → Charme=4 Reno=25 Gebäude=Traditionelle Finca mit modernem Ausbau,
+  💾 Excel gespeichert (80/309)
+
+[81/309] Zeile 96: https://www.engelvoelkers.com/de/de/exposes/730b26c8-ff20-55
+  ✅ main: https://uploadcare.engelvoelkers.com/07b63ef5-31a8-4697-8e67
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6742860 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBnX3vJFzTuJwK4LKgp'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[82/309] Zeile 97: https://www.engelvoelkers.com/de/de/exposes/74370c16-63f6-53
+  ✅ main: https://uploadcare.engelvoelkers.com/5dccc612-579a-4a0c-a7b1
+  → Charme=4 Reno=0 Gebäude=Moderne Finca mit traditionellen mallorq
+
+[83/309] Zeile 98: https://www.engelvoelkers.com/de/de/exposes/0eb96da9-0c6e-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/e31d5104-91bc-4ef0-84bc
+  → Charme=4 Reno=5 Gebäude=Moderne Designer-Finca, eingeschossig, m
+
+[84/309] Zeile 99: https://www.engelvoelkers.com/de/de/exposes/f4a73d88-4e3c-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/d0634fcc-e3f9-43ca-8868
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8272800 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBop5P2sbFuPe3VWeuo'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[85/309] Zeile 100: https://www.engelvoelkers.com/de/de/exposes/a2242945-4113-50
+  ✅ main: https://uploadcare.engelvoelkers.com/623c7e01-cc5c-4842-b658
+  → Charme=4 Reno=15 Gebäude=Moderne mediterrane Villa mit Flachdach,
+
+[86/309] Zeile 101: https://www.livingblue-mallorca.com/de-de/immobilien/25ece56
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[87/309] Zeile 102: https://www.luxury-estates-mallorca.com/en/unique-modern-fin
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LEC261
+  → Charme=4 Reno=5 Gebäude=Moderne Design-Villa, 2-stöckig, minimal
+
+[88/309] Zeile 103: https://www.engelvoelkers.com/de/de/exposes/5f0c4629-5f4d-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/b3ca18f4-9cd1-4a27-82b7
+  → Charme=4 Reno=0 Gebäude=Moderne Finca mit Haupthaus, mehreren Ne
+
+[89/309] Zeile 104: https://www.livingblue-mallorca.com/de-de/immobilien/01c8cb1
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[90/309] Zeile 106: https://www.livingblue-mallorca.com/de-de/immobilien/767584d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[91/309] Zeile 107: https://www.engelvoelkers.com/de/de/exposes/5c402d19-2575-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/b6128448-153c-439d-9c17
+  → Charme=3 Reno=15 Gebäude=Zweistöckiges Landhaus mit Pool, Terrass
+
+[92/309] Zeile 108: https://www.engelvoelkers.com/de/de/exposes/6190eacd-7648-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/750e89b8-b686-40aa-9392
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7613284 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBr9ZxFWXQQWZHuTJ1P'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[93/309] Zeile 109: https://www.livingblue-mallorca.com/de-de/immobilien/c391db0
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[94/309] Zeile 110: https://www.livingblue-mallorca.com/de-de/immobilien/c15c973
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[95/309] Zeile 111: https://www.livingblue-mallorca.com/de-de/immobilien/c0435a8
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[96/309] Zeile 112: https://www.engelvoelkers.com/de/de/exposes/f1896bda-7d58-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/9c73cc3f-d055-47b9-a86d
+  → Charme=4 Reno=0 Gebäude=Moderne Neubaufinca mit langgestrecktem 
+
+[97/309] Zeile 113: https://www.balearic-properties.com/en/property/id/799283-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=3 Reno=5 Gebäude=Moderne Villa, 2-stöckig, minimalistisch
+
+[98/309] Zeile 114: https://www.balearic-properties.com/en/property/id/951063-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca mit minimalistischem Desig
+
+[99/309] Zeile 115: https://www.livingblue-mallorca.com/de-de/immobilien/9dde111
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[100/309] Zeile 116: https://www.engelvoelkers.com/de/de/exposes/61137de3-d543-53
+  ✅ main: https://uploadcare.engelvoelkers.com/9db6f8b6-f783-4e74-b679
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6996416 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhBtCxQSLQMZfAmH7Rxm'}
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (100/309)
+
+[101/309] Zeile 117: https://www.livingblue-mallorca.com/de-de/immobilien/b4ab75b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[102/309] Zeile 118: https://www.engelvoelkers.com/de/de/exposes/4a65b22e-ac88-51
+  ✅ main: https://uploadcare.engelvoelkers.com/8c04f20b-3cfb-4241-b4cb
+  → Charme=4 Reno=5 Gebäude=Moderne Designervilla, einstöckig, mit g
+
+[103/309] Zeile 119: https://www.engelvoelkers.com/de/de/exposes/c03fc57e-0302-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/d243a2b1-20b0-4e4e-9cb3
+  → Charme=4 Reno=15 Gebäude=Modernes Landhaus mit rustikalen Element
+
+[104/309] Zeile 120: https://www.engelvoelkers.com/de/de/exposes/2e07e567-05a6-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/39b8ce4a-9761-4dcb-82ea
+  → Charme=4 Reno=5 Gebäude=Moderne Luxus-Finca, 3-stöckig, Haupthau
+
+[105/309] Zeile 121: https://www.balearic-properties.com/en/property/id/742288-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=0 Gebäude=Moderne Designervilla mit Haupthaus, Poo
+
+[106/309] Zeile 122: https://www.livingblue-mallorca.com/de-de/immobilien/9c393ec
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, vollständi
+
+[107/309] Zeile 123: https://www.engelvoelkers.com/de/de/exposes/3c77cb7b-49ea-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/fb78537b-0468-443c-a594
+  → Charme=4 Reno=5 Gebäude=Moderne Neubau-Villa, 2-stöckig mit Pool
+
+[108/309] Zeile 124: https://www.engelvoelkers.com/de/de/exposes/96f715c6-ffab-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/c48d0e81-077a-4642-b395
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, 2-stöckig mit Terrassenba
+
+[109/309] Zeile 125: https://www.engelvoelkers.com/de/de/exposes/c543a9eb-0fd2-5f
+  ✅ main: https://uploadcare.engelvoelkers.com/e605602b-8e3b-49b0-852d
+  → Charme=4 Reno=0 Gebäude=Moderne Designerfinca mit Haupthaus (2-s
+
+[110/309] Zeile 126: https://www.livingblue-mallorca.com/de-de/immobilien/79db06d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[111/309] Zeile 127: https://www.luxury-estates-mallorca.com/en/new-low-energy-fi
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LETR16
+  → Charme=4 Reno=0 Gebäude=Moderne Neubau-Finca mit Haupthaus und m
+
+[112/309] Zeile 128: https://www.balearic-properties.com/en/property/id/819291-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Luxusvilla, einstöckig, mit Pool
+
+[113/309] Zeile 129: https://www.livingblue-mallorca.com/de-de/immobilien/b1d73b4
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[114/309] Zeile 130: https://www.livingblue-mallorca.com/de-de/immobilien/67e4c40
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[115/309] Zeile 131: https://www.balearic-properties.com/en/property/id/812613-es
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=25 Gebäude=Mediterrane Finca mit Haupthaus, rustika
+
+[116/309] Zeile 133: https://www.balearic-properties.com/en/property/id/834498-im
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus (2-stöckig, 
+
+[117/309] Zeile 134: https://www.balearic-properties.com/en/property/id/931876-el
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne mediterrane Finca mit Haupthaus 
+
+[118/309] Zeile 135: https://www.luxury-estates-mallorca.com/en/charming-country-
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPA159
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit Haupthaus, großzügig
+
+[119/309] Zeile 136: https://www.balearic-properties.com/en/property/id/869647-ec
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne mediterrane Villa, 2-stöckig mit
+
+[120/309] Zeile 137: https://www.livingblue-mallorca.com/de-de/immobilien/e928d9c
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (120/309)
+
+[121/309] Zeile 138: https://www.livingblue-mallorca.com/de-de/immobilien/c060aac
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[122/309] Zeile 139: https://www.balearic-properties.com/en/property/id/825128-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Moderne Finca im mediterranen Stil, 2-st
+
+[123/309] Zeile 140: https://www.livingblue-mallorca.com/de-de/immobilien/6bb2675
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[124/309] Zeile 141: https://www.livingblue-mallorca.com/de-de/immobilien/e18cf5f
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[125/309] Zeile 142: https://www.livingblue-mallorca.com/de-de/immobilien/a676a99
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[126/309] Zeile 143: https://www.engelvoelkers.com/de/de/exposes/464aa1da-185d-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/6a056367-a135-449b-b56b
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/png image'}, 'request_id': 'req_011CYhBzdxUdzzYNRQzmVg53'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[127/309] Zeile 144: https://www.balearic-properties.com/en/property/id/766153-al
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=5 Reno=15 Gebäude=Rustikale Finca mit Haupthaus, großzügig
+
+[128/309] Zeile 145: https://www.livingblue-mallorca.com/de-de/immobilien/bc04d87
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[129/309] Zeile 146: https://www.engelvoelkers.com/de/de/exposes/72c65e6c-33ac-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/b25b2ad6-27ba-477a-92b9
+  → Charme=4 Reno=5 Gebäude=Moderne Luxus-Finca mit traditioneller m
+
+[130/309] Zeile 147: https://www.luxury-estates-mallorca.com/en/natural-stone-fin
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LBUN3/
+  → Charme=4 Reno=35 Gebäude=Rustikale Finca mit Haupthaus (2-stöckig
+
+[131/309] Zeile 149: https://www.engelvoelkers.com/de/de/exposes/a17a4c57-cdea-53
+  ✅ main: https://uploadcare.engelvoelkers.com/242e2d4f-8396-43dd-8320
+  → Charme=4 Reno=5 Gebäude=Moderne mediterrane Villa, 2-stöckig mit
+
+[132/309] Zeile 150: https://www.livingblue-mallorca.com/de-de/immobilien/067d6d1
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[133/309] Zeile 151: https://www.livingblue-mallorca.com/de-de/immobilien/1c58980
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[134/309] Zeile 152: https://www.engelvoelkers.com/de/de/exposes/863b1fa9-3fff-57
+  ✅ main: https://uploadcare.engelvoelkers.com/bd5883ee-42b9-4152-b508
+  → Charme=4 Reno=5 Gebäude=Moderne ebenerdige Finca im mediterranen
+
+[135/309] Zeile 153: https://www.kyero.com/en/property/19765507-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhC2uNyhDMsAhH6V4XD2'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[136/309] Zeile 154: https://www.livingblue-mallorca.com/de-de/immobilien/9b5991a
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[137/309] Zeile 155: https://www.engelvoelkers.com/de/de/exposes/9f93f326-6e4a-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/1f41d3e7-8561-4f66-a9a5
+  → Charme=4 Reno=0 Gebäude=Moderne Neubaufinca, 2-stöckig, Naturste
+
+[138/309] Zeile 156: https://www.balearic-properties.com/en/property/id/871545-ma
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Luxus-Finca mit Haupthaus (mehrs
+
+[139/309] Zeile 157: https://www.balearic-properties.com/en/property/id/907717-be
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Steinifinca mit Haupthaus und 
+
+[140/309] Zeile 158: https://www.livingblue-mallorca.com/de-de/immobilien/6a8f4f6
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (140/309)
+
+[141/309] Zeile 159: https://www.livingblue-mallorca.com/de-de/immobilien/b475a39
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[142/309] Zeile 160: https://www.livingblue-mallorca.com/de-de/immobilien/a787635
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[143/309] Zeile 161: https://www.livingblue-mallorca.com/de-de/immobilien/a6881c2
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[144/309] Zeile 162: https://www.balearic-properties.com/en/property/id/958362-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=25 Gebäude=Rustikale Steinhaus-Finca mit Hauptwohnb
+
+[145/309] Zeile 163: https://www.livingblue-mallorca.com/de-de/immobilien/aa7fd12
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[146/309] Zeile 164: https://www.livingblue-mallorca.com/de-de/immobilien/effc176
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[147/309] Zeile 165: https://www.balearic-properties.com/en/property/id/952081-si
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca auf einer Ebene, Haupthaus
+
+[148/309] Zeile 167: https://www.engelvoelkers.com/de/de/exposes/12a475d6-439f-50
+  ✅ main: https://uploadcare.engelvoelkers.com/fd323b59-c787-402b-8e02
+  → Charme=4 Reno=45 Gebäude=Rustikale Finca mit Haupthaus, separate 
+
+[149/309] Zeile 168: https://www.engelvoelkers.com/de/de/exposes/c5f17c23-77ed-50
+  ✅ main: https://uploadcare.engelvoelkers.com/7bafe7dc-6d08-4aea-8db5
+  → Charme=4 Reno=5 Gebäude=Rustikale Finca mit Haupthaus (2-stöckig
+
+[150/309] Zeile 169: https://www.engelvoelkers.com/de/de/exposes/89162e36-ea55-59
+  ✅ main: https://uploadcare.engelvoelkers.com/678e4355-fa8e-4df6-bdf7
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7535916 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhC6mcmgHpr2b1Hs6aHq'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[151/309] Zeile 170: https://www.engelvoelkers.com/de/de/exposes/10d61a03-644b-59
+  ✅ main: https://uploadcare.engelvoelkers.com/f605881e-05ec-4ed9-92ef
+  → Charme=4 Reno=15 Gebäude=Moderne Villa mit Steinelemente, 2-stöck
+
+[152/309] Zeile 171: https://www.engelvoelkers.com/de/de/exposes/41ef5187-036c-52
+  ✅ main: https://uploadcare.engelvoelkers.com/b4f45ac0-a118-403f-a073
+  → Charme=5 Reno=0 Gebäude=Moderne Neubaufinca mit Haupthaus (2-stö
+
+[153/309] Zeile 172: https://www.livingblue-mallorca.com/de-de/immobilien/e63246a
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[154/309] Zeile 173: https://www.livingblue-mallorca.com/de-de/immobilien/66935bd
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[155/309] Zeile 174: https://www.livingblue-mallorca.com/de-de/immobilien/036e994
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[156/309] Zeile 175: https://www.engelvoelkers.com/de/de/exposes/c0855588-2594-55
+  ✅ main: https://uploadcare.engelvoelkers.com/18bc5956-e2c4-4809-893e
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5964960 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhC8TDHjb1dGucz8Wckn'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[157/309] Zeile 176: https://www.engelvoelkers.com/de/de/exposes/baaa570e-8983-5b
+  ✅ main: https://uploadcare.engelvoelkers.com/bbb3f42d-2a52-45ad-a9e4
+  → Charme=4 Reno=15 Gebäude=Moderne Villa mit großzügigem Pool, zeit
+
+[158/309] Zeile 177: https://www.engelvoelkers.com/de/de/exposes/a8b68537-8230-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/e6b49a29-f545-4b90-ac16
+  → Charme=4 Reno=0 Gebäude=Modernes Landhaus mit offener Architektu
+
+[159/309] Zeile 178: https://www.engelvoelkers.com/de/de/exposes/d37baea7-19ee-55
+  ✅ main: https://uploadcare.engelvoelkers.com/7dd8fa18-fb1a-44b5-a5e7
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, einstöckig, Haupthaus mit
+
+[160/309] Zeile 179: https://www.kyero.com/en/property/18592573-villa-for-sale-ma
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  → Charme=4 Reno=0 Gebäude=Moderne Designervilla, einstöckig, mit g
+  💾 Excel gespeichert (160/309)
+
+[161/309] Zeile 180: https://www.livingblue-mallorca.com/de-de/immobilien/8d6bfa1
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[162/309] Zeile 181: https://www.livingblue-mallorca.com/de-de/immobilien/5ed7b29
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=? Reno=? Gebäude=...
+
+[163/309] Zeile 182: https://www.balearic-properties.com/en/property/id/930932-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Modernes Landgut, 2-stöckiges Haupthaus 
+
+[164/309] Zeile 183: https://www.balearic-properties.com/en/property/id/948538-co
+  ⚠️ Keine Bilder — überspringe
+
+[165/309] Zeile 184: https://www.engelvoelkers.com/de/de/exposes/6a65603b-a833-58
+  ✅ main: https://uploadcare.engelvoelkers.com/67d3fdf8-3622-4b27-a27c
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[166/309] Zeile 185: https://www.engelvoelkers.com/de/de/exposes/c08566c1-7af3-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/c5396c87-6b36-43ec-ba8d
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit rustikalen Elementen, 
+
+[167/309] Zeile 186: https://www.luxury-estates-mallorca.com/en/spacious-country-
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LSY147
+  → Charme=3 Reno=35 Gebäude=Rustikale Finca mit Haupthaus, offene Wo
+
+[168/309] Zeile 187: https://www.engelvoelkers.com/de/de/exposes/0731f52f-600b-54
+  ✅ main: https://uploadcare.engelvoelkers.com/037d6c7a-e316-4f11-8c75
+  → Charme=4 Reno=15 Gebäude=Modernes Landhaus, 2-stöckig, Naturstein
+
+[169/309] Zeile 188: https://www.engelvoelkers.com/de/de/exposes/e5899a52-88da-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/6c36a737-004f-4c1f-8b4d
+  → Charme=4 Reno=0 Gebäude=Modernes Landhaus auf einer Ebene, 4 Sch
+
+[170/309] Zeile 189: https://www.balearic-properties.com/en/property/id/924698-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus, großzügiger
+
+[171/309] Zeile 190: https://www.engelvoelkers.com/de/de/exposes/d181d138-6854-50
+  ✅ main: https://uploadcare.engelvoelkers.com/0c92ce2c-d45b-4cfb-9a96
+  → Charme=4 Reno=25 Gebäude=Moderne Finca mit Haupthaus, separatem G
+
+[172/309] Zeile 191: https://www.balearic-properties.com/en/property/id/920753-tw
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=45 Gebäude=Rustikale Finca mit Haupthaus und separa
+
+[173/309] Zeile 192: https://www.livingblue-mallorca.com/de-de/immobilien/66b7be9
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[174/309] Zeile 193: https://www.livingblue-mallorca.com/de-de/immobilien/00a17de
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig 
+
+[175/309] Zeile 194: https://www.luxury-estates-mallorca.com/en/luxury-finca-in-m
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LMT181
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit Haupthaus, mehreren 
+
+[176/309] Zeile 195: https://www.livingblue-mallorca.com/de-de/immobilien/8d95feb
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[177/309] Zeile 196: https://www.luxury-estates-mallorca.com/en/renovated-hotel-i
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LH11-1
+  → Charme=4 Reno=15 Gebäude=Rustikale Naturstein-Finca mit Holzbalke
+
+[178/309] Zeile 197: https://www.livingblue-mallorca.com/de-de/immobilien/f7dc617
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[179/309] Zeile 198: https://www.livingblue-mallorca.com/de-de/immobilien/ae18976
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[180/309] Zeile 199: https://www.livingblue-mallorca.com/de-de/immobilien/ef6762e
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+  💾 Excel gespeichert (180/309)
+
+[181/309] Zeile 200: https://www.livingblue-mallorca.com/de-de/immobilien/8d1b910
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[182/309] Zeile 201: https://www.livingblue-mallorca.com/de-de/immobilien/4524a33
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[183/309] Zeile 202: https://www.livingblue-mallorca.com/de-de/immobilien/2e2284d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[184/309] Zeile 203: https://www.livingblue-mallorca.com/de-de/immobilien/971ce12
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, vollständi
+
+[185/309] Zeile 205: https://www.engelvoelkers.com/de/de/exposes/b9eae846-4335-58
+  ✅ main: https://uploadcare.engelvoelkers.com/b71163c9-6077-4854-9038
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus und Gästehau
+
+[186/309] Zeile 206: https://www.engelvoelkers.com/de/de/exposes/57e3bc2f-2ba6-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/dbee968e-044a-4d41-b6f2
+  → Charme=4 Reno=15 Gebäude=Moderne, ebenerdige Finca mit zwei Flüge
+
+[187/309] Zeile 207: https://www.balearic-properties.com/en/property/id/935195-mo
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Designervilla, einstöckig, mit g
+
+[188/309] Zeile 208: https://www.livingblue-mallorca.com/de-de/immobilien/7621b9b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[189/309] Zeile 209: https://www.engelvoelkers.com/de/de/exposes/42a4e3af-4025-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/35d4845a-7054-418b-b965
+  → Charme=4 Reno=25 Gebäude=Rustikale Mallorca-Finca mit Haupthaus (
+
+[190/309] Zeile 210: https://www.livingblue-mallorca.com/de-de/immobilien/5011d81
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, eingeschos
+
+[191/309] Zeile 211: https://sandberg-estates.com/properties/newly-built-finca-fo
+  ⚠️ Keine Bilder — überspringe
+
+[192/309] Zeile 212: https://www.balearic-properties.com/en/property/id/937029-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Modernes Landgut mit drei separaten Gebä
+
+[193/309] Zeile 213: https://www.engelvoelkers.com/de/de/exposes/264f3b0d-97f3-52
+  ✅ main: https://uploadcare.engelvoelkers.com/99c9cd3e-5480-44cb-adb2
+  → Charme=4 Reno=15 Gebäude=Mediterranes Landgut mit Haupthaus (2-st
+
+[194/309] Zeile 214: https://www.balearic-properties.com/en/property/id/801104-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Mediterranes Landhaus, 2-stöckig mit gro
+
+[195/309] Zeile 215: https://www.balearic-properties.com/en/property/id/951314-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Steinhaus-Finca mit Terrasse, 
+
+[196/309] Zeile 216: https://www.engelvoelkers.com/de/de/exposes/425cbef4-a614-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/5073e1a7-a3a4-42da-9285
+  → Charme=4 Reno=25 Gebäude=Rustikale Mallorca-Finca mit Haupthaus, 
+
+[197/309] Zeile 217: https://www.livingblue-mallorca.com/de-de/immobilien/03c7d85
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, vollständi
+
+[198/309] Zeile 218: https://www.balearic-properties.com/en/property/id/851284-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[199/309] Zeile 219: https://www.engelvoelkers.com/de/de/exposes/185be19f-fc59-57
+  ✅ main: https://uploadcare.engelvoelkers.com/8de56114-b3a2-4247-aeff
+  → Charme=4 Reno=5 Gebäude=Moderne Neubaufinca mit Haupthaus, fläch
+
+[200/309] Zeile 220: https://www.livingblue-mallorca.com/de-de/immobilien/40468cc
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=? Reno=? Gebäude=...
+  💾 Excel gespeichert (200/309)
+
+[201/309] Zeile 221: https://www.engelvoelkers.com/de/de/exposes/52e0d12a-c615-53
+  ✅ main: https://uploadcare.engelvoelkers.com/f979954c-f96f-4f8b-8f4f
+  → Charme=4 Reno=25 Gebäude=Rustikales Landhaus mit Steinoptik, 2-st
+
+[202/309] Zeile 222: https://www.livingblue-mallorca.com/de-de/immobilien/9b43bb8
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[203/309] Zeile 223: https://www.engelvoelkers.com/de/de/exposes/d10f568d-14a5-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/71c20ffb-0f3b-4886-b8ae
+  → Charme=4 Reno=5 Gebäude=Mediterranes Landgut mit Haupthaus und m
+
+[204/309] Zeile 224: https://www.engelvoelkers.com/de/de/exposes/5e725c6a-349d-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/7ac34bed-bbe9-4977-8f9e
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7474728 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCLMMttba2bjodgqHz1'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[205/309] Zeile 225: https://www.balearic-properties.com/en/property/id/954221-pr
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[206/309] Zeile 226: https://www.livingblue-mallorca.com/de-de/immobilien/e023db9
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, vollständi
+
+[207/309] Zeile 227: https://www.engelvoelkers.com/de/de/exposes/025cead7-8b3e-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/b1d27705-74de-4300-aef7
+  → Charme=4 Reno=0 Gebäude=Moderne Luxusfinca mit Haupthaus (467 m²
+
+[208/309] Zeile 228: https://www.luxury-estates-mallorca.com/en/idyllic-and-styli
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LLM250
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[209/309] Zeile 229: https://www.engelvoelkers.com/de/de/exposes/6f7e6242-19bf-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/09715817-cb9a-4ca6-8128
+  → Charme=5 Reno=5 Gebäude=Moderne Luxus-Villa mit mediterranem Des
+
+[210/309] Zeile 230: https://sandberg-estates.com/properties/modern-luxury-finca-
+  ✅ main: https://sandberg.imgix.net/property/1758879258874-static.jpg
+  → Charme=4 Reno=5 Gebäude=Moderne mediterrane Villa, 2-stöckig mit
+
+[211/309] Zeile 231: https://www.livingblue-mallorca.com/de-de/immobilien/511b5e5
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[212/309] Zeile 232: https://www.livingblue-mallorca.com/de-de/immobilien/be2cc32
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[213/309] Zeile 233: https://www.balearic-properties.com/en/property/id/953656-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne mediterrane Villa, 2-stöckig mit
+
+[214/309] Zeile 234: https://www.engelvoelkers.com/de/de/exposes/03955939-4d52-57
+  ✅ main: https://uploadcare.engelvoelkers.com/1a70b617-d635-431f-9fa4
+  → Charme=4 Reno=5 Gebäude=Moderne, großzügige Finca mit zwei Flüge
+
+[215/309] Zeile 235: https://www.balearic-properties.com/en/property/id/753938-fi
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Rustikale Steinvilla mit modernem Standa
+
+[216/309] Zeile 236: https://www.balearic-properties.com/en/property/id/933707-de
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca mit Haupthaus, separatem G
+
+[217/309] Zeile 237: https://www.livingblue-mallorca.com/de-de/immobilien/73f074e
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[218/309] Zeile 238: https://www.livingblue-mallorca.com/de-de/immobilien/98edff9
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[219/309] Zeile 239: https://www.engelvoelkers.com/de/de/exposes/0978f83c-2295-52
+  ✅ main: https://uploadcare.engelvoelkers.com/54ecae1b-6064-4e18-bab5
+  → Charme=4 Reno=5 Gebäude=Modernes Landhaus, 2-stöckig, Südausrich
+
+[220/309] Zeile 240: https://www.engelvoelkers.com/de/de/exposes/1c1408d5-bcce-57
+  ✅ main: https://uploadcare.engelvoelkers.com/08b30afe-c940-4052-9010
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus, zweiter Woh
+  💾 Excel gespeichert (220/309)
+
+[221/309] Zeile 241: https://sandberg-estates.com/properties/modern-luxury-villa-
+  ✅ main: https://sandberg.imgix.net/property/1765974719788-static.jpg
+  → Charme=4 Reno=0 Gebäude=Moderne Luxusvilla, 2-stöckig mit Flachd
+
+[222/309] Zeile 242: https://www.livingblue-mallorca.com/de-de/immobilien/550136b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[223/309] Zeile 243: https://www.engelvoelkers.com/de/de/exposes/76c6a2de-fcde-59
+  ✅ main: https://uploadcare.engelvoelkers.com/c9266a65-ea83-48e6-86c6
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit Haupthaus, großzügig
+
+[224/309] Zeile 244: https://www.engelvoelkers.com/de/de/exposes/b6f6f841-ea09-57
+  ✅ main: https://uploadcare.engelvoelkers.com/021bd4f1-241e-4d3d-95de
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5384412 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCRZdUWafjFUfB13TLH'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[225/309] Zeile 245: https://www.kyero.com/en/property/19175886-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhCRdyvDYYE112auY1p7'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[226/309] Zeile 246: https://www.balearic-properties.com/en/property/id/918037-un
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca im Rustic-Chic-Stil, 2-stö
+
+[227/309] Zeile 247: https://www.engelvoelkers.com/de/de/exposes/8561caa3-ae98-51
+  ✅ main: https://uploadcare.engelvoelkers.com/eb179c41-7c1b-4a4b-b516
+  → Charme=4 Reno=5 Gebäude=Moderne Neubau-Finca mit Haupthaus und z
+
+[228/309] Zeile 248: https://www.engelvoelkers.com/de/de/exposes/a8327bb2-d99f-54
+  ✅ main: https://uploadcare.engelvoelkers.com/03ef48d4-56c4-4005-ab2b
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus (2-stöckig) 
+
+[229/309] Zeile 249: https://www.luxury-estates-mallorca.com/en/new-build-natural
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LMO23/
+  → Charme=4 Reno=5 Gebäude=Moderne Neubauten-Finca im Natursteindes
+
+[230/309] Zeile 250: https://www.engelvoelkers.com/de/de/exposes/f13d5435-4000-57
+  ✅ main: https://uploadcare.engelvoelkers.com/ea6d4c3d-ba44-42f7-8eb2
+  → Charme=4 Reno=0 Gebäude=Moderne Neubau-Villa, 2-stöckig mit Perg
+
+[231/309] Zeile 251: https://www.balearic-properties.com/en/property/id/822269-co
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne zweigeschossige Finca mit großzü
+
+[232/309] Zeile 252: https://www.balearic-properties.com/en/property/id/931049-br
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne traditionelle Finca, 2-stöckig m
+
+[233/309] Zeile 253: https://www.luxury-estates-mallorca.com/en/spacious-new-buil
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LSMC24
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5296216 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCTxyUk8RvFG1jCikEe'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[234/309] Zeile 254: https://www.engelvoelkers.com/de/de/exposes/936eeaea-a445-54
+  ✅ main: https://uploadcare.engelvoelkers.com/e6d5e19b-e7d9-4633-93b0
+  → Charme=4 Reno=15 Gebäude=Rustikale Natursteinfinca mit Haupthaus 
+
+[235/309] Zeile 255: https://www.engelvoelkers.com/de/de/exposes/43caee83-dbd7-54
+  ✅ main: https://uploadcare.engelvoelkers.com/c3a1c096-12c6-427a-8f6e
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit Haupthaus, Pool und gr
+
+[236/309] Zeile 256: https://www.engelvoelkers.com/de/de/exposes/2296c786-6190-5b
+  ✅ main: https://uploadcare.engelvoelkers.com/01e7acd9-04e8-43d7-bbfc
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit mediterranem Garten, e
+
+[237/309] Zeile 257: https://www.engelvoelkers.com/de/de/exposes/c3152ea2-50e8-5f
+  ✅ main: https://uploadcare.engelvoelkers.com/1095e414-81ea-4d06-9e02
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9938980 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCVQLF8w9s7QDJdAhvF'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[238/309] Zeile 258: https://www.balearic-properties.com/en/property/id/943398-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, 2-stöckig, Haupthaus mit 
+
+[239/309] Zeile 259: https://www.engelvoelkers.com/de/de/exposes/29daf13f-4749-53
+  ✅ main: https://uploadcare.engelvoelkers.com/138bcf84-9bf6-4df1-9cb8
+  → Charme=4 Reno=5 Gebäude=Moderne Neubau-Finca mit Haupthaus (2-st
+
+[240/309] Zeile 260: https://www.balearic-properties.com/en/property/id/931050-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca im Bau, Haupthaus mit trad
+  💾 Excel gespeichert (240/309)
+
+[241/309] Zeile 261: https://www.engelvoelkers.com/de/de/exposes/5a236219-811e-58
+  ✅ main: https://uploadcare.engelvoelkers.com/0d19ff58-7e2d-4acc-93a7
+  → Charme=4 Reno=15 Gebäude=Rustikales Landhaus, 2-stöckig, Naturste
+
+[242/309] Zeile 262: https://www.engelvoelkers.com/de/de/exposes/70a16d77-bc01-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/3a99583d-cf59-434b-9639
+  → Charme=5 Reno=0 Gebäude=Modernes Landhaus, 2-stöckig, Haupthaus 
+
+[243/309] Zeile 263: https://www.livingblue-mallorca.com/de-de/immobilien/da90f45
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[244/309] Zeile 264: https://www.engelvoelkers.com/de/de/exposes/315cbef7-0a51-54
+  ✅ main: https://uploadcare.engelvoelkers.com/233e0a7c-0af2-4c4d-bc27
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Natursteinoptik, Haupt
+
+[245/309] Zeile 265: https://www.engelvoelkers.com/de/de/exposes/842094f2-d6f9-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/41682ca9-3673-4547-97b1
+  → Charme=5 Reno=0 Gebäude=Modernes Landhaus mit großzügiger Terras
+
+[246/309] Zeile 266: https://www.kyero.com/en/property/20533859-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  → Charme=4 Reno=5 Gebäude=Rustikale Mallorquinische Finca, 2-stöck
+
+[247/309] Zeile 267: https://sandberg-estates.com/properties/top-renovated-finca-
+  ✅ main: https://sandberg.imgix.net/property/1770289793211-static.jpg
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/png image'}, 'request_id': 'req_011CYhCXwHt29T9ksv7kphtM'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[248/309] Zeile 268: https://www.livingblue-mallorca.com/de-de/immobilien/69c0594
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[249/309] Zeile 269: https://www.livingblue-mallorca.com/de-de/immobilien/4357407
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, zweistöcki
+
+[250/309] Zeile 270: https://www.livingblue-mallorca.com/de-de/immobilien/edad55b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[251/309] Zeile 271: https://www.livingblue-mallorca.com/de-de/immobilien/a1baae1
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[252/309] Zeile 272: https://www.engelvoelkers.com/de/de/exposes/55b7f65b-d8df-54
+  ✅ main: https://uploadcare.engelvoelkers.com/644dab1e-5bc8-4606-bf0b
+  → Charme=4 Reno=5 Gebäude=Historische Finca aus dem 17. Jahrhunder
+
+[253/309] Zeile 273: https://www.balearic-properties.com/en/property/id/924699-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus und separate
+
+[254/309] Zeile 275: https://www.livingblue-mallorca.com/de-de/immobilien/5580650
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[255/309] Zeile 276: https://www.livingblue-mallorca.com/de-de/immobilien/1ce825b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[256/309] Zeile 277: https://www.livingblue-mallorca.com/de-de/immobilien/fa9007a
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[257/309] Zeile 278: https://www.livingblue-mallorca.com/de-de/immobilien/b1617ae
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[258/309] Zeile 279: https://www.livingblue-mallorca.com/de-de/immobilien/6d73e82
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[259/309] Zeile 281: https://www.engelvoelkers.com/de/de/exposes/48565769-a82a-56
+  ✅ main: https://uploadcare.engelvoelkers.com/56a570f0-f3d7-420e-b827
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit großzügiger Terrasse, 
+
+[260/309] Zeile 282: https://www.engelvoelkers.com/de/de/exposes/5003eee2-9846-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/11b3f2de-aade-47cb-befa
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, 2-stöckig mit Pool, geome
+  💾 Excel gespeichert (260/309)
+
+[261/309] Zeile 283: https://www.balearic-properties.com/en/property/id/932687-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, 2-stöckig, Haupthaus mit 
+
+[262/309] Zeile 284: https://www.engelvoelkers.com/de/de/exposes/9a2a87cf-0a87-52
+  ✅ main: https://uploadcare.engelvoelkers.com/2f1fcceb-86ce-4d10-8d41
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7241620 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCbXHceANoBBjSw3soD'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[263/309] Zeile 285: https://www.balearic-properties.com/en/property/id/830550-im
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Designvilla, 2-stöckig, minimali
+
+[264/309] Zeile 286: https://www.livingblue-mallorca.com/de-de/immobilien/9c3f12d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=? Reno=? Gebäude=...
+
+[265/309] Zeile 287: https://www.engelvoelkers.com/de/de/exposes/bb91abb8-1b00-5f
+  ✅ main: https://uploadcare.engelvoelkers.com/e9f362ee-3b64-4427-b4aa
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9946876 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCcDGBE7Zpv4coGF2Y8'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[266/309] Zeile 288: https://www.balearic-properties.com/en/property/id/961412-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca, 2-stöckiges Haupthaus mit
+
+[267/309] Zeile 289: https://www.livingblue-mallorca.com/de-de/immobilien/c0b71a5
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[268/309] Zeile 290: https://www.engelvoelkers.com/de/de/exposes/4ede849e-162b-53
+  ✅ main: https://uploadcare.engelvoelkers.com/8abb8b10-1f11-4260-a6c0
+  → Charme=4 Reno=5 Gebäude=Moderne Finca mit Haupthaus und Nebengeb
+
+[269/309] Zeile 291: https://www.engelvoelkers.com/de/de/exposes/9f68ca4e-dafa-55
+  ✅ main: https://uploadcare.engelvoelkers.com/3d1f40c6-cd9d-4f4d-9c4a
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7856220 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCdKUWiP1GmhtnRZYbi'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[270/309] Zeile 292: https://www.engelvoelkers.com/de/de/exposes/d31309e2-3244-53
+  ✅ main: https://uploadcare.engelvoelkers.com/69321f6b-8e8f-421d-a20b
+  → Charme=4 Reno=15 Gebäude=Moderne mediterrane Villa, 2-stöckig mit
+
+[271/309] Zeile 294: https://www.kyero.com/en/property/20520519-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  → Charme=4 Reno=15 Gebäude=Mediterrane Finca mit Haupthaus und Gäst
+
+[272/309] Zeile 295: https://www.balearic-properties.com/en/property/id/937433-ex
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Finca mit Haupthaus, angeglieder
+
+[273/309] Zeile 296: https://www.balearic-properties.com/en/property/id/933500-ne
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=0 Gebäude=Moderne Neubau-Finca mit Haupthaus, groß
+
+[274/309] Zeile 297: https://www.livingblue-mallorca.com/de-de/immobilien/a900cd9
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[275/309] Zeile 298: https://www.livingblue-mallorca.com/de-de/immobilien/6ce877c
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[276/309] Zeile 299: https://www.livingblue-mallorca.com/de-de/immobilien/8c56bb5
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[277/309] Zeile 300: https://www.engelvoelkers.com/de/de/exposes/cca188a3-3ae9-53
+  ✅ main: https://uploadcare.engelvoelkers.com/748555bd-7983-4696-954f
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 11484784 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCfJBBfQuSsNh2RYFLm'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[278/309] Zeile 301: https://www.livingblue-mallorca.com/de-de/immobilien/91c3a2d
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, steinernes
+
+[279/309] Zeile 302: https://www.livingblue-mallorca.com/de-de/immobilien/f48de3a
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[280/309] Zeile 303: https://www.engelvoelkers.com/de/de/exposes/9b799d69-c848-57
+  ✅ main: https://uploadcare.engelvoelkers.com/e26a206d-0fc1-4548-bea2
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca mit Haupthaus (2-stöckig
+  💾 Excel gespeichert (280/309)
+
+[281/309] Zeile 304: https://www.kyero.com/en/property/20534135-country-house-for
+  ✅ main: https://images.kyero.com/crop/480x320/https://production-kye
+  → Charme=4 Reno=15 Gebäude=Rustikale Finca, 2-stöckiges Haupthaus m
+
+[282/309] Zeile 305: https://www.livingblue-mallorca.com/de-de/immobilien/9986662
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[283/309] Zeile 306: https://www.engelvoelkers.com/de/de/exposes/29289ac7-75a1-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/526aac5d-f70e-41d9-8ea2
+  → Charme=4 Reno=15 Gebäude=Moderne Finca mit Haupthaus (2-stöckig),
+
+[284/309] Zeile 307: https://www.livingblue-mallorca.com/de-de/immobilien/031de57
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[285/309] Zeile 308: https://www.engelvoelkers.com/de/de/exposes/de965f71-8cd4-52
+  ✅ main: https://uploadcare.engelvoelkers.com/6663900b-4671-4f23-93bb
+  → Charme=4 Reno=35 Gebäude=Rustikale Finca mit Haupthaus + unabhäng
+
+[286/309] Zeile 309: https://www.livingblue-mallorca.com/de-de/immobilien/186600b
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[287/309] Zeile 310: https://www.livingblue-mallorca.com/de-de/immobilien/4d82a39
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[288/309] Zeile 311: https://www.luxury-estates-mallorca.com/en/completely-renova
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LGE262
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5564316 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCi78FebA1T2MTNpnUd'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[289/309] Zeile 312: https://sandberg-estates.com/properties/charming-finca-for-s
+  ✅ main: https://sandberg.imgix.net/property/1758614721766-static.jpg
+  → Charme=4 Reno=15 Gebäude=Moderne Villa mit traditionellen Element
+
+[290/309] Zeile 313: https://www.livingblue-mallorca.com/de-de/immobilien/b39c6ac
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[291/309] Zeile 314: https://www.engelvoelkers.com/de/de/exposes/24f743f3-c60b-5c
+  ✅ main: https://uploadcare.engelvoelkers.com/02da3ffc-0a7a-4704-a9d2
+  → Charme=4 Reno=15 Gebäude=Moderne Villa mit Pool, Pergola und Terr
+
+[292/309] Zeile 316: https://www.balearic-properties.com/en/property/id/886272-im
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=35 Gebäude=Rustikales Landhaus mit weißgetünchtem M
+
+[293/309] Zeile 317: https://www.engelvoelkers.com/de/de/exposes/6074c9c7-aa4a-51
+  ✅ main: https://uploadcare.engelvoelkers.com/b4fa0cb5-fcbf-48c8-9e1c
+  → Charme=4 Reno=15 Gebäude=Moderne Villa, 3-stöckig, Innenpool mit 
+
+[294/309] Zeile 318: https://www.engelvoelkers.com/de/de/exposes/f7d63c50-04d3-51
+  ✅ main: https://uploadcare.engelvoelkers.com/50504384-edd0-46f2-90e6
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8526020 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCkUTTdibVLwPjZaDus'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[295/309] Zeile 319: https://www.livingblue-mallorca.com/de-de/immobilien/cd17e09
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[296/309] Zeile 320: https://www.engelvoelkers.com/de/de/exposes/0b707c8e-2f86-5a
+  ✅ main: https://uploadcare.engelvoelkers.com/cc892d0b-47f4-491e-a246
+  → Charme=4 Reno=5 Gebäude=Moderne Villa mit großzügiger Terrasse, 
+
+[297/309] Zeile 321: https://www.engelvoelkers.com/de/de/exposes/6ceacca5-2195-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/406c9dce-d098-4146-b7d5
+  → Charme=4 Reno=5 Gebäude=Moderne Villa, 1-2-stöckig, minimalistis
+
+[298/309] Zeile 322: https://www.engelvoelkers.com/de/de/exposes/ea56517b-0086-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/06662779-95b7-4694-a063
+  → Charme=5 Reno=0 Gebäude=Moderne Designervilla, 2-stöckig, minima
+
+[299/309] Zeile 323: https://www.balearic-properties.com/en/property/id/920054-lu
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=5 Gebäude=Moderne Villa, 2-stöckig, minimalistisch
+
+[300/309] Zeile 324: https://www.engelvoelkers.com/de/de/exposes/0ad01ffd-1454-5e
+  ✅ main: https://uploadcare.engelvoelkers.com/864e6e22-3593-4cf9-8546
+  → Charme=4 Reno=5 Gebäude=Moderne Villa, 2-stöckig mit Flachdach, 
+  💾 Excel gespeichert (300/309)
+
+[301/309] Zeile 325: https://www.livingblue-mallorca.com/de-de/immobilien/836456c
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig,
+
+[302/309] Zeile 326: https://www.livingblue-mallorca.com/de-de/immobilien/42f4744
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[303/309] Zeile 327: https://www.engelvoelkers.com/de/de/exposes/35513c0c-ba77-52
+  ✅ main: https://uploadcare.engelvoelkers.com/9bda01a7-6732-4598-997b
+  → Charme=4 Reno=0 Gebäude=Moderne Neubau-Villa, 2-stöckig mit Unte
+
+[304/309] Zeile 328: https://www.engelvoelkers.com/de/de/exposes/61b16cd7-e29d-5d
+  ✅ main: https://uploadcare.engelvoelkers.com/77a01844-da2e-4bce-aa2d
+  → Charme=5 Reno=0 Gebäude=Moderne Neubau-Villa mit großzügiger Poo
+
+[305/309] Zeile 329: https://www.livingblue-mallorca.com/de-de/immobilien/fa8eb81
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[306/309] Zeile 330: https://www.luxury-estates-mallorca.com/en/mediterranean-vil
+  Extra-Bilder Fehler (https://www.luxury-estates-mallorca.com/): too many values to unpack (expected 2)
+  ✅ main: https://www.luxury-estates-mallorca.com/estate-assets/LPA255
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6618512 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhCog3oA7vKW3vFgpqLe'}
+  ⚠️ Keine Analyse-Ergebnis
+
+[307/309] Zeile 331: https://www.balearic-properties.com/en/property/id/824802-re
+  ✅ main: https://www.balearic-properties.com/property-image/xlarge_AI
+  → Charme=4 Reno=15 Gebäude=Klassisches mallorquinisches Herrenhaus,
+
+[308/309] Zeile 332: https://www.livingblue-mallorca.com/de-de/immobilien/cabfcd3
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  ⚠️ Keine Analyse-Ergebnis
+
+[309/309] Zeile 333: https://www.livingblue-mallorca.com/de-de/immobilien/717623e
+  ✅ main: https://media.egorealestate.com/ORIGINAL/ee05c5cf-f90a-4b1a-
+  → Charme=4 Reno=15 Gebäude=Rustikales Dorfhaus aus 1880, 2-stöckig 
+
+=== FERTIG ===
+Analysiert: 216, Übersprungen: 2, Fehler: 91
+Bilder gespeichert in: /Users/robin/.openclaw/workspace/mallorca-projekt/bilder

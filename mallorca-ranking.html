@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Mallorca Immobilien — Scoring</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#1a1a2e;color:#e0e0e0;padding:20px}
+h1{font-size:1.4em;margin-bottom:16px;color:#fff}
+.layout{display:flex;gap:24px}
+.controls{min-width:300px;max-width:340px;position:sticky;top:20px;align-self:flex-start}
+.controls h2{font-size:1em;margin-bottom:12px;color:#aaa;text-transform:uppercase;letter-spacing:1px}
+.slider-group{margin-bottom:10px}
+.slider-group label{display:flex;justify-content:space-between;font-size:.85em;margin-bottom:3px}
+.slider-group label span.val{color:#4fc3f7;font-weight:bold;min-width:35px;text-align:right}
+input[type=range]{width:100%;accent-color:#4fc3f7;height:6px}
+.total-bar{margin:12px 0;padding:8px 12px;background:#222;border-radius:6px;font-size:.85em;display:flex;justify-content:space-between}
+.total-bar .warn{color:#ff6b6b}
+.total-bar .ok{color:#69f0ae}
+.divider{border:0;border-top:1px solid #333;margin:14px 0}
+.table-wrap{flex:1;overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.82em}
+th{background:#16213e;padding:8px 6px;text-align:left;position:sticky;top:0;white-space:nowrap;border-bottom:2px solid #4fc3f7}
+td{padding:7px 6px;border-bottom:1px solid #2a2a4a;white-space:nowrap}
+tr:hover td{background:#1f2b47}
+tr.top3 td{background:#1a2744}
+.rank{font-weight:bold;font-size:1.1em;color:#4fc3f7;width:30px;text-align:center}
+.score-bar{display:inline-block;height:16px;border-radius:3px;vertical-align:middle;min-width:2px}
+.score-num{font-weight:bold;margin-left:6px;font-size:.95em}
+.badge{display:inline-block;padding:1px 6px;border-radius:3px;font-size:.75em;font-weight:bold}
+.badge-ja{background:#2e7d32;color:#fff}
+.badge-maybe{background:#f57f17;color:#fff}
+.badge-no{background:#444;color:#888}
+.neg{color:#ff6b6b}
+.sub{color:#888;font-size:.78em}
+.detail-scores td{font-size:.75em;color:#999}
+</style>
+</head>
+<body>
+<h1>🏡 Mallorca Immobilien — Interaktives Scoring</h1>
+<div class="layout">
+<div class="controls">
+<h2>Gewichtungen</h2>
+<div id="sliders"></div>
+<div class="total-bar"><span>Summe:</span><span id="totalPct">100%</span></div>
+<hr class="divider">
+<h2>Schwellenwerte Erreichbarkeit</h2>
+<div id="thresholds"></div>
+<hr class="divider">
+<h2>Schwellenwerte Zimmer</h2>
+<div id="zimmerTh"></div>
+<hr class="divider">
+<h2>Schwellenwerte Grundstück</h2>
+<div id="grundTh"></div>
+</div>
+<div class="table-wrap">
+<table><thead><tr id="thead"></tr></thead><tbody id="tbody"></tbody></table>
+</div>
+</div>
+<script>
+const DATA = [{"name":"Casa o chalet Establiments","zimmer":4,"grundstueck":20262,"garten":19500,"location":"Establiments","fl_min":20,"daia_min":39,"and_min":35,"preis":3600000,"bebaut":762,"charme":4,"reno":4,"bewirt":3,"vermiet":0},{"name":"EV Exposé Binissalem","zimmer":8,"grundstueck":8261,"garten":7861,"location":"Binissalem","fl_min":24,"daia_min":42,"and_min":42,"preis":3400000,"bebaut":400,"charme":4,"reno":4,"bewirt":3,"vermiet":0},{"name":"Gästehaus Establiments","zimmer":7,"grundstueck":14393,"garten":13792,"location":"Establiments","fl_min":20,"daia_min":39,"and_min":35,"preis":4500000,"bebaut":601,"charme":5,"reno":4,"bewirt":2,"vermiet":0},{"name":"Modern Palmanyola","zimmer":5,"grundstueck":2500,"garten":1830,"location":"Palmanyola","fl_min":16,"daia_min":23,"and_min":32,"preis":5600000,"bebaut":670,"charme":4,"reno":3,"bewirt":4,"vermiet":0},{"name":"Santa Maria unfertig","zimmer":5,"grundstueck":29307,"garten":28807,"location":"Sta Maria","fl_min":16,"daia_min":32,"and_min":34,"preis":4100000,"bebaut":500,"charme":4,"reno":3,"bewirt":3,"vermiet":0},{"name":"Gute Substanz Campos","zimmer":6,"grundstueck":11700,"garten":11344,"location":"Campos","fl_min":21,"daia_min":57,"and_min":50,"preis":2850000,"bebaut":356,"charme":4,"reno":4,"bewirt":3,"vermiet":0},{"name":"Nähe Es Trenc","zimmer":5,"grundstueck":30000,"garten":29467,"location":"Sa Ràpita","fl_min":28,"daia_min":64,"and_min":58,"preis":3950000,"bebaut":533,"charme":4,"reno":3,"bewirt":2,"vermiet":0},{"name":"Kreativprojekt Sa Ràpita","zimmer":6,"grundstueck":51000,"garten":50320,"location":"Sa Ràpita","fl_min":28,"daia_min":64,"and_min":58,"preis":2950000,"bebaut":680,"charme":3,"reno":3,"bewirt":4,"vermiet":0},{"name":"Estate Sencelles","zimmer":6,"grundstueck":132500,"garten":131818,"location":"Sencelles","fl_min":26,"daia_min":44,"and_min":45,"preis":3900000,"bebaut":682,"charme":5,"reno":5,"bewirt":2,"vermiet":50},{"name":"Designer House Ses Salines","zimmer":5,"grundstueck":23800,"garten":23401,"location":"Ses Salines","fl_min":34,"daia_min":70,"and_min":63,"preis":5450000,"bebaut":399,"charme":5,"reno":5,"bewirt":4,"vermiet":0},{"name":"Contemporary Moscari","zimmer":5,"grundstueck":19811,"garten":18979,"location":"Moscari","fl_min":34,"daia_min":52,"and_min":52,"preis":3950000,"bebaut":832,"charme":5,"reno":5,"bewirt":4,"vermiet":0},{"name":"Finca Campos (Lizenz)","zimmer":6,"grundstueck":14200,"garten":13764,"location":"Campos","fl_min":23,"daia_min":57,"and_min":50,"preis":3490000,"bebaut":436,"charme":4,"reno":4,"bewirt":2,"vermiet":100},{"name":"Villa Bunyola (Lizenz)","zimmer":6,"grundstueck":14785,"garten":0,"location":"Bunyola","fl_min":20,"daia_min":20,"and_min":38,"preis":3500000,"bebaut":355,"charme":5,"reno":4,"bewirt":3,"vermiet":100}];
+
+const weights = [
+  {id:'zimmer',label:'Zimmer',val:20},
+  {id:'erreich',label:'Erreichbarkeit',val:15},
+  {id:'grund',label:'Grundstück/Garten',val:15},
+  {id:'charme',label:'Charme/Ästhetik',val:15},
+  {id:'vermiet',label:'Vermietlizenz',val:10},
+  {id:'value',label:'Preis-Leistung',val:10},
+  {id:'reno',label:'Renovierung',val:10},
+  {id:'bewirt',label:'Bewirtschaftung',val:5},
+];
+
+const thresholds = [
+  {id:'daia_ideal',label:'Daia Ideal (min)',val:20,min:5,max:60},
+  {id:'daia_akz',label:'Daia Akzeptabel',val:40,min:10,max:80},
+  {id:'daia_deal',label:'Daia Dealbreaker',val:70,min:20,max:120},
+  {id:'fl_ideal',label:'Flughafen Ideal',val:15,min:5,max:40},
+  {id:'fl_akz',label:'Flughafen Akzeptabel',val:25,min:10,max:50},
+  {id:'fl_deal',label:'Flughafen Dealbreaker',val:40,min:15,max:60},
+  {id:'and_ideal',label:'Andratx Ideal',val:25,min:5,max:50},
+  {id:'and_akz',label:'Andratx Akzeptabel',val:40,min:10,max:70},
+  {id:'and_deal',label:'Andratx Dealbreaker',val:60,min:20,max:90},
+  {id:'daia_w',label:'Gewicht Daia %',val:50,min:0,max:100},
+  {id:'fl_w',label:'Gewicht Flughafen %',val:30,min:0,max:100},
+  {id:'and_w',label:'Gewicht Andratx %',val:20,min:0,max:100},
+];
+
+const zimmerTh = [
+  {id:'zi_min',label:'Minimum Zimmer',val:5,min:3,max:10},
+  {id:'zi_ideal',label:'Ideal Zimmer',val:8,min:5,max:15},
+];
+
+const grundTh = [
+  {id:'gr_min',label:'Grundstück Min (m²)',val:3000,min:0,max:20000,step:500},
+  {id:'gr_ideal',label:'Grundstück Ideal (m²)',val:15000,min:5000,max:50000,step:1000},
+  {id:'ga_min',label:'Garten Min (m²)',val:1000,min:0,max:10000,step:500},
+  {id:'ga_ideal',label:'Garten Ideal (m²)',val:5000,min:1000,max:30000,step:500},
+];
+
+function makeSliders(container, items, onChange) {
+  const el = document.getElementById(container);
+  items.forEach(s => {
+    const d = document.createElement('div');
+    d.className = 'slider-group';
+    const min = s.min ?? 0, max = s.max ?? 40, step = s.step ?? 1;
+    d.innerHTML = `<label>${s.label} <span class="val" id="v_${s.id}">${s.val}</span></label><input type="range" id="s_${s.id}" min="${min}" max="${max}" step="${step}" value="${s.val}">`;
+    el.appendChild(d);
+    d.querySelector('input').addEventListener('input', e => {
+      s.val = Number(e.target.value);
+      document.getElementById('v_'+s.id).textContent = s.val;
+      onChange();
+    });
+  });
+}
+
+function getW(id) { return weights.find(w=>w.id===id).val; }
+function getT(id) { return thresholds.find(t=>t.id===id).val; }
+function getZ(id) { return zimmerTh.find(t=>t.id===id).val; }
+function getG(id) { return grundTh.find(t=>t.id===id).val; }
+
+function destScore(mins, ideal, akz, deal) {
+  if (mins <= ideal) return 100;
+  if (mins >= deal) return 0;
+  if (mins <= akz) return 100 - ((mins-ideal)/(akz-ideal))*50;
+  return 50 - ((mins-akz)/(deal-akz))*50;
+}
+
+function compute() {
+  const total = weights.reduce((s,w)=>s+w.val,0);
+  const tp = document.getElementById('totalPct');
+  tp.textContent = total+'%';
+  tp.className = total===100?'ok':'warn';
+
+  const scored = DATA.map(o => {
+    // Zimmer
+    const ziMin=getZ('zi_min'), ziIdeal=getZ('zi_ideal');
+    const sZi = o.zimmer<ziMin ? 0 : o.zimmer>=ziIdeal ? 100 : ((o.zimmer-ziMin)/(ziIdeal-ziMin))*100;
+
+    // Erreichbarkeit
+    const dw=getT('daia_w'), fw=getT('fl_w'), aw=getT('and_w');
+    const dwt=dw+fw+aw||1;
+    const sEr = (destScore(o.daia_min,getT('daia_ideal'),getT('daia_akz'),getT('daia_deal'))*(dw/dwt)
+      + destScore(o.fl_min,getT('fl_ideal'),getT('fl_akz'),getT('fl_deal'))*(fw/dwt)
+      + destScore(o.and_min,getT('and_ideal'),getT('and_akz'),getT('and_deal'))*(aw/dwt));
+
+    // Grundstück/Garten
+    const grMin=getG('gr_min'),grId=getG('gr_ideal'),gaMin=getG('ga_min'),gaId=getG('ga_ideal');
+    const sg = o.grundstueck<grMin?0:o.grundstueck>=grId?100:((o.grundstueck-grMin)/(grId-grMin))*100;
+    const sga = o.garten<gaMin?0:o.garten>=gaId?100:((o.garten-gaMin)/(gaId-gaMin))*100;
+    const sGr = sg*0.5+sga*0.5;
+
+    const sCh = (o.charme/5)*100;
+    const sVm = o.vermiet;
+    const sRe = (o.reno/5)*100;
+    const sBw = (o.bewirt/5)*100;
+
+    return {...o, sZi, sEr, sGr, sCh, sVm, sRe, sBw, _val:null};
+  });
+
+  // Value normalization
+  const eur_m2 = scored.filter(o=>o.bebaut>0&&o.preis>0).map(o=>o.preis/o.bebaut);
+  const rpm = scored.filter(o=>o.preis>0).map(o=>o.zimmer/(o.preis/1e6));
+  const minE=Math.min(...eur_m2),maxE=Math.max(...eur_m2);
+  const minR=Math.min(...rpm),maxR=Math.max(...rpm);
+
+  scored.forEach(o => {
+    let s1=50,s2=50;
+    if(o.bebaut>0&&o.preis>0&&maxE>minE) s1=(1-(o.preis/o.bebaut-minE)/(maxE-minE))*100;
+    if(o.preis>0&&maxR>minR) s2=((o.zimmer/(o.preis/1e6)-minR)/(maxR-minR))*100;
+    o.sVa = s1*0.5+s2*0.5;
+  });
+
+  scored.forEach(o => {
+    o.score = (o.sZi*getW('zimmer') + o.sEr*getW('erreich') + o.sGr*getW('grund')
+      + o.sCh*getW('charme') + o.sVm*getW('vermiet') + o.sVa*getW('value')
+      + o.sRe*getW('reno') + o.sBw*getW('bewirt')) / (total||1);
+  });
+
+  scored.sort((a,b)=>b.score-a.score);
+  render(scored);
+}
+
+function render(data) {
+  const thead = document.getElementById('thead');
+  thead.innerHTML = '<th>#</th><th>Objekt</th><th>Score</th><th>Ort</th><th>Zi</th><th>Fl\'</th><th>Daia\'</th><th>And\'</th><th>Grund m²</th><th>Garten m²</th><th>Preis</th><th>Lizenz</th><th>Ch</th><th>Re</th><th>Bw</th>';
+  const tbody = document.getElementById('tbody');
+  tbody.innerHTML = '';
+  const maxScore = data[0]?.score||1;
+  data.forEach((o,i) => {
+    const liz = o.vermiet>=100?'<span class="badge badge-ja">Ja</span>':o.vermiet>=50?'<span class="badge badge-maybe">~</span>':'<span class="badge badge-no">–</span>';
+    const pct = (o.score/maxScore)*100;
+    const hue = Math.round((o.score/100)*120);
+    const color = `hsl(${hue},70%,50%)`;
+    const tr = document.createElement('tr');
+    if(i<3) tr.className='top3';
+    tr.innerHTML = `<td class="rank">${i+1}</td><td>${o.name}</td><td><span class="score-bar" style="width:${pct*0.8}px;background:${color}"></span><span class="score-num" style="color:${color}">${o.score.toFixed(1)}</span></td><td>${o.location}</td><td>${o.zimmer}</td><td>${o.fl_min}</td><td>${o.daia_min}</td><td>${o.and_min}</td><td>${(o.grundstueck).toLocaleString('de')}</td><td>${(o.garten).toLocaleString('de')}</td><td>${(o.preis/1e6).toFixed(2)}M</td><td>${liz}</td><td>${o.charme}/5</td><td>${o.reno}/5</td><td>${o.bewirt}/5</td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+makeSliders('sliders', weights, compute);
+makeSliders('thresholds', thresholds, compute);
+makeSliders('zimmerTh', zimmerTh, compute);
+makeSliders('grundTh', grundTh, compute);
+compute();
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+API gefangen! 358845 bytes
+Erster Call: =&dst=&mun=&parish=&zon=&gather_attributes=1&dsrt=1&thumbnailsize=12&lng=de-de&oar=1&_=1772653045181
+Typ: <class 'dict'>
+Keys: ['Properties', 'TotalRecords', 'FallBackSearch']
+Items: 12
+Beispiel Keys: ['Address', 'AgencyID', 'AreaUnit', 'Availability', 'AvailabilityID', 'Bathrooms', 'BluePrints', 'Condition', 'ConditionID', 'CondominiumPeriodicity']
+Beispiel: {"Address": "", "AgencyID": 16845, "AreaUnit": "m²", "Availability": "frei", "AvailabilityID": 2, "Bathrooms": 3, "BluePrints": null, "Condition": "Guter Zustand", "ConditionID": 0, "CondominiumPeriodicity": null, "CondominiumPrice": "", "Constraint": "", "Country": "Spanien", "CurrencyFormat": "(S.
+
+Hole alle: &nre=1100&srt=25&lbl=&dst=&mun=&parish=&zon=&gather_attributes=1&dsrt=1&thumbnailsize=12&lng=de-de&oar=1&_=1772653045181
+Status: 200, Size: 8707845
+Alle Items: 250
+Gespeichert: lb_api_raw.json

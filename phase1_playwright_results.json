@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "ThinkSpain": {
+      "scraped": 0,
+      "added": 0
+    },
+    "Green-Acres": {
+      "scraped": 1,
+      "added": 1
+    },
+    "A Place in the Sun": {
+      "scraped": 0,
+      "added": 0
+    },
+    "Habitaclia": {
+      "scraped": 84,
+      "added": 84
+    },
+    "Yaencontr\u00e9": {
+      "scraped": 0,
+      "added": 0
+    },
+    "abc-mallorca": {
+      "scraped": 14,
+      "added": 14
+    },
+    "Rightmove": {
+      "scraped": 0,
+      "added": 0
+    },
+    "Fotocasa": {
+      "scraped": 0,
+      "added": 0
+    }
+  },
+  "total_added": 99,
+  "date": "2026-02-23"
+}

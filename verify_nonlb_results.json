@@ -1,0 +1,995 @@
+[
+  {
+    "nr": 1,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 2,
+    "status": "MATCH"
+  },
+  {
+    "nr": 3,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 4,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 5,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 6,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 7,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 8,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 9,
+    "status": "DELISTED"
+  },
+  {
+    "nr": 10,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 11,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 12,
+    "status": "MATCH"
+  },
+  {
+    "nr": 13,
+    "status": "NO_LIVE",
+    "makler": "Idealista"
+  },
+  {
+    "nr": 14,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 15,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 16,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 17,
+    "status": "MATCH"
+  },
+  {
+    "nr": 18,
+    "status": "MATCH"
+  },
+  {
+    "nr": 19,
+    "status": "MATCH"
+  },
+  {
+    "nr": 23,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 24,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 26,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 27,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 30,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 32,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 35,
+    "status": "MATCH"
+  },
+  {
+    "nr": 37,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 39,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 40,
+    "status": "MATCH"
+  },
+  {
+    "nr": 44,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 47,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 48,
+    "status": "NO_LIVE",
+    "makler": "Sandberg Estates"
+  },
+  {
+    "nr": 49,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 50,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 51,
+    "status": "MATCH"
+  },
+  {
+    "nr": 53,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 55,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 56,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 58,
+    "status": "MATCH"
+  },
+  {
+    "nr": 59,
+    "status": "NO_URL",
+    "name": "Estate Sencelles"
+  },
+  {
+    "nr": 60,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 63,
+    "status": "MATCH"
+  },
+  {
+    "nr": 65,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 66,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 67,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 68,
+    "status": "MATCH"
+  },
+  {
+    "nr": 69,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 71,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 72,
+    "status": "MATCH"
+  },
+  {
+    "nr": 75,
+    "status": "MATCH"
+  },
+  {
+    "nr": 76,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 77,
+    "status": "MATCH"
+  },
+  {
+    "nr": 79,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 80,
+    "status": "MATCH"
+  },
+  {
+    "nr": 82,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 85,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 88,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 89,
+    "status": "MATCH"
+  },
+  {
+    "nr": 90,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 91,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 92,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 94,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 95,
+    "status": "MATCH"
+  },
+  {
+    "nr": 96,
+    "status": "MATCH"
+  },
+  {
+    "nr": 97,
+    "status": "MATCH"
+  },
+  {
+    "nr": 98,
+    "status": "MATCH"
+  },
+  {
+    "nr": 99,
+    "status": "MATCH"
+  },
+  {
+    "nr": 101,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 102,
+    "status": "MATCH"
+  },
+  {
+    "nr": 104,
+    "status": "NO_URL",
+    "name": "Kreativprojekt Sa R\u00e0pita"
+  },
+  {
+    "nr": 106,
+    "status": "MATCH"
+  },
+  {
+    "nr": 107,
+    "status": "MATCH"
+  },
+  {
+    "nr": 111,
+    "status": "MATCH"
+  },
+  {
+    "nr": 112,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 113,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 115,
+    "status": "MATCH"
+  },
+  {
+    "nr": 117,
+    "status": "MATCH"
+  },
+  {
+    "nr": 118,
+    "status": "MATCH"
+  },
+  {
+    "nr": 119,
+    "status": "MATCH"
+  },
+  {
+    "nr": 120,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 122,
+    "status": "MATCH"
+  },
+  {
+    "nr": 123,
+    "status": "MATCH"
+  },
+  {
+    "nr": 124,
+    "status": "MATCH"
+  },
+  {
+    "nr": 126,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 127,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 130,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 131,
+    "status": "NO_URL",
+    "name": "Neubaufinca Ses Covetes - N\u00e4he Es Trenc"
+  },
+  {
+    "nr": 132,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 133,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 134,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 135,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 138,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 142,
+    "status": "MATCH"
+  },
+  {
+    "nr": 143,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 145,
+    "status": "MATCH"
+  },
+  {
+    "nr": 146,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 147,
+    "status": "NO_URL",
+    "name": "Santa Maria unfertig"
+  },
+  {
+    "nr": 148,
+    "status": "MATCH"
+  },
+  {
+    "nr": 151,
+    "status": "MATCH"
+  },
+  {
+    "nr": 152,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 154,
+    "status": "MATCH"
+  },
+  {
+    "nr": 155,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 156,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 161,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 164,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 165,
+    "status": "NO_URL",
+    "name": "Designer House Ses Salines"
+  },
+  {
+    "nr": 166,
+    "status": "MATCH"
+  },
+  {
+    "nr": 167,
+    "status": "MATCH"
+  },
+  {
+    "nr": 168,
+    "status": "MATCH"
+  },
+  {
+    "nr": 169,
+    "status": "MATCH"
+  },
+  {
+    "nr": 170,
+    "status": "MATCH"
+  },
+  {
+    "nr": 174,
+    "status": "MATCH"
+  },
+  {
+    "nr": 175,
+    "status": "MATCH"
+  },
+  {
+    "nr": 176,
+    "status": "MATCH"
+  },
+  {
+    "nr": 177,
+    "status": "MATCH"
+  },
+  {
+    "nr": 178,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 181,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 182,
+    "status": "DELISTED"
+  },
+  {
+    "nr": 183,
+    "status": "MATCH"
+  },
+  {
+    "nr": 184,
+    "status": "MATCH"
+  },
+  {
+    "nr": 185,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 186,
+    "status": "MATCH"
+  },
+  {
+    "nr": 187,
+    "status": "MATCH"
+  },
+  {
+    "nr": 188,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 189,
+    "status": "MATCH"
+  },
+  {
+    "nr": 190,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 193,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 195,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 203,
+    "status": "NO_URL",
+    "name": "Contemporary Moscari"
+  },
+  {
+    "nr": 204,
+    "status": "MATCH"
+  },
+  {
+    "nr": 205,
+    "status": "MATCH"
+  },
+  {
+    "nr": 206,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 208,
+    "status": "MATCH"
+  },
+  {
+    "nr": 210,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 211,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 212,
+    "status": "MATCH"
+  },
+  {
+    "nr": 213,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 214,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 215,
+    "status": "MATCH"
+  },
+  {
+    "nr": 217,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 218,
+    "status": "MATCH"
+  },
+  {
+    "nr": 220,
+    "status": "MATCH"
+  },
+  {
+    "nr": 222,
+    "status": "MATCH"
+  },
+  {
+    "nr": 223,
+    "status": "MATCH"
+  },
+  {
+    "nr": 224,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 226,
+    "status": "MATCH"
+  },
+  {
+    "nr": 227,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 228,
+    "status": "MATCH"
+  },
+  {
+    "nr": 229,
+    "status": "NO_LIVE",
+    "makler": "Sandberg Estates"
+  },
+  {
+    "nr": 232,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 233,
+    "status": "MATCH"
+  },
+  {
+    "nr": 234,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 235,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 238,
+    "status": "MATCH"
+  },
+  {
+    "nr": 239,
+    "status": "MATCH"
+  },
+  {
+    "nr": 240,
+    "status": "NO_LIVE",
+    "makler": "Sandberg Estates"
+  },
+  {
+    "nr": 242,
+    "status": "MATCH"
+  },
+  {
+    "nr": 243,
+    "status": "MATCH"
+  },
+  {
+    "nr": 244,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 245,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 246,
+    "status": "MATCH"
+  },
+  {
+    "nr": 247,
+    "status": "MATCH"
+  },
+  {
+    "nr": 248,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 249,
+    "status": "MATCH"
+  },
+  {
+    "nr": 250,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 251,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 252,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 253,
+    "status": "MATCH"
+  },
+  {
+    "nr": 254,
+    "status": "MATCH"
+  },
+  {
+    "nr": 255,
+    "status": "MATCH"
+  },
+  {
+    "nr": 256,
+    "status": "MATCH"
+  },
+  {
+    "nr": 257,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 258,
+    "status": "MATCH"
+  },
+  {
+    "nr": 259,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 260,
+    "status": "MATCH"
+  },
+  {
+    "nr": 261,
+    "status": "MATCH"
+  },
+  {
+    "nr": 263,
+    "status": "MATCH"
+  },
+  {
+    "nr": 264,
+    "status": "MATCH"
+  },
+  {
+    "nr": 265,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 266,
+    "status": "NO_LIVE",
+    "makler": "Sandberg Estates"
+  },
+  {
+    "nr": 271,
+    "status": "MATCH"
+  },
+  {
+    "nr": 272,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 273,
+    "status": "NO_URL",
+    "name": "Villa Bunyola (Lizenz)"
+  },
+  {
+    "nr": 279,
+    "status": "NO_URL",
+    "name": "G\u00e4stehaus Establiments"
+  },
+  {
+    "nr": 280,
+    "status": "MATCH"
+  },
+  {
+    "nr": 281,
+    "status": "MATCH"
+  },
+  {
+    "nr": 282,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 283,
+    "status": "MATCH"
+  },
+  {
+    "nr": 284,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 286,
+    "status": "MATCH"
+  },
+  {
+    "nr": 287,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 289,
+    "status": "MATCH"
+  },
+  {
+    "nr": 290,
+    "status": "MATCH"
+  },
+  {
+    "nr": 291,
+    "status": "MATCH"
+  },
+  {
+    "nr": 292,
+    "status": "NO_URL",
+    "name": "Finca Campos (Lizenz)"
+  },
+  {
+    "nr": 293,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 294,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 295,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 299,
+    "status": "MATCH"
+  },
+  {
+    "nr": 302,
+    "status": "MATCH"
+  },
+  {
+    "nr": 303,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 305,
+    "status": "MATCH"
+  },
+  {
+    "nr": 307,
+    "status": "MATCH"
+  },
+  {
+    "nr": 310,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 311,
+    "status": "NO_LIVE",
+    "makler": "Sandberg Estates"
+  },
+  {
+    "nr": 313,
+    "status": "MATCH"
+  },
+  {
+    "nr": 314,
+    "status": "NO_URL",
+    "name": "EV Expos\u00e9 Binissalem"
+  },
+  {
+    "nr": 315,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 316,
+    "status": "MATCH"
+  },
+  {
+    "nr": 317,
+    "status": "MATCH"
+  },
+  {
+    "nr": 319,
+    "status": "MATCH"
+  },
+  {
+    "nr": 320,
+    "status": "MATCH"
+  },
+  {
+    "nr": 321,
+    "status": "MATCH"
+  },
+  {
+    "nr": 322,
+    "status": "FIXED",
+    "action": "fixed"
+  },
+  {
+    "nr": 323,
+    "status": "MATCH"
+  },
+  {
+    "nr": 326,
+    "status": "MATCH"
+  },
+  {
+    "nr": 327,
+    "status": "MATCH"
+  },
+  {
+    "nr": 329,
+    "status": "NO_LIVE",
+    "makler": "Luxury Estates Mallorca"
+  },
+  {
+    "nr": 330,
+    "status": "FIXED",
+    "action": "fixed"
+  }
+]

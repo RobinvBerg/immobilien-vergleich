@@ -1,0 +1,1110 @@
+=== RETRY Analyse ===
+Fehler zu retrying: 91
+
+[1/91] Zeile 21
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[2/91] Zeile 23
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[3/91] Zeile 26
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[4/91] Zeile 27
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5621428 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD428BbAyYSQM24svj1'}
+  ❌ Analyse fehlgeschlagen
+
+[5/91] Zeile 29
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[6/91] Zeile 32
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[7/91] Zeile 34
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[8/91] Zeile 35
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[9/91] Zeile 43
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[10/91] Zeile 47
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[11/91] Zeile 53
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[12/91] Zeile 58
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[13/91] Zeile 59
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8749460 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD5qGdGauUXfANKT3Z5'}
+  ❌ Analyse fehlgeschlagen
+
+[14/91] Zeile 65
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[15/91] Zeile 71
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[16/91] Zeile 73
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9261844 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD6UXyT6QBmJxwYzzbU'}
+  ❌ Analyse fehlgeschlagen
+
+[17/91] Zeile 75
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[18/91] Zeile 78
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 10792012 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD6rMPnZ8AkdateHtX9'}
+  ❌ Analyse fehlgeschlagen
+
+[19/91] Zeile 79
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[20/91] Zeile 82
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[21/91] Zeile 85
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[22/91] Zeile 88
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[23/91] Zeile 92
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhD7kK2zxYatZ1VRKctH'}
+  ❌ Analyse fehlgeschlagen
+
+[24/91] Zeile 94
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[25/91] Zeile 96
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6742860 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD84xwh6XHqh3aPEe6i'}
+  ❌ Analyse fehlgeschlagen
+
+[26/91] Zeile 99
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8272800 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD8EdcpJ5WDzAnBNZo5'}
+  ❌ Analyse fehlgeschlagen
+
+[27/91] Zeile 101
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[28/91] Zeile 108
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7613284 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD8akqY7rhz5B47M5xh'}
+  ❌ Analyse fehlgeschlagen
+
+[29/91] Zeile 110
+  📁 Bild bereits lokal
+  → Charme=? Reno=15
+
+[30/91] Zeile 111
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[31/91] Zeile 115
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[32/91] Zeile 116
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6996416 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhD9QRGA9EhVVoNbn841'}
+  ❌ Analyse fehlgeschlagen
+
+[33/91] Zeile 126
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[34/91] Zeile 129
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[35/91] Zeile 130
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[36/91] Zeile 137
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[37/91] Zeile 138
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[38/91] Zeile 140
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[39/91] Zeile 141
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[40/91] Zeile 143
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/png image'}, 'request_id': 'req_011CYhDAuwZFwBpR55QSbgFp'}
+  ❌ Analyse fehlgeschlagen
+
+[41/91] Zeile 145
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[42/91] Zeile 150
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[43/91] Zeile 151
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[44/91] Zeile 153
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhDBYZi5z8v66LUPVmGW'}
+  ❌ Analyse fehlgeschlagen
+
+[45/91] Zeile 154
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[46/91] Zeile 158
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[47/91] Zeile 159
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[48/91] Zeile 160
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[49/91] Zeile 163
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[50/91] Zeile 169
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7535916 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDCjdzLjW7cmVEZyzbQ'}
+  ❌ Analyse fehlgeschlagen
+
+[51/91] Zeile 173
+  📁 Bild bereits lokal
+  → Charme=? Reno=15
+
+[52/91] Zeile 174
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[53/91] Zeile 175
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5964960 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDDHGGDCPkheemm3V1n'}
+  ❌ Analyse fehlgeschlagen
+
+[54/91] Zeile 180
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[55/91] Zeile 195
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[56/91] Zeile 197
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[57/91] Zeile 199
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[58/91] Zeile 200
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[59/91] Zeile 201
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[60/91] Zeile 208
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[61/91] Zeile 222
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[62/91] Zeile 224
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7474728 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDFLT44hTbyB5nEPVa2'}
+  ❌ Analyse fehlgeschlagen
+
+[63/91] Zeile 231
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[64/91] Zeile 232
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[65/91] Zeile 238
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[66/91] Zeile 244
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5384412 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDG6TDdTMNXUusfBrkM'}
+  ❌ Analyse fehlgeschlagen
+
+[67/91] Zeile 245
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/webp image'}, 'request_id': 'req_011CYhDGAL8TQ3p124TF51UN'}
+  ❌ Analyse fehlgeschlagen
+
+[68/91] Zeile 253
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5296216 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDGGTj2eaQFqipukZ79'}
+  ❌ Analyse fehlgeschlagen
+
+[69/91] Zeile 257
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9938980 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDGTFcXSaWW9kd1LwBt'}
+  ❌ Analyse fehlgeschlagen
+
+[70/91] Zeile 263
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[71/91] Zeile 267
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: The image was specified using the image/jpeg media type, but the image appears to be a image/png image'}, 'request_id': 'req_011CYhDGjgafURThnunzHjJz'}
+  ❌ Analyse fehlgeschlagen
+
+[72/91] Zeile 271
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[73/91] Zeile 275
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[74/91] Zeile 276
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[75/91] Zeile 277
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[76/91] Zeile 279
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[77/91] Zeile 284
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7241620 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDHutGtTfDwu82ysjvr'}
+  ❌ Analyse fehlgeschlagen
+
+[78/91] Zeile 287
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 9946876 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDJ5ppLsXJt8sgv5nJn'}
+  ❌ Analyse fehlgeschlagen
+
+[79/91] Zeile 291
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7856220 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDJE2gbVibMrpSTjVzx'}
+  ❌ Analyse fehlgeschlagen
+
+[80/91] Zeile 297
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[81/91] Zeile 298
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[82/91] Zeile 299
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[83/91] Zeile 300
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 11484784 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDK4unHNzZRWdLfGhhb'}
+  ❌ Analyse fehlgeschlagen
+
+[84/91] Zeile 305
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[85/91] Zeile 307
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[86/91] Zeile 311
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5564316 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDKc61WgKqcGLzitASu'}
+  ❌ Analyse fehlgeschlagen
+
+[87/91] Zeile 318
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8526020 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDKkgCFuCZKcakrEvG6'}
+  ❌ Analyse fehlgeschlagen
+
+[88/91] Zeile 326
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[89/91] Zeile 329
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[90/91] Zeile 330
+  📁 Bild bereits lokal
+  API Fehler: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6618512 bytes > 5242880 bytes'}, 'request_id': 'req_011CYhDLJyQAJ3fXRZ5AYhbr'}
+  ❌ Analyse fehlgeschlagen
+
+[91/91] Zeile 332
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+=== RETRY FERTIG: 2/91 erfolgreich ===
+=== RETRY Analyse ===
+Fehler zu retrying: 89
+
+[1/89] Zeile 21
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[2/89] Zeile 23
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[3/89] Zeile 26
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[4/89] Zeile 27
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[5/89] Zeile 29
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[6/89] Zeile 32
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[7/89] Zeile 34
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[8/89] Zeile 35
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[9/89] Zeile 43
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[10/89] Zeile 47
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[11/89] Zeile 53
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[12/89] Zeile 58
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[13/89] Zeile 59
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[14/89] Zeile 65
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[15/89] Zeile 71
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[16/89] Zeile 73
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[17/89] Zeile 75
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[18/89] Zeile 78
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[19/89] Zeile 79
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[20/89] Zeile 82
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[21/89] Zeile 85
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[22/89] Zeile 88
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[23/89] Zeile 92
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[24/89] Zeile 94
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[25/89] Zeile 96
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[26/89] Zeile 99
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[27/89] Zeile 101
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[28/89] Zeile 108
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[29/89] Zeile 111
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[30/89] Zeile 115
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[31/89] Zeile 116
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[32/89] Zeile 126
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[33/89] Zeile 129
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[34/89] Zeile 130
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[35/89] Zeile 137
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[36/89] Zeile 138
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[37/89] Zeile 140
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[38/89] Zeile 141
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[39/89] Zeile 143
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[40/89] Zeile 145
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[41/89] Zeile 150
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[42/89] Zeile 151
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[43/89] Zeile 153
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[44/89] Zeile 154
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[45/89] Zeile 158
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[46/89] Zeile 159
+  📁 Bild bereits lokal
+  → Charme=4 Reno=15
+
+[47/89] Zeile 160
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[48/89] Zeile 163
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[49/89] Zeile 169
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[50/89] Zeile 174
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[51/89] Zeile 175
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[52/89] Zeile 180
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[53/89] Zeile 195
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[54/89] Zeile 197
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[55/89] Zeile 199
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[56/89] Zeile 200
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[57/89] Zeile 201
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[58/89] Zeile 208
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[59/89] Zeile 222
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[60/89] Zeile 224
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[61/89] Zeile 231
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[62/89] Zeile 232
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[63/89] Zeile 238
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[64/89] Zeile 244
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[65/89] Zeile 245
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[66/89] Zeile 253
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[67/89] Zeile 257
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[68/89] Zeile 263
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[69/89] Zeile 267
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[70/89] Zeile 271
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[71/89] Zeile 275
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[72/89] Zeile 276
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[73/89] Zeile 277
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[74/89] Zeile 279
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[75/89] Zeile 284
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[76/89] Zeile 287
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[77/89] Zeile 291
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[78/89] Zeile 297
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[79/89] Zeile 298
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[80/89] Zeile 299
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[81/89] Zeile 300
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[82/89] Zeile 305
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[83/89] Zeile 307
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[84/89] Zeile 311
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[85/89] Zeile 318
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[86/89] Zeile 326
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[87/89] Zeile 329
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[88/89] Zeile 330
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[89/89] Zeile 332
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+=== RETRY FERTIG: 1/89 erfolgreich ===
+=== RETRY Analyse ===
+Fehler zu retrying: 88
+
+[1/88] Zeile 21
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[2/88] Zeile 23
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[3/88] Zeile 26
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[4/88] Zeile 27
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[5/88] Zeile 29
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[6/88] Zeile 32
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[7/88] Zeile 34
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[8/88] Zeile 35
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[9/88] Zeile 43
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[10/88] Zeile 47
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[11/88] Zeile 53
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[12/88] Zeile 58
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[13/88] Zeile 59
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[14/88] Zeile 65
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[15/88] Zeile 71
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[16/88] Zeile 73
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[17/88] Zeile 75
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[18/88] Zeile 78
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[19/88] Zeile 79
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[20/88] Zeile 82
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[21/88] Zeile 85
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[22/88] Zeile 88
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[23/88] Zeile 92
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[24/88] Zeile 94
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[25/88] Zeile 96
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[26/88] Zeile 99
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[27/88] Zeile 101
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[28/88] Zeile 108
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[29/88] Zeile 111
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[30/88] Zeile 115
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[31/88] Zeile 116
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[32/88] Zeile 126
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[33/88] Zeile 129
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[34/88] Zeile 130
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[35/88] Zeile 137
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[36/88] Zeile 138
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[37/88] Zeile 140
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[38/88] Zeile 141
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[39/88] Zeile 143
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[40/88] Zeile 145
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[41/88] Zeile 150
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[42/88] Zeile 151
+  📁 Bild bereits lokal
+  → Charme=? Reno=15
+
+[43/88] Zeile 153
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[44/88] Zeile 154
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[45/88] Zeile 158
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[46/88] Zeile 160
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[47/88] Zeile 163
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[48/88] Zeile 169
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[49/88] Zeile 174
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[50/88] Zeile 175
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[51/88] Zeile 180
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[52/88] Zeile 195
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[53/88] Zeile 197
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[54/88] Zeile 199
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[55/88] Zeile 200
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[56/88] Zeile 201
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[57/88] Zeile 208
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[58/88] Zeile 222
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[59/88] Zeile 224
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[60/88] Zeile 231
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[61/88] Zeile 232
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[62/88] Zeile 238
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[63/88] Zeile 244
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[64/88] Zeile 245
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[65/88] Zeile 253
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[66/88] Zeile 257
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[67/88] Zeile 263
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[68/88] Zeile 267
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[69/88] Zeile 271
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[70/88] Zeile 275
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[71/88] Zeile 276
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[72/88] Zeile 277
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[73/88] Zeile 279
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[74/88] Zeile 284
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[75/88] Zeile 287
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[76/88] Zeile 291
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[77/88] Zeile 297
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[78/88] Zeile 298
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[79/88] Zeile 299
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[80/88] Zeile 300
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[81/88] Zeile 305
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[82/88] Zeile 307
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[83/88] Zeile 311
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[84/88] Zeile 318
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[85/88] Zeile 326
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[86/88] Zeile 329
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[87/88] Zeile 330
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+[88/88] Zeile 332
+  📁 Bild bereits lokal
+  ❌ Analyse fehlgeschlagen
+
+=== RETRY FERTIG: 1/88 erfolgreich ===

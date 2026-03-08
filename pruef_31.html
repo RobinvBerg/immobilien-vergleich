@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Bildprüfung — 31 Objekte</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #1a1a1a; color: #eee; font-family: sans-serif; padding: 20px; }
+h1 { color: #f0a500; margin-bottom: 10px; }
+#progress { background: #333; border-radius: 6px; height: 8px; margin-bottom: 20px; }
+#prog-bar { background: #f0a500; height: 8px; border-radius: 6px; transition: width 0.3s; }
+#counter { color: #aaa; font-size: 14px; margin-bottom: 20px; }
+.card { display: flex; gap: 20px; background: #2a2a2a; border-radius: 12px; padding: 20px; margin-bottom: 20px; }
+.card img { width: 340px; height: 220px; object-fit: cover; border-radius: 8px; flex-shrink: 0; cursor: pointer; }
+.card img:hover { opacity: 0.85; }
+.info { flex: 1; }
+.nr { color: #f0a500; font-size: 13px; margin-bottom: 4px; }
+.name { font-size: 17px; font-weight: bold; margin-bottom: 6px; }
+.meta { color: #aaa; font-size: 13px; margin-bottom: 12px; }
+.url-link { display: inline-block; color: #4a9eff; font-size: 13px; margin-bottom: 16px; word-break: break-all; }
+.btns { display: flex; gap: 10px; }
+button { padding: 10px 24px; border: none; border-radius: 8px; font-size: 15px; cursor: pointer; font-weight: bold; }
+.ok { background: #27ae60; color: #fff; }
+.bad { background: #c0392b; color: #fff; }
+.skip { background: #555; color: #fff; }
+button:hover { opacity: 0.85; }
+.done { opacity: 0.4; pointer-events: none; }
+.badge-ok { background: #27ae60; }
+.badge-bad { background: #c0392b; }
+.badge-skip { background: #555; }
+.badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 12px; margin-left: 8px; }
+#summary { background: #2a2a2a; border-radius: 12px; padding: 20px; margin-top: 20px; display: none; }
+#summary h2 { color: #f0a500; margin-bottom: 12px; }
+.sum-bad { color: #e74c3c; }
+</style>
+</head>
+<body>
+<h1>🔍 Bildprüfung — 31 ungeprüfte Objekte</h1>
+<div id="progress"><div id="prog-bar" style="width:0%"></div></div>
+<div id="counter">0 / 31 geprüft</div>
+<div id="cards"></div>
+<div id="summary">
+  <h2>Zusammenfassung</h2>
+  <div id="sum-content"></div>
+</div>
+
+<script>
+const DATA = [];
+</script>
+<script src="pruef_31_data.js"></script>
+<script>
+const results = {};
+
+function render() {
+  const container = document.getElementById('cards');
+  container.innerHTML = '';
+  DATA.forEach((e, idx) => {
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.id = `card-${e.nr}`;
+    const res = results[e.nr];
+    const badge = res ? `<span class="badge badge-${res}">${res==='ok'?'✅ Stimmt':res==='bad'?'❌ Falsch':'⏭ Übersprungen'}</span>` : '';
+    div.innerHTML = `
+      <img src="${e.img}" onclick="window.open('${e.url}','_blank')" title="Klick = URL öffnen">
+      <div class="info">
+        <div class="nr">Nr.${e.nr} | ${e.makler} ${badge}</div>
+        <div class="name">${e.name}</div>
+        <div class="meta">€${e.preis.toLocaleString('de')} | ${e.ort}</div>
+        <a class="url-link" href="${e.url}" target="_blank">${e.url}</a>
+        <div class="btns">
+          <button class="ok" onclick="mark(${e.nr},'ok')">✅ Stimmt</button>
+          <button class="bad" onclick="mark(${e.nr},'bad')">❌ Falsch</button>
+          <button class="skip" onclick="mark(${e.nr},'skip')">⏭ Skip</button>
+        </div>
+      </div>`;
+    container.appendChild(div);
+  });
+}
+
+function mark(nr, val) {
+  results[nr] = val;
+  const card = document.getElementById(`card-${nr}`);
+  if (val !== 'bad') card.classList.add('done');
+  
+  const done = Object.keys(results).length;
+  document.getElementById('prog-bar').style.width = (done/DATA.length*100)+'%';
+  document.getElementById('counter').textContent = `${done} / ${DATA.length} geprüft`;
+  
+  // Badge aktualisieren
+  const badge = card.querySelector('.badge') || document.createElement('span');
+  badge.className = `badge badge-${val}`;
+  badge.textContent = val==='ok'?'✅ Stimmt':val==='bad'?'❌ Falsch':'⏭ Übersprungen';
+  card.querySelector('.nr').appendChild(badge);
+  
+  if (done === DATA.length) showSummary();
+}
+
+function showSummary() {
+  const bad = DATA.filter(e => results[e.nr]==='bad');
+  const ok = DATA.filter(e => results[e.nr]==='ok');
+  const skip = DATA.filter(e => results[e.nr]==='skip');
+  
+  let html = `<p>✅ Stimmt: ${ok.length} | ❌ Falsch: ${bad.length} | ⏭ Skip: ${skip.length}</p>`;
+  if (bad.length) {
+    html += `<p class="sum-bad" style="margin-top:12px"><strong>Falsche Bilder (Nr.):</strong> ${bad.map(e=>e.nr).join(', ')}</p>`;
+  }
+  document.getElementById('sum-content').innerHTML = html;
+  document.getElementById('summary').style.display = 'block';
+  
+  // In Clipboard kopieren
+  const badNrs = bad.map(e=>e.nr).join(',');
+  if (badNrs) navigator.clipboard.writeText(badNrs).catch(()=>{});
+  
+  console.log('FALSCH:', bad.map(e=>e.nr));
+}
+
+render();
+</script>
+</body>
+</html>

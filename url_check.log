@@ -1,0 +1,183 @@
+Prüfe 219 Non-LivingBlue URLs...
+
+✅ OK: 131/219
+🔗 Kein URL: 0
+❌ Fehler/Redirect: 88
+
+Problematische URLs:
+  Nr.  1 [Idealista] HTTP 403
+         Establiments — Das Volumen; 762m² zum Umdenken
+  Nr.  3 [Idealista] HTTP 403
+         Establiments — Charme-Refugium; altes Steinhaus mit Charakte
+  Nr.  4 [Idealista] HTTP 403
+         Palmanyola — Klein aber Wow; Designvilla vor den Toren Palma
+  Nr.  5 [Idealista] HTTP 403
+         Santa Maria — Potenzial pur; Rohling in Traumlage
+  Nr.  6 [Idealista] HTTP 403
+         Campos — Zum Selbermachen; ehrliche Finca, ehrlicher Preis
+  Nr.  7 [Idealista] HTTP 403
+         Sa Ràpita — Strandgold; aufwachen, Es Trenc, fertig
+  Nr.  8 [Idealista] HTTP 403
+         Sa Ràpita — Vision 1800; 5 Hektar warten auf deine Handschri
+  Nr.  9 [Engel & Völkers] HTTP 410
+         Sencelles — 13 Hektar Paradies; dein eigenes Landgut
+  Nr. 13 [Idealista] HTTP 403
+         Bunyola — Berglage mit Lizenz; Tramuntana vor der Tür
+  Nr. 14 [Balearic Properties] HTTP 410
+         Magnificent country estate with sea views for sale in Estell
+  Nr. 15 [Balearic Properties] HTTP 410
+         Enormous luxury leisure development for sale in Campos, Mall
+  Nr. 23 [Balearic Properties] HTTP 410
+         Wonderful country property for sale on a huge plot in Montuï
+  Nr. 24 [Balearic Properties] HTTP 410
+         Unique and authentic country estate for sale in Selva, Mallo
+  Nr. 27 [Balearic Properties] HTTP 410
+         Grand manor house for sale, walking distance from Alaró, Mal
+  Nr. 30 [Balearic Properties] HTTP 410
+         Magnificent country estate for sale on a huge plot in Puigpu
+  Nr. 32 [Balearic Properties] HTTP 410
+         Historic country estate for sale on a huge plot in Algaida, 
+  Nr. 37 [Balearic Properties] HTTP 410
+         Enormous Mallorca country property with investment potential
+  Nr. 44 [Balearic Properties] HTTP 410
+         Exceptional Private Estate for sale in Llucmajor, South Mall
+  Nr. 49 [Balearic Properties] HTTP 410
+         Lavish country estate for sale in the beautiful surroundings
+  Nr. 50 [Balearic Properties] HTTP 410
+         Fabulous country home for sale in a picturesque valley near 
+  Nr. 55 [Kyero] HTTP 403
+         Country house in Andratx, Mallorca
+  Nr. 59 [EV / Lucas Fox] ERROR: Failed to parse: —
+         Estate Sencelles
+  Nr. 60 [Balearic Properties] HTTP 410
+         Semi-detached country house for sale in the north of Andratx
+  Nr. 65 [Balearic Properties] HTTP 410
+         State-of-the-art finca for sale in Puigpunyent, Mallorca wes
+  Nr. 69 [Balearic Properties] HTTP 410
+         Traditional Mediterranean farmhouse retreat for sale in Sant
+  Nr. 76 [Balearic Properties] HTTP 410
+         Magnificent country house with 2 pools and spa for sale near
+  Nr. 79 [Balearic Properties] HTTP 410
+         State-of-the-art finca with panoramic views for sale in Calv
+  Nr. 82 [Balearic Properties] HTTP 410
+         Historic country estate with incredible sea views for sale i
+  Nr. 85 [Balearic Properties] HTTP 410
+         Country estate with vineyard for sale between Felanitx and P
+  Nr. 90 [Balearic Properties] HTTP 410
+         Charming and spacious finca with privacy for sale in Santany
+  Nr. 91 [Kyero] HTTP 403
+         Country house in Andratx, Mallorca
+  Nr. 92 [Balearic Properties] HTTP 410
+         Hillside finca on a large plot with guest house for sale in 
+  Nr.104 [Privat / Idealista] ERROR: Failed to parse: —
+         Kreativprojekt Sa Ràpita
+  Nr.112 [Balearic Properties] HTTP 410
+         Outstanding country property for sale in Porto Colom, Mallor
+  Nr.113 [Balearic Properties] HTTP 410
+         Bright, newly built finca for sale in peaceful Sencelles, Ce
+  Nr.120 [Balearic Properties] HTTP 410
+         Incredible country house for sale at the foot of the Tramunt
+  Nr.127 [Balearic Properties] HTTP 410
+         Luxury hillside villa for sale in the countryside of Santa M
+  Nr.130 [Balearic Properties] HTTP 410
+         Magnificent finca on extensive private plot for sale in Calv
+  Nr.131 [Engel & Völkers (Exp] ERROR: Failed to parse: —
+         Neubaufinca Ses Covetes - Nähe Es Trenc
+  Nr.132 [Balearic Properties] HTTP 410
+         Impressive country estate with vineyard for sale in Santa Ma
+  Nr.133 [Balearic Properties] HTTP 410
+         Elegantly designed finca with guest house for sale near the 
+  Nr.135 [Balearic Properties] HTTP 410
+         Eco friendly private villa with holiday license for sale in 
+  Nr.138 [Balearic Properties] HTTP 410
+         Country oasis with holiday rental license and tennis court f
+  Nr.143 [Balearic Properties] HTTP 410
+         Country property with holiday rental license for sale in Alq
+  Nr.147 [Porta Mallorquina] ERROR: Failed to parse: —
+         Santa Maria unfertig
+  Nr.152 [Kyero] HTTP 403
+         Finca in Felanitx, Mallorca
+  Nr.155 [Balearic Properties] HTTP 410
+         Stunning country estate for sale in a picturesque area of Fe
+  Nr.156 [Balearic Properties] HTTP 410
+         Beautiful finca with holiday license for sale close to Cala 
+  Nr.161 [Balearic Properties] HTTP 410
+         Country house with holiday rental license for sale in Felani
+  Nr.164 [Balearic Properties] HTTP 410
+         Charming finca with complete privacy for sale in Ses Salines
+  Nr.165 [Sandberg Estates] ERROR: Failed to parse: —
+         Designer House Ses Salines
+  Nr.178 [Kyero] HTTP 403
+         Villa in Marratxinet (Marratxi), Mallorca
+  Nr.181 [Balearic Properties] HTTP 410
+         Newly built country estate for sale in Sencelles, Central Ma
+  Nr.182 [Balearic Properties] HTTP 410
+         Country villa with holiday license for sale in Caimari, Cent
+  Nr.188 [Balearic Properties] HTTP 410
+         Newly built finca with full privacy for sale in Llucmajor, M
+  Nr.190 [Balearic Properties] HTTP 410
+         Two fincas with holiday rental licence in Biniaraix for sale
+  Nr.203 [Porta Mallorquina] ERROR: Failed to parse: —
+         Contemporary Moscari
+  Nr.206 [Balearic Properties] HTTP 410
+         Finca under construction with panoramic mountain views for s
+  Nr.211 [Balearic Properties] HTTP 410
+         Impressive country estate for sale in Santanyí, southeast Ma
+  Nr.213 [Balearic Properties] HTTP 410
+         Luxurious country house for sale close to S´Arracó, Puerto A
+  Nr.214 [Balearic Properties] HTTP 410
+         Luxurious country house for sale close to Sant Elm, Andratx
+  Nr.217 [Balearic Properties] HTTP 410
+         New luxury finca with panoramic views for sale in the countr
+  Nr.224 [Balearic Properties] HTTP 410
+         Private retreat with excellent facilies for sale in Llucmajo
+  Nr.232 [Balearic Properties] HTTP 410
+         Outstanding hilltop finca for sale in Santa Maria del Camí, 
+  Nr.234 [Balearic Properties] HTTP 410
+         Country estate with guest cottage for sale in Santa Maria de
+  Nr.235 [Balearic Properties] HTTP 410
+         New development country home for sale in Sineu, Central Mall
+  Nr.244 [Kyero] HTTP 403
+         Country house in Montuiri, Mallorca
+  Nr.245 [Balearic Properties] HTTP 410
+         Unique finca for sale with vineyard in Montuiri, Mallorca
+  Nr.250 [Balearic Properties] HTTP 410
+         Majestic country home with sea views for sale in Ses Salines
+  Nr.251 [Balearic Properties] HTTP 410
+         Brand new finca for sale in the countryside of Santa Maria d
+  Nr.257 [Balearic Properties] HTTP 410
+         Immaculate finca with open views for sale in Palma, Mallorca
+  Nr.259 [Balearic Properties] HTTP 410
+         Newly built finca with panoramic mountain views for sale in 
+  Nr.265 [Kyero] HTTP 403
+         Country house in Binissalem, Mallorca
+  Nr.272 [Balearic Properties] HTTP 410
+         Newly built finca close to the sea in Ses Salines for sale, 
+  Nr.273 [EV Mallorca] ERROR: Failed to parse: —
+         Villa Bunyola (Lizenz)
+  Nr.279 [Minkner / EV] ERROR: Failed to parse: —
+         Gästehaus Establiments
+  Nr.282 [Balearic Properties] HTTP 410
+         Brand new finca with sea views in Cala Llombards, Santanyi, 
+  Nr.284 [Balearic Properties] HTTP 410
+         Immaculate new villa with mountain views for sale in Santa M
+  Nr.287 [Balearic Properties] HTTP 410
+         Luxury estate with panoramic views and absolute privacy for 
+  Nr.292 [Minkner] ERROR: Failed to parse: —
+         Finca Campos (Lizenz)
+  Nr.293 [Kyero] HTTP 403
+         Finca in Campos, Mallorca
+  Nr.294 [Balearic Properties] HTTP 410
+         Exclusive new estate project with guest house for sale in Ll
+  Nr.295 [Balearic Properties] HTTP 410
+         Exclusive new estate with guest house for sale in Marratxi, 
+  Nr.303 [Kyero] HTTP 403
+         Country house in Santa Maria Del Cami, Mallorca
+  Nr.314 [Engel & Völkers] ERROR: Failed to parse: —
+         EV Exposé Binissalem
+  Nr.315 [Balearic Properties] HTTP 410
+         Incredible seafront finca with boathouse for sale in Banyalb
+  Nr.322 [Balearic Properties] HTTP 410
+         State-of-the-art villa for sale in picturesque Puntiró, Mall
+  Nr.330 [Balearic Properties] HTTP 410
+         Impressive 19th century mansion with courtyard, for sale in 
