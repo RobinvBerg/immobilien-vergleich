@@ -1,0 +1,758 @@
+<!DOCTYPE html><html lang="de"><head><meta charset="UTF-8">
+<title>Kensington Auswahl</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,sans-serif;font-size:13px;background:#f5f5f5;padding:15px}
+.toolbar{background:#1a1a2e;color:white;padding:12px 16px;border-radius:8px;margin-bottom:15px;display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:10}
+.toolbar button{background:#e94560;color:white;border:none;padding:7px 14px;border-radius:5px;cursor:pointer;font-weight:600;font-size:12px}
+.toolbar button.green{background:#27ae60}
+#count{opacity:0.8;font-size:12px}
+table{width:100%;border-collapse:collapse;background:white;border-radius:8px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,0.1)}
+th{background:#1a1a2e;color:white;padding:8px 10px;text-align:left;font-size:12px}
+td{padding:7px 10px;border-bottom:1px solid #f0f0f0;vertical-align:middle}
+tr:hover{background:#fafafa}
+tr.selected{background:#fff0f0}
+.nr{color:#999;width:30px}
+.preis{font-weight:700;color:#e94560;white-space:nowrap}
+.ort{color:#888;max-width:130px;font-size:11px}
+.noort{color:#bbb;font-style:italic}
+.etv{text-align:center;font-size:14px}
+.titel a{color:#1a73e8;text-decoration:none;font-size:12px}
+.titel a:hover{text-decoration:underline}
+input[type=checkbox]{width:16px;height:16px;cursor:pointer}
+#output{width:100%;height:80px;margin-top:12px;font-family:monospace;font-size:11px;padding:8px;border:1px solid #ccc;border-radius:6px}
+</style></head><body>
+<div class="toolbar">
+<strong>70 Objekte (≥5 Bedrooms)</strong>
+<button onclick="selAll()">Alle</button>
+<button onclick="clrAll()">Keine</button>
+<button class="green" onclick="exportSel()">✅ Auswahl exportieren</button>
+<span id="count">0 gewählt</span>
+</div>
+<table>
+<thead><tr><th></th><th>#</th><th>Preis</th><th>Bed</th><th>Bad</th><th>m²</th><th>Ort</th><th></th><th>Titel (→ Kensington öffnen)</th></tr></thead>
+<tbody><tr id="r0">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/herrliches-renoviertes-landhaus-auf-16000-m2-grundstueck-in-calvia?cHash=ea598a912dc211ec88f05b2ab3df9c79"></td>
+<td class="nr">1</td>
+<td class="preis">2.2M€</td>
+<td>5Bed</td>
+<td>3Bad</td>
+<td>312.00m²</td>
+<td class="ort">Calvia</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/herrliches-renoviertes-landhaus-auf-16000-m2-grundstueck-in-calvia?cHash=ea598a912dc211ec88f05b2ab3df9c79" target="_blank">Herrliches Renoviertes Landhaus Auf 16000 M2 Grundstueck In </a></td>
+</tr><tr id="r1">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/en/expose/spacious-finca-estate-with-two-houses-etv-licence-exceptional-privacy-near-arta-kpno928?cHash=4d46dd45920a46b1bc3e4e197769212a"></td>
+<td class="nr">2</td>
+<td class="preis">2.3M€</td>
+<td>10Bed</td>
+<td>9Bad</td>
+<td>326.00m²</td>
+<td class="ort">Arta</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/en/expose/spacious-finca-estate-with-two-houses-etv-licence-exceptional-privacy-near-arta-kpno928?cHash=4d46dd45920a46b1bc3e4e197769212a" target="_blank">Spacious Finca Estate With Two Houses Etv Licence Exceptiona</a></td>
+</tr><tr id="r2">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/ein-freistehendes-familienhaus-voller-potenzial-und-mit-meerblick-kpo01830?cHash=9abaea85813f1e465b87cd9c50c56654"></td>
+<td class="nr">3</td>
+<td class="preis">2.4M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>267.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/ein-freistehendes-familienhaus-voller-potenzial-und-mit-meerblick-kpo01830?cHash=9abaea85813f1e465b87cd9c50c56654" target="_blank">Ein Freistehendes Familienhaus Voller Potenzial Und Mit Meer</a></td>
+</tr><tr id="r3">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/gepflegte-panoramablick-finca-mit-gaestehaeusern-bei-andratx-mallorca?cHash=1231489531ce8aaa6de9e279cce82f6a"></td>
+<td class="nr">4</td>
+<td class="preis">2.4M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>302.00m²</td>
+<td class="ort">Andratx Mallorca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/gepflegte-panoramablick-finca-mit-gaestehaeusern-bei-andratx-mallorca?cHash=1231489531ce8aaa6de9e279cce82f6a" target="_blank">Gepflegte Panoramablick Finca Mit Gaestehaeusern Bei Andratx</a></td>
+</tr><tr id="r4">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/luxusvilla-fuer-die-ganze-familie-koenigslage-mit-blick-auf-meer-und-berge-in-canyamel?cHash=14d79417282c193fb9cc864a1059ee88"></td>
+<td class="nr">5</td>
+<td class="preis">2.4M€</td>
+<td>6Bed</td>
+<td>5Bad</td>
+<td>635.00m²</td>
+<td class="ort">Canyamel</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/luxusvilla-fuer-die-ganze-familie-koenigslage-mit-blick-auf-meer-und-berge-in-canyamel?cHash=14d79417282c193fb9cc864a1059ee88" target="_blank">Luxusvilla Fuer Die Ganze Familie Koenigslage Mit Blick Auf </a></td>
+</tr><tr id="r5">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/moderne-villa-in-es-capdella-ksp01841?cHash=a6f66ec82d235578667be259913af966"></td>
+<td class="nr">6</td>
+<td class="preis">2.4M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>250.00m²</td>
+<td class="ort">Es Capdella</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/moderne-villa-in-es-capdella-ksp01841?cHash=a6f66ec82d235578667be259913af966" target="_blank">Moderne Villa In Es Capdella Ksp01841</a></td>
+</tr><tr id="r6">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/charmantes-finca-anwesen-im-traditionellen-stil-zwischen-pollensa-und-alcudia?cHash=18240075c4aa9d2650488ebfab3f489f"></td>
+<td class="nr">7</td>
+<td class="preis">2.4M€</td>
+<td>6Bed</td>
+<td>4Bad</td>
+<td>320.00m²</td>
+<td class="ort">Pollensa</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/charmantes-finca-anwesen-im-traditionellen-stil-zwischen-pollensa-und-alcudia?cHash=18240075c4aa9d2650488ebfab3f489f" target="_blank">Charmantes Finca Anwesen Im Traditionellen Stil Zwischen Pol</a></td>
+</tr><tr id="r7">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/finca-in-mallorca-alcudia-mit-lizenz-zur-ferienvermietung-pool-und-tennisplatz-zu-verkaufen?cHash=77540801d70551fdba730b968dc6e8ef"></td>
+<td class="nr">8</td>
+<td class="preis">2.5M€</td>
+<td>5Bed</td>
+<td>3Bad</td>
+<td>400.00m²</td>
+<td class="ort">Mallorca Alcudia Mit Lizenz Zur Ferienvermietung Pool Und Tennisplatz Zu Verkaufen</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/finca-in-mallorca-alcudia-mit-lizenz-zur-ferienvermietung-pool-und-tennisplatz-zu-verkaufen?cHash=77540801d70551fdba730b968dc6e8ef" target="_blank">Finca In Mallorca Alcudia Mit Lizenz Zur Ferienvermietung Po</a></td>
+</tr><tr id="r8">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/traumhafte-villa-mit-schoener-terrasse-und-pool?cHash=7067a943ea3fe5fbec380f8ee4c92b30"></td>
+<td class="nr">9</td>
+<td class="preis">2.6M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>365.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/traumhafte-villa-mit-schoener-terrasse-und-pool?cHash=7067a943ea3fe5fbec380f8ee4c92b30" target="_blank">Traumhafte Villa Mit Schoener Terrasse Und Pool</a></td>
+</tr><tr id="r9">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/historische-finca-neben-dem-golf-club-puntiro-nur-13-km-von-palma-de-mallorca-kpp07155?cHash=07246ca28a79ec95cf6464a690620bf3"></td>
+<td class="nr">10</td>
+<td class="preis">2.7M€</td>
+<td>11Bed</td>
+<td>3Bad</td>
+<td>454.00m²</td>
+<td class="ort">Palma</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/historische-finca-neben-dem-golf-club-puntiro-nur-13-km-von-palma-de-mallorca-kpp07155?cHash=07246ca28a79ec95cf6464a690620bf3" target="_blank">Historische Finca Neben Dem Golf Club Puntiro Nur 13 Km Von </a></td>
+</tr><tr id="r10">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/zwei-geraeumige-landhaeuser-auf-einer-parzelle-bei-petra-mallorca-kpp05892?cHash=32ae790947485aca075015d38dc6034e"></td>
+<td class="nr">11</td>
+<td class="preis">2.9M€</td>
+<td>11Bed</td>
+<td>10Bad</td>
+<td>626.00m²</td>
+<td class="ort">Petra Mallorca</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/zwei-geraeumige-landhaeuser-auf-einer-parzelle-bei-petra-mallorca-kpp05892?cHash=32ae790947485aca075015d38dc6034e" target="_blank">Zwei Geraeumige Landhaeuser Auf Einer Parzelle Bei Petra Mal</a></td>
+</tr><tr id="r11">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/exklusive-finca-mit-historischem-olivenhain-parkaehnlichem-grundstueck-panoramablick-auf-capdepera-kpno869?cHash=5a5979a6031e18bf8c3139a1540cb625"></td>
+<td class="nr">12</td>
+<td class="preis">3.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>400.00m²</td>
+<td class="ort">Capdepera</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/exklusive-finca-mit-historischem-olivenhain-parkaehnlichem-grundstueck-panoramablick-auf-capdepera-kpno869?cHash=5a5979a6031e18bf8c3139a1540cb625" target="_blank">Exklusive Finca Mit Historischem Olivenhain Parkaehnlichem G</a></td>
+</tr><tr id="r12">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/wo-der-charme-calvias-auf-modernes-wohnen-trifft-ksp01827?cHash=db3264c35a30ba7f2240fe0b58b50372"></td>
+<td class="nr">13</td>
+<td class="preis">3.0M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>390.00m²</td>
+<td class="ort">Calvia</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/wo-der-charme-calvias-auf-modernes-wohnen-trifft-ksp01827?cHash=db3264c35a30ba7f2240fe0b58b50372" target="_blank">Wo Der Charme Calvias Auf Modernes Wohnen Trifft Ksp01827</a></td>
+</tr><tr id="r13">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/schoene-und-ruhige-finca-mit-pool-nahe-algaida-mallorca?cHash=ccfe08cb137e33363f8ebcfd905367c8"></td>
+<td class="nr">14</td>
+<td class="preis">3.0M€</td>
+<td>7Bed</td>
+<td>5Bad</td>
+<td>509.00m²</td>
+<td class="ort">Algaida</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/schoene-und-ruhige-finca-mit-pool-nahe-algaida-mallorca?cHash=ccfe08cb137e33363f8ebcfd905367c8" target="_blank">Schoene Und Ruhige Finca Mit Pool Nahe Algaida Mallorca</a></td>
+</tr><tr id="r14">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/kpp07070?cHash=04eb4872ef3445d57a7d90224562fe9c"></td>
+<td class="nr">15</td>
+<td class="preis">3.1M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>?m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/kpp07070?cHash=04eb4872ef3445d57a7d90224562fe9c" target="_blank">Kpp07070</a></td>
+</tr><tr id="r15">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/en/expose/modern-dream-finca-with-infinity-pool-impressive-panoramic-views-near-arta-kpno927?cHash=8e6266b99441f78573aa0315757bc8e8"></td>
+<td class="nr">16</td>
+<td class="preis">3.2M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>386.00m²</td>
+<td class="ort">Arta</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/en/expose/modern-dream-finca-with-infinity-pool-impressive-panoramic-views-near-arta-kpno927?cHash=8e6266b99441f78573aa0315757bc8e8" target="_blank">Modern Dream Finca With Infinity Pool Impressive Panoramic V</a></td>
+</tr><tr id="r16">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/einzigartige-villa-in-der-exklusiven-gegend-von-la-font-pollensa-mit-herrlichem-blick-ueber-das-tal?cHash=44bad45b4542b13c164766bb7050dafd"></td>
+<td class="nr">17</td>
+<td class="preis">3.7M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>343.00m²</td>
+<td class="ort">Der Exklusiven Gegend Von La Font Pollensa Mit Herrlichem Blick Ueber Das Tal</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/einzigartige-villa-in-der-exklusiven-gegend-von-la-font-pollensa-mit-herrlichem-blick-ueber-das-tal?cHash=44bad45b4542b13c164766bb7050dafd" target="_blank">Einzigartige Villa In Der Exklusiven Gegend Von La Font Poll</a></td>
+</tr><tr id="r17">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/grosse-finca-mit-pool-weitblick-bei-lloret-de-vistalegre-mallorca-kpp07121?cHash=085f047001ece1fff45d123a4377ebd8"></td>
+<td class="nr">18</td>
+<td class="preis">3.8M€</td>
+<td>7Bed</td>
+<td>8Bad</td>
+<td>834.00m²</td>
+<td class="ort">Lloret De Vistalegre Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/grosse-finca-mit-pool-weitblick-bei-lloret-de-vistalegre-mallorca-kpp07121?cHash=085f047001ece1fff45d123a4377ebd8" target="_blank">Grosse Finca Mit Pool Weitblick Bei Lloret De Vistalegre Mal</a></td>
+</tr><tr id="r18">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/neubau-luxusvilla-in-toplage-llenaire-puerto-pollensa?cHash=124d4acf1ba8862c36b099dc25e93d2a"></td>
+<td class="nr">19</td>
+<td class="preis">3.8M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>339.43m²</td>
+<td class="ort">Toplage Llenaire Puerto Pollensa</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/neubau-luxusvilla-in-toplage-llenaire-puerto-pollensa?cHash=124d4acf1ba8862c36b099dc25e93d2a" target="_blank">Neubau Luxusvilla In Toplage Llenaire Puerto Pollensa</a></td>
+</tr><tr id="r19">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/einzigartiges-finca-projekt-am-rande-von-portol?cHash=d549e22f2e1e3fa326074e615fa4bf9d"></td>
+<td class="nr">20</td>
+<td class="preis">3.8M€</td>
+<td>7Bed</td>
+<td>7Bad</td>
+<td>426.00m²</td>
+<td class="ort">Inca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/einzigartiges-finca-projekt-am-rande-von-portol?cHash=d549e22f2e1e3fa326074e615fa4bf9d" target="_blank">Einzigartiges Finca Projekt Am Rande Von Portol</a></td>
+</tr><tr id="r20">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/traditionelles-landhaus-in-der-naehe-von-golf-pollensa-mit-lizenz-zur-ferienvermietung?cHash=668e6b6b90026df9a1180e21a8cab606"></td>
+<td class="nr">21</td>
+<td class="preis">3.9M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>370.00m²</td>
+<td class="ort">Der Naehe Von Golf Pollensa Mit Lizenz Zur Ferienvermietung</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/traditionelles-landhaus-in-der-naehe-von-golf-pollensa-mit-lizenz-zur-ferienvermietung?cHash=668e6b6b90026df9a1180e21a8cab606" target="_blank">Traditionelles Landhaus In Der Naehe Von Golf Pollensa Mit L</a></td>
+</tr><tr id="r21">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/grosses-luxus-finca-anwesen-mit-traumhaftem-meerblick-und-berg-panoramablick-grosse-etv-lizenz?cHash=21c0ac34dea0cef1c94cd493f4cc82e8"></td>
+<td class="nr">22</td>
+<td class="preis">3.9M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>425.00m²</td>
+<td class="ort">Inca</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/grosses-luxus-finca-anwesen-mit-traumhaftem-meerblick-und-berg-panoramablick-grosse-etv-lizenz?cHash=21c0ac34dea0cef1c94cd493f4cc82e8" target="_blank">Grosses Luxus Finca Anwesen Mit Traumhaftem Meerblick Und Be</a></td>
+</tr><tr id="r22">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/meerblick-finca-mit-pool-bei-andratx-mallorca?cHash=0279e930a243d95404451d8efec342f2"></td>
+<td class="nr">23</td>
+<td class="preis">4.0M€</td>
+<td>5Bed</td>
+<td>3Bad</td>
+<td>351.00m²</td>
+<td class="ort">Andratx Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/meerblick-finca-mit-pool-bei-andratx-mallorca?cHash=0279e930a243d95404451d8efec342f2" target="_blank">Meerblick Finca Mit Pool Bei Andratx Mallorca</a></td>
+</tr><tr id="r23">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/neubau-finca-nahe-es-trenc-strand-bei-sa-rapita-mallorca-kmsl06705?cHash=82f4c1c4ae4b144ebe10b2f687ba9b06"></td>
+<td class="nr">24</td>
+<td class="preis">4.0M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>515.00m²</td>
+<td class="ort">Sa Rapita Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/neubau-finca-nahe-es-trenc-strand-bei-sa-rapita-mallorca-kmsl06705?cHash=82f4c1c4ae4b144ebe10b2f687ba9b06" target="_blank">Neubau Finca Nahe Es Trenc Strand Bei Sa Rapita Mallorca Kms</a></td>
+</tr><tr id="r24">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/finca-anwesen-bei-manacor-mit-panoramablick-ueber-die-berge-bis-hin-zum-glitzernden-meer?cHash=11da3dc678da620f206d768c1641c06a"></td>
+<td class="nr">25</td>
+<td class="preis">4.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>?m²</td>
+<td class="ort">Manacor Mit Panoramablick Ueber Die Berge Bis Hin Zum Glitzernden Meer</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/finca-anwesen-bei-manacor-mit-panoramablick-ueber-die-berge-bis-hin-zum-glitzernden-meer?cHash=11da3dc678da620f206d768c1641c06a" target="_blank">Finca Anwesen Bei Manacor Mit Panoramablick Ueber Die Berge </a></td>
+</tr><tr id="r25">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/exklusives-neubauprojekt-einer-finca-toplage-bei-jornets?cHash=878c7240fd6546829f7fb6b739fa30b7"></td>
+<td class="nr">26</td>
+<td class="preis">4.0M€</td>
+<td>7Bed</td>
+<td>7Bad</td>
+<td>426.00m²</td>
+<td class="ort">Jornets</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/exklusives-neubauprojekt-einer-finca-toplage-bei-jornets?cHash=878c7240fd6546829f7fb6b739fa30b7" target="_blank">Exklusives Neubauprojekt Einer Finca Toplage Bei Jornets</a></td>
+</tr><tr id="r26">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/moderne-luxusvilla-mit-panoramablick-in-sa-cabaneta?cHash=b46d3866f6eee72cabdd3dcf24f579f0"></td>
+<td class="nr">27</td>
+<td class="preis">4.2M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>589.00m²</td>
+<td class="ort">Sa Cabaneta</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/moderne-luxusvilla-mit-panoramablick-in-sa-cabaneta?cHash=b46d3866f6eee72cabdd3dcf24f579f0" target="_blank">Moderne Luxusvilla Mit Panoramablick In Sa Cabaneta</a></td>
+</tr><tr id="r27">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/ein-erstaunliches-landhaus-in-muro-mallorca-mit-pool-knp08140?cHash=84eed36aaa164f71aba0c4cd3a54762c"></td>
+<td class="nr">28</td>
+<td class="preis">4.2M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>385.00m²</td>
+<td class="ort">Muro Mallorca Mit Pool</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/ein-erstaunliches-landhaus-in-muro-mallorca-mit-pool-knp08140?cHash=84eed36aaa164f71aba0c4cd3a54762c" target="_blank">Ein Erstaunliches Landhaus In Muro Mallorca Mit Pool Knp0814</a></td>
+</tr><tr id="r28">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/wunderschoene-villa-mit-meerblick-und-ferienvermietungslizenz?cHash=5b7f052497c5689f8a7514b1c1a2b999"></td>
+<td class="nr">29</td>
+<td class="preis">4.2M€</td>
+<td>9Bed</td>
+<td>6Bad</td>
+<td>607.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/wunderschoene-villa-mit-meerblick-und-ferienvermietungslizenz?cHash=5b7f052497c5689f8a7514b1c1a2b999" target="_blank">Wunderschoene Villa Mit Meerblick Und Ferienvermietungslizen</a></td>
+</tr><tr id="r29">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/historisch-bedeutsame-finca-in-urzustand-mit-ca-550000-m2-land-bei-algaida-mallorca?cHash=0ac092b2726b07044b8f5a1f32adb987"></td>
+<td class="nr">30</td>
+<td class="preis">4.3M€</td>
+<td>10Bed</td>
+<td>?Bad</td>
+<td>825.00m²</td>
+<td class="ort">Algaida Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/historisch-bedeutsame-finca-in-urzustand-mit-ca-550000-m2-land-bei-algaida-mallorca?cHash=0ac092b2726b07044b8f5a1f32adb987" target="_blank">Historisch Bedeutsame Finca In Urzustand Mit Ca 550000 M2 La</a></td>
+</tr><tr id="r30">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/exklusive-neubauvilla-mit-vielseitigem-raumangebot-und-privatsphaere?cHash=f2180f6b31848018448ff51e619f7d4b"></td>
+<td class="nr">31</td>
+<td class="preis">4.5M€</td>
+<td>6Bed</td>
+<td>7Bad</td>
+<td>360.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/exklusive-neubauvilla-mit-vielseitigem-raumangebot-und-privatsphaere?cHash=f2180f6b31848018448ff51e619f7d4b" target="_blank">Exklusive Neubauvilla Mit Vielseitigem Raumangebot Und Priva</a></td>
+</tr><tr id="r31">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/aussergewoehnliche-designer-villa-mit-atemberaubenden-meerblick-in-canyamel?cHash=bfd5981371737cc73e1f7eeb1126f710"></td>
+<td class="nr">32</td>
+<td class="preis">4.5M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>400.00m²</td>
+<td class="ort">Canyamel</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/aussergewoehnliche-designer-villa-mit-atemberaubenden-meerblick-in-canyamel?cHash=bfd5981371737cc73e1f7eeb1126f710" target="_blank">Aussergewoehnliche Designer Villa Mit Atemberaubenden Meerbl</a></td>
+</tr><tr id="r32">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/etv-finca-mit-agrotourismo-lizenz-in-der-naehe-von-badia-gran-bei-llucmajor-mallorca?cHash=f52da010b8c692f4030e2e228ccc9304"></td>
+<td class="nr">33</td>
+<td class="preis">4.5M€</td>
+<td>9Bed</td>
+<td>10Bad</td>
+<td>677.00m²</td>
+<td class="ort">Der Naehe Von Badia Gran Bei Llucmajor Mallorca</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/etv-finca-mit-agrotourismo-lizenz-in-der-naehe-von-badia-gran-bei-llucmajor-mallorca?cHash=f52da010b8c692f4030e2e228ccc9304" target="_blank">Etv Finca Mit Agrotourismo Lizenz In Der Naehe Von Badia Gra</a></td>
+</tr><tr id="r33">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/spektakulaere-immobilie-in-sa-calobra-mit-restaurant-und-ueber-5600000-m-land-zu-verkaufen-knp08401?cHash=49d93bebbdd376a0ec805bc995ef3d0c"></td>
+<td class="nr">34</td>
+<td class="preis">4.5M€</td>
+<td>5Bed</td>
+<td>2Bad</td>
+<td>670.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/spektakulaere-immobilie-in-sa-calobra-mit-restaurant-und-ueber-5600000-m-land-zu-verkaufen-knp08401?cHash=49d93bebbdd376a0ec805bc995ef3d0c" target="_blank">Spektakulaere Immobilie In Sa Calobra Mit Restaurant Und Ueb</a></td>
+</tr><tr id="r34">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/ihre-traumfinca-ein-refugium-der-ruhe-und-des-stils?cHash=bee2eb2aadc304118e8816e444d615fb"></td>
+<td class="nr">35</td>
+<td class="preis">4.8M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>468.00m²</td>
+<td class="ort">Inca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/ihre-traumfinca-ein-refugium-der-ruhe-und-des-stils?cHash=bee2eb2aadc304118e8816e444d615fb" target="_blank">Ihre Traumfinca Ein Refugium Der Ruhe Und Des Stils</a></td>
+</tr><tr id="r35">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/villa-zum-verkauf-direkt-am-strand-von-alcudia-mit-lizenz-zur-ferienvermietung?cHash=a0cb39a8af685aa94b81cced8b887097"></td>
+<td class="nr">36</td>
+<td class="preis">5.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>360.00m²</td>
+<td class="ort">Alcudia</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/villa-zum-verkauf-direkt-am-strand-von-alcudia-mit-lizenz-zur-ferienvermietung?cHash=a0cb39a8af685aa94b81cced8b887097" target="_blank">Villa Zum Verkauf Direkt Am Strand Von Alcudia Mit Lizenz Zu</a></td>
+</tr><tr id="r36">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/exquisites-finca-anwesen-mallorca-pollensa-mit-einer-lizenz-fuer-ferienvermietung?cHash=b633a5aa54f9467f0b3088b4bb622030"></td>
+<td class="nr">37</td>
+<td class="preis">5.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>430.00m²</td>
+<td class="ort">Pollensa</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/exquisites-finca-anwesen-mallorca-pollensa-mit-einer-lizenz-fuer-ferienvermietung?cHash=b633a5aa54f9467f0b3088b4bb622030" target="_blank">Exquisites Finca Anwesen Mallorca Pollensa Mit Einer Lizenz </a></td>
+</tr><tr id="r37">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/etv-schoene-villa-mit-agrotourismus-lizenz-in-einer-spektakulaeren-laendlichen-umgebung?cHash=edad0a41138237718771977fad221172"></td>
+<td class="nr">38</td>
+<td class="preis">5.2M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>384.00m²</td>
+<td class="ort">Einer Spektakulaeren Laendlichen Umgebung</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/etv-schoene-villa-mit-agrotourismus-lizenz-in-einer-spektakulaeren-laendlichen-umgebung?cHash=edad0a41138237718771977fad221172" target="_blank">Etv Schoene Villa Mit Agrotourismus Lizenz In Einer Spektaku</a></td>
+</tr><tr id="r38">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/luxurioeses-anwesen-mit-eigenem-weingut-in-pina-mallorca?cHash=072fe1342647c365e97de9a6c7610263"></td>
+<td class="nr">39</td>
+<td class="preis">5.5M€</td>
+<td>8Bed</td>
+<td>5Bad</td>
+<td>518.00m²</td>
+<td class="ort">Pina Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/luxurioeses-anwesen-mit-eigenem-weingut-in-pina-mallorca?cHash=072fe1342647c365e97de9a6c7610263" target="_blank">Luxurioeses Anwesen Mit Eigenem Weingut In Pina Mallorca</a></td>
+</tr><tr id="r39">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/einzigartiges-mallorquinisches-anwesen-im-herzen-der-sierra-de-tramuntana-zu-verkaufen?cHash=183ec638ea764a155c43780f0efbed81"></td>
+<td class="nr">40</td>
+<td class="preis">5.5M€</td>
+<td>8Bed</td>
+<td>6Bad</td>
+<td>800.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv">✅</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/einzigartiges-mallorquinisches-anwesen-im-herzen-der-sierra-de-tramuntana-zu-verkaufen?cHash=183ec638ea764a155c43780f0efbed81" target="_blank">Einzigartiges Mallorquinisches Anwesen Im Herzen Der Sierra </a></td>
+</tr><tr id="r40">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/neu-erbaute-finca-mit-panoramablick-und-individualisierungspotenzial-pollenca-mallorca-knp08351?cHash=76bd63c2bbd2671e2d10befdc903e95b"></td>
+<td class="nr">41</td>
+<td class="preis">5.5M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>400.00m²</td>
+<td class="ort">Inca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/neu-erbaute-finca-mit-panoramablick-und-individualisierungspotenzial-pollenca-mallorca-knp08351?cHash=76bd63c2bbd2671e2d10befdc903e95b" target="_blank">Neu Erbaute Finca Mit Panoramablick Und Individualisierungsp</a></td>
+</tr><tr id="r41">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/neu-gebaute-luxus-finca-mit-pool-in-der-naehe-von-santa-maria?cHash=8c75417493e0a0fa57c0dd385a1b22f7"></td>
+<td class="nr">42</td>
+<td class="preis">5.5M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>561.00m²</td>
+<td class="ort">Der Naehe Von Santa Maria</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/neu-gebaute-luxus-finca-mit-pool-in-der-naehe-von-santa-maria?cHash=8c75417493e0a0fa57c0dd385a1b22f7" target="_blank">Neu Gebaute Luxus Finca Mit Pool In Der Naehe Von Santa Mari</a></td>
+</tr><tr id="r42">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/herrenhaus-mit-panoramablick-auf-grundstueck-von-43000-m2-palma-de-mallorca?cHash=b91ddc5a0c942980ee7d7d3dd4c38938"></td>
+<td class="nr">43</td>
+<td class="preis">5.9M€</td>
+<td>11Bed</td>
+<td>5Bad</td>
+<td>1,133.00m²</td>
+<td class="ort">Palma</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/herrenhaus-mit-panoramablick-auf-grundstueck-von-43000-m2-palma-de-mallorca?cHash=b91ddc5a0c942980ee7d7d3dd4c38938" target="_blank">Herrenhaus Mit Panoramablick Auf Grundstueck Von 43000 M2 Pa</a></td>
+</tr><tr id="r43">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/moderne-meerblick-villa-mit-2-pools?cHash=3c483ebd737ef358c5da8c45ae3b90b1"></td>
+<td class="nr">44</td>
+<td class="preis">5.9M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>300.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/moderne-meerblick-villa-mit-2-pools?cHash=3c483ebd737ef358c5da8c45ae3b90b1" target="_blank">Moderne Meerblick Villa Mit 2 Pools</a></td>
+</tr><tr id="r44">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/herrschaftliche-finca-in-erhoehter-alleinlage-mit-meerblick-naturstein-energieplaetzen-kpno749?cHash=f4dea6570b92b74da250329938c8ad4f"></td>
+<td class="nr">45</td>
+<td class="preis">6.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>490.00m²</td>
+<td class="ort">Erhoehter Alleinlage Mit Meerblick Naturstein Energieplaetzen</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/herrschaftliche-finca-in-erhoehter-alleinlage-mit-meerblick-naturstein-energieplaetzen-kpno749?cHash=f4dea6570b92b74da250329938c8ad4f" target="_blank">Herrschaftliche Finca In Erhoehter Alleinlage Mit Meerblick </a></td>
+</tr><tr id="r45">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/en/expose/panoramic-view-finca-in-a-class-of-its-own-near-santa-maria-mallorca?cHash=2807d7a8773b63d426a6f61a4bf0a929"></td>
+<td class="nr">46</td>
+<td class="preis">6.0M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>520.00m²</td>
+<td class="ort">A Class Of Its Own Near Santa Maria Mallorca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/en/expose/panoramic-view-finca-in-a-class-of-its-own-near-santa-maria-mallorca?cHash=2807d7a8773b63d426a6f61a4bf0a929" target="_blank">Panoramic View Finca In A Class Of Its Own Near Santa Maria </a></td>
+</tr><tr id="r46">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/grossgrundbesitz-mit-historischem-anwesen-und-vielen-weiteren-nutzungsmoeglichkeiten?cHash=fce41920137f04c9737fe1d9e2892860"></td>
+<td class="nr">47</td>
+<td class="preis">6.0M€</td>
+<td>5Bed</td>
+<td>4Bad</td>
+<td>900.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/grossgrundbesitz-mit-historischem-anwesen-und-vielen-weiteren-nutzungsmoeglichkeiten?cHash=fce41920137f04c9737fe1d9e2892860" target="_blank">Grossgrundbesitz Mit Historischem Anwesen Und Vielen Weitere</a></td>
+</tr><tr id="r47">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/attraktives-anwesen-mit-panoramablick-auf-das-meer-und-die-berge-in-establiments-mallorca?cHash=3cf8c64110fcbf9b0c3afecb9e43ef3b"></td>
+<td class="nr">48</td>
+<td class="preis">6.5M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>546.00m²</td>
+<td class="ort">Establiments Mallorca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/attraktives-anwesen-mit-panoramablick-auf-das-meer-und-die-berge-in-establiments-mallorca?cHash=3cf8c64110fcbf9b0c3afecb9e43ef3b" target="_blank">Attraktives Anwesen Mit Panoramablick Auf Das Meer Und Die B</a></td>
+</tr><tr id="r48">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/wundervolles-historisches-finca-anwesen-mit-vermietlizenz-poollandschaft-und-blick-bis-hin-zum-meer?cHash=8d912f62dd3518d2376e83ccd594021a"></td>
+<td class="nr">49</td>
+<td class="preis">6.5M€</td>
+<td>7Bed</td>
+<td>5Bad</td>
+<td>1,000.00m²</td>
+<td class="ort">Inca</td>
+<td class="etv">✅🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/wundervolles-historisches-finca-anwesen-mit-vermietlizenz-poollandschaft-und-blick-bis-hin-zum-meer?cHash=8d912f62dd3518d2376e83ccd594021a" target="_blank">Wundervolles Historisches Finca Anwesen Mit Vermietlizenz Po</a></td>
+</tr><tr id="r49">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/modernes-landhaus-mit-100-privatsphaere-nahe-santa-maria-mallorca?cHash=de90151cdee977f53b321c191218f5d1"></td>
+<td class="nr">50</td>
+<td class="preis">6.8M€</td>
+<td>6Bed</td>
+<td>5Bad</td>
+<td>530.00m²</td>
+<td class="ort">Santa Maria</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/modernes-landhaus-mit-100-privatsphaere-nahe-santa-maria-mallorca?cHash=de90151cdee977f53b321c191218f5d1" target="_blank">Modernes Landhaus Mit 100 Privatsphaere Nahe Santa Maria Mal</a></td>
+</tr><tr id="r50">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick?cHash=2d5fae5b0383eb03c417838e1db3a878"></td>
+<td class="nr">51</td>
+<td class="preis">7.0M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>331.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick?cHash=2d5fae5b0383eb03c417838e1db3a878" target="_blank">Mediterraner Luxus Mit Atemberaubendem Meerblick</a></td>
+</tr><tr id="r51">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/ein-architektonisches-meisterwerk-in-harmonie-mit-der-natur?cHash=5581f4f659e2f7a8c7233c5e1f29274b"></td>
+<td class="nr">52</td>
+<td class="preis">7.5M€</td>
+<td>7Bed</td>
+<td>6Bad</td>
+<td>739.00m²</td>
+<td class="ort">Harmonie Mit Der Natur</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/ein-architektonisches-meisterwerk-in-harmonie-mit-der-natur?cHash=5581f4f659e2f7a8c7233c5e1f29274b" target="_blank">Ein Architektonisches Meisterwerk In Harmonie Mit Der Natur</a></td>
+</tr><tr id="r52">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/grossgrundstueck-mit-historischem-anwesen-zwei-neubauprojekten-mit-lizenz-und-vielseitigen-optionen?cHash=06bd2d54fde5eed15d46587335de162d"></td>
+<td class="nr">53</td>
+<td class="preis">7.8M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>900.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/grossgrundstueck-mit-historischem-anwesen-zwei-neubauprojekten-mit-lizenz-und-vielseitigen-optionen?cHash=06bd2d54fde5eed15d46587335de162d" target="_blank">Grossgrundstueck Mit Historischem Anwesen Zwei Neubauprojekt</a></td>
+</tr><tr id="r53">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/fantastische-neu-gebaute-villa-mit-meerblick?cHash=dd1b621093b7bfa841c753b62c448c46"></td>
+<td class="nr">54</td>
+<td class="preis">7.8M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>480.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/fantastische-neu-gebaute-villa-mit-meerblick?cHash=dd1b621093b7bfa841c753b62c448c46" target="_blank">Fantastische Neu Gebaute Villa Mit Meerblick</a></td>
+</tr><tr id="r54">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/exklusive-natursteinfinca-in-2-meeresline-mit-absoluter-privatsphaere-in-colonia-sant-pere?cHash=0218a48c8d669db29333fe6b312a0bfa"></td>
+<td class="nr">55</td>
+<td class="preis">7.9M€</td>
+<td>7Bed</td>
+<td>8Bad</td>
+<td>730.00m²</td>
+<td class="ort">Colonia Sant Pere</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/exklusive-natursteinfinca-in-2-meeresline-mit-absoluter-privatsphaere-in-colonia-sant-pere?cHash=0218a48c8d669db29333fe6b312a0bfa" target="_blank">Exklusive Natursteinfinca In 2 Meeresline Mit Absoluter Priv</a></td>
+</tr><tr id="r55">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/finca-anwesen-mit-spektakulaerem-design-in-bester-lage-in-santa-maria-mallorca?cHash=7f640397b7b1cef06294ea242d0bf6da"></td>
+<td class="nr">56</td>
+<td class="preis">8.0M€</td>
+<td>8Bed</td>
+<td>9Bad</td>
+<td>800.00m²</td>
+<td class="ort">Bester Lage In Santa Maria Mallorca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/finca-anwesen-mit-spektakulaerem-design-in-bester-lage-in-santa-maria-mallorca?cHash=7f640397b7b1cef06294ea242d0bf6da" target="_blank">Finca Anwesen Mit Spektakulaerem Design In Bester Lage In Sa</a></td>
+</tr><tr id="r56">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01785?cHash=c85328521bac99ad552d47a8499559ea"></td>
+<td class="nr">57</td>
+<td class="preis">8.0M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>?m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01785?cHash=c85328521bac99ad552d47a8499559ea" target="_blank">Mediterraner Luxus Mit Atemberaubendem Meerblick Ksp01785</a></td>
+</tr><tr id="r57">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01786?cHash=a8a5a6acae2312fcc72dc2d2b1f1bd53"></td>
+<td class="nr">58</td>
+<td class="preis">8.0M€</td>
+<td>6Bed</td>
+<td>7Bad</td>
+<td>500.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01786?cHash=a8a5a6acae2312fcc72dc2d2b1f1bd53" target="_blank">Mediterraner Luxus Mit Atemberaubendem Meerblick Ksp01786</a></td>
+</tr><tr id="r58">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01787?cHash=8ee56e5a3b06fc5cfd43952e490b4a90"></td>
+<td class="nr">59</td>
+<td class="preis">8.0M€</td>
+<td>5Bed</td>
+<td>7Bad</td>
+<td>480.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/mediterraner-luxus-mit-atemberaubendem-meerblick-ksp01787?cHash=8ee56e5a3b06fc5cfd43952e490b4a90" target="_blank">Mediterraner Luxus Mit Atemberaubendem Meerblick Ksp01787</a></td>
+</tr><tr id="r59">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/wunderschoene-villa-mit-mediterran-bluehenden-gaerten-und-privatem-pool?cHash=827344262ff6caf8b372f0862765c59c"></td>
+<td class="nr">60</td>
+<td class="preis">8.0M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>517.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/wunderschoene-villa-mit-mediterran-bluehenden-gaerten-und-privatem-pool?cHash=827344262ff6caf8b372f0862765c59c" target="_blank">Wunderschoene Villa Mit Mediterran Bluehenden Gaerten Und Pr</a></td>
+</tr><tr id="r60">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/neubau-finca-der-superlative-bei-santa-maria-mallorca?cHash=b4d2a7802d20389a9a43c481f3d05637"></td>
+<td class="nr">61</td>
+<td class="preis">8.5M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>488.00m²</td>
+<td class="ort">Santa Maria Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/neubau-finca-der-superlative-bei-santa-maria-mallorca?cHash=b4d2a7802d20389a9a43c481f3d05637" target="_blank">Neubau Finca Der Superlative Bei Santa Maria Mallorca</a></td>
+</tr><tr id="r61">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/zauberhafte-landvilla-in-alaro-mit-panoramablick-kpp08179?cHash=5a09615ae8bca6072fb3f8f3bb2d90f2"></td>
+<td class="nr">62</td>
+<td class="preis">8.5M€</td>
+<td>7Bed</td>
+<td>7Bad</td>
+<td>797.00m²</td>
+<td class="ort">Alaro Mit Panoramablick</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/zauberhafte-landvilla-in-alaro-mit-panoramablick-kpp08179?cHash=5a09615ae8bca6072fb3f8f3bb2d90f2" target="_blank">Zauberhafte Landvilla In Alaro Mit Panoramablick Kpp08179</a></td>
+</tr><tr id="r62">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/besonderes-neubauprojekt-von-hoechster-qualitaet-in-santa-maria-mallorca?cHash=f68eaf2848a773a94608f324970ba451"></td>
+<td class="nr">63</td>
+<td class="preis">8.8M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>435.00m²</td>
+<td class="ort">Santa Maria Mallorca</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/besonderes-neubauprojekt-von-hoechster-qualitaet-in-santa-maria-mallorca?cHash=f68eaf2848a773a94608f324970ba451" target="_blank">Besonderes Neubauprojekt Von Hoechster Qualitaet In Santa Ma</a></td>
+</tr><tr id="r63">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/zeitgenoessische-neu-gebaute-villa-mit-nahtlosem-innen-und-aussenleben-und-zwei-pools-kpo01807?cHash=5ec561c705e7bb22fe5ef2f074e4ddb3"></td>
+<td class="nr">64</td>
+<td class="preis">10.9M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>485.26m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/zeitgenoessische-neu-gebaute-villa-mit-nahtlosem-innen-und-aussenleben-und-zwei-pools-kpo01807?cHash=5ec561c705e7bb22fe5ef2f074e4ddb3" target="_blank">Zeitgenoessische Neu Gebaute Villa Mit Nahtlosem Innen Und A</a></td>
+</tr><tr id="r64">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/luxurioese-villa-mit-panoramablick-aufs-meer-kpo01853?cHash=22f50bf3bbcccfcc587f85fad9c25c1c"></td>
+<td class="nr">65</td>
+<td class="preis">13.0M€</td>
+<td>5Bed</td>
+<td>6Bad</td>
+<td>615.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/luxurioese-villa-mit-panoramablick-aufs-meer-kpo01853?cHash=22f50bf3bbcccfcc587f85fad9c25c1c" target="_blank">Luxurioese Villa Mit Panoramablick Aufs Meer Kpo01853</a></td>
+</tr><tr id="r65">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/luxus-oase-fuer-pferdeliebhaber-in-calvia-ksp01750-s?cHash=23161cd354cf9267094eb454ba834f57"></td>
+<td class="nr">66</td>
+<td class="preis">13.8M€</td>
+<td>6Bed</td>
+<td>6Bad</td>
+<td>?m²</td>
+<td class="ort">Calvia</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/luxus-oase-fuer-pferdeliebhaber-in-calvia-ksp01750-s?cHash=23161cd354cf9267094eb454ba834f57" target="_blank">Luxus Oase Fuer Pferdeliebhaber In Calvia Ksp01750 S</a></td>
+</tr><tr id="r66">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/anwesen-mit-panoramablick-totaler-privatsphaere-in-son-vida-palma-de-mallorca?cHash=c5d85ef2516777e28d974ccae4abea25"></td>
+<td class="nr">67</td>
+<td class="preis">21.0M€</td>
+<td>8Bed</td>
+<td>9Bad</td>
+<td>878.00m²</td>
+<td class="ort">Son Vida Palma De Mallorca</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/anwesen-mit-panoramablick-totaler-privatsphaere-in-son-vida-palma-de-mallorca?cHash=c5d85ef2516777e28d974ccae4abea25" target="_blank">Anwesen Mit Panoramablick Totaler Privatsphaere In Son Vida </a></td>
+</tr><tr id="r67">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/hacienda-aussergewoehnliche-familienresidenz-mit-reitanlage-auf-mallorca-kmsl08009?cHash=1b292dc5fa22d63f34a718764fe9ce14"></td>
+<td class="nr">68</td>
+<td class="preis">25.0M€</td>
+<td>25Bed</td>
+<td>28Bad</td>
+<td>2,400.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/hacienda-aussergewoehnliche-familienresidenz-mit-reitanlage-auf-mallorca-kmsl08009?cHash=1b292dc5fa22d63f34a718764fe9ce14" target="_blank">Hacienda Aussergewoehnliche Familienresidenz Mit Reitanlage </a></td>
+</tr><tr id="r68">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/hacienda-aussergewoehnliche-residenz-fuer-pferdeliebhaber-auf-mallorca-kmsl08009-1?cHash=b24e61e12755b101d9a000558d9a0e76"></td>
+<td class="nr">69</td>
+<td class="preis">25.0M€</td>
+<td>25Bed</td>
+<td>28Bad</td>
+<td>2,400.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv">🏠</td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/hacienda-aussergewoehnliche-residenz-fuer-pferdeliebhaber-auf-mallorca-kmsl08009-1?cHash=b24e61e12755b101d9a000558d9a0e76" target="_blank">Hacienda Aussergewoehnliche Residenz Fuer Pferdeliebhaber Au</a></td>
+</tr><tr id="r69">
+<td><input type="checkbox" class="sel" value="https://kensington-international.com/de/expose/unglaubliche-luxusvilla-mit-meerblick?cHash=c7cfb6f7db335d47edbcb9d7d9eea2e5"></td>
+<td class="nr">70</td>
+<td class="preis">25.0M€</td>
+<td>5Bed</td>
+<td>5Bad</td>
+<td>1,124.00m²</td>
+<td class="ort noort">❓kein Ort</td>
+<td class="etv"></td>
+<td class="titel"><a href="https://kensington-international.com/de/expose/unglaubliche-luxusvilla-mit-meerblick?cHash=c7cfb6f7db335d47edbcb9d7d9eea2e5" target="_blank">Unglaubliche Luxusvilla Mit Meerblick</a></td>
+</tr></tbody>
+</table>
+<textarea id="output" readonly placeholder="Hier erscheinen URLs nach Export..."></textarea>
+<script>
+document.querySelectorAll('tbody tr').forEach(tr=>{
+    tr.addEventListener('click',e=>{
+        if(e.target.tagName==='A'||e.target.tagName==='INPUT')return;
+        const cb=tr.querySelector('.sel');
+        cb.checked=!cb.checked;
+        tr.classList.toggle('selected',cb.checked);
+        upd();
+    });
+    tr.querySelector('.sel').addEventListener('change',function(){tr.classList.toggle('selected',this.checked);upd();});
+});
+function upd(){document.getElementById('count').textContent=document.querySelectorAll('.sel:checked').length+' gewählt'}
+function selAll(){document.querySelectorAll('.sel').forEach(c=>{c.checked=true;c.closest('tr').classList.add('selected')});upd()}
+function clrAll(){document.querySelectorAll('.sel').forEach(c=>{c.checked=false;c.closest('tr').classList.remove('selected')});upd()}
+function exportSel(){
+    const urls=[...document.querySelectorAll('.sel:checked')].map(c=>c.value);
+    const out=document.getElementById('output');
+    out.value=urls.join('\n');
+    out.select();
+    try{document.execCommand('copy');alert('✅ '+urls.length+' URLs kopiert!')}catch(e){}
+}
+</script></body></html>

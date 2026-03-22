@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Erreichbarkeit — Alt vs. Neu</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0f1117; color: #e2e8f0; font-family: -apple-system, sans-serif; }
+h1 { text-align: center; padding: 16px; font-size: 17px; color: #f1f5f9; letter-spacing: -0.3px; }
+.subtitle { text-align: center; font-size: 12px; color: #64748b; margin-bottom: 12px; }
+.maps { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 0 12px 12px; }
+.map-wrap { background: #1e2130; border-radius: 10px; overflow: hidden; border: 1px solid #2d3148; }
+.map-header { padding: 10px 14px; border-bottom: 1px solid #2d3148; }
+.map-title { font-size: 14px; font-weight: 700; color: #f1f5f9; }
+.map-sub { font-size: 11px; color: #64748b; margin-top: 2px; }
+.map { height: 520px; }
+.legend { padding: 10px 14px; display: flex; flex-wrap: wrap; gap: 8px; border-top: 1px solid #2d3148; }
+.leg-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: #94a3b8; }
+.leg-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1.5px solid rgba(255,255,255,0.3); }
+.weights { padding: 8px 14px; background: #161927; font-size: 11px; color: #64748b; display: flex; gap: 16px; flex-wrap: wrap; border-top: 1px solid #2d3148; }
+.w-item { display: flex; flex-direction: column; }
+.w-label { color: #94a3b8; font-size: 10px; }
+.w-val { color: #60a5fa; font-weight: 600; }
+</style>
+</head>
+<body>
+<h1>Erreichbarkeit — Zonenvergleich</h1>
+<p class="subtitle">Kreisradien ≈ Fahrzeit bei ~50 km/h Ø auf Mallorca &nbsp;|&nbsp; Grün = Ideal · Gelb = Akzeptabel · Orange = Dealbreaker-Grenze · Rot = außerhalb</p>
+<div style="max-width:900px; margin: 0 auto 14px; padding: 10px 18px; background:#1e2130; border-radius:8px; border:1px solid #2d3148; font-size:12px; color:#94a3b8; line-height:1.7;">
+  <strong style="color:#f1f5f9">Wie lesen?</strong> &nbsp;Jeder Kreis hat seinen <strong style="color:#60a5fa">Ursprung am Referenzpunkt</strong> selbst (Flughafen, Deia, Ses Salines, Andratx).
+  Er zeigt, wie weit man in X Minuten von dort weg kommt. Ein Objekt <em>innerhalb</em> des grünen Kreises = Idealzone für diesen Punkt · innerhalb gelb = akzeptabel · außerhalb rot = Dealbreaker.
+  &nbsp;⚠️ <strong style="color:#fbbf24">Die Kreise sind Annäherungen</strong> (Luftlinie bei 50 km/h Ø) — die echten Fahrzeiten aus der Excel (Google Maps) sind präziser,
+  da Mallorcas Straßen kurvig sind, besonders Richtung Deià und Tramuntana.
+  <br><br>
+  <strong style="color:#f1f5f9">Einfluss aufs Ranking:</strong> &nbsp;In <strong style="color:#94a3b8">V3</strong> hatte Erreichbarkeit ein Gewicht von <strong style="color:#ef4444">15%</strong> am Gesamtscore — 
+  ein schlechter Wert konnte das Ranking deutlich ziehen. In <strong style="color:#60a5fa">V4</strong> wurde das Gewicht auf <strong style="color:#22c55e">5%</strong> reduziert. 
+  Erreichbarkeit wirkt damit kaum noch als Rankingfaktor — Lage spielt eine untergeordnete Rolle, während 
+  <strong style="color:#a78bfa">Renovierung (15%)</strong>, <strong style="color:#a78bfa">Gästehaus (15%)</strong> und <strong style="color:#a78bfa">Zimmer (20%)</strong> das Ranking dominieren.
+  Die weiteren Dealbreaker (PMI & Ses Salines: 40→60 min) bedeuten zusätzlich, dass auch weiter entfernte Objekte nicht mehr automatisch abgestraft werden.
+</div>
+
+<div class="maps">
+
+  <!-- ALT -->
+  <div class="map-wrap">
+    <div class="map-header">
+      <div class="map-title">🗂 V3 — Alte Einstellungen (mit Andratx)</div>
+      <div class="map-sub">PMI Dealbreaker 40 min · Ses Salines 45 min · Andratx 60 min · je 30/30/30/10%</div>
+    </div>
+    <div id="map-alt" class="map"></div>
+    <div class="weights">
+      <div class="w-item"><span class="w-label">PMI</span><span class="w-val">30% · DB 40min</span></div>
+      <div class="w-item"><span class="w-label">Daia</span><span class="w-val">30% · DB 70min</span></div>
+      <div class="w-item"><span class="w-label">Ses Salines</span><span class="w-val">30% · DB 45min</span></div>
+      <div class="w-item"><span class="w-label">Andratx</span><span class="w-val">10% · DB 60min</span></div>
+    </div>
+    <div class="legend">
+      <div class="leg-item"><div class="leg-dot" style="background:#22c55e"></div>Ideal</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#eab308"></div>Akzeptabel</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#f97316"></div>Dealbreaker-Grenze</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#ef4444"></div>Draußen</div>
+    </div>
+  </div>
+
+  <!-- NEU -->
+  <div class="map-wrap">
+    <div class="map-header">
+      <div class="map-title">🆕 V4 — Neue Einstellungen (ohne Andratx)</div>
+      <div class="map-sub">PMI Dealbreaker 60 min · Ses Salines 60 min · Daia 70 min · je 33.33%</div>
+    </div>
+    <div id="map-neu" class="map"></div>
+    <div class="weights">
+      <div class="w-item"><span class="w-label">PMI</span><span class="w-val">33.33% · DB 60min</span></div>
+      <div class="w-item"><span class="w-label">Daia</span><span class="w-val">33.33% · DB 70min</span></div>
+      <div class="w-item"><span class="w-label">Ses Salines</span><span class="w-val">33.33% · DB 60min</span></div>
+      <div class="w-item"><span class="w-label">Andratx</span><span class="w-val">gestrichen ✗</span></div>
+    </div>
+    <div class="legend">
+      <div class="leg-item"><div class="leg-dot" style="background:#22c55e"></div>Ideal</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#eab308"></div>Akzeptabel</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#f97316"></div>Dealbreaker-Grenze</div>
+      <div class="leg-item"><div class="leg-dot" style="background:#ef4444"></div>Draußen</div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// Referenzpunkte
+const PUNKTE = {
+  pmi:      { lat: 39.5517, lng: 2.7388,  label: '✈ Flughafen PMI',     color: '#60a5fa' },
+  daia:     { lat: 39.7492, lng: 2.6487,  label: '🏨 Daia (Hotel Corazón)', color: '#a78bfa' },
+  ses:      { lat: 39.3468, lng: 3.0456,  label: '🌊 Ses Salines',       color: '#34d399' },
+  andratx:  { lat: 39.5741, lng: 2.3876,  label: '⛰ Andratx',           color: '#fb923c' },
+};
+
+// km = min * 50/60 (50 km/h Ø)
+function minToKm(min) { return min * 50 / 60 * 1000; } // in Meter
+
+function addZonen(map, punkt, zonen, active) {
+  if (!active) return;
+  // Dealbreaker (größter Kreis, ganz außen)
+  L.circle([punkt.lat, punkt.lng], {
+    radius: minToKm(zonen.db),
+    color: '#ef4444', weight: 1.5, opacity: 0.6,
+    fillColor: '#ef4444', fillOpacity: 0.04
+  }).addTo(map).bindTooltip(`${punkt.label}<br>Dealbreaker: ${zonen.db} min`, {sticky: true});
+
+  // Akzeptabel
+  L.circle([punkt.lat, punkt.lng], {
+    radius: minToKm(zonen.ok),
+    color: '#eab308', weight: 1.5, opacity: 0.7,
+    fillColor: '#eab308', fillOpacity: 0.07
+  }).addTo(map);
+
+  // Ideal
+  L.circle([punkt.lat, punkt.lng], {
+    radius: minToKm(zonen.ideal),
+    color: '#22c55e', weight: 2, opacity: 0.8,
+    fillColor: '#22c55e', fillOpacity: 0.12
+  }).addTo(map);
+}
+
+function addMarker(map, punkt, active) {
+  const opacity = active ? 1 : 0.3;
+  const marker = L.circleMarker([punkt.lat, punkt.lng], {
+    radius: 8, color: '#fff', weight: 2,
+    fillColor: punkt.color, fillOpacity: opacity
+  }).addTo(map);
+  marker.bindTooltip(`<b>${punkt.label}</b>`, {permanent: true, direction: 'top', offset: [0, -8]});
+}
+
+function createMap(id) {
+  const map = L.map(id, {
+    center: [39.58, 2.82],
+    zoom: 9,
+    zoomControl: true
+  });
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '© OpenStreetMap © CARTO',
+    maxZoom: 19
+  }).addTo(map);
+  return map;
+}
+
+// --- KARTE ALT ---
+const mapAlt = createMap('map-alt');
+
+addZonen(mapAlt, PUNKTE.pmi,     { ideal: 15, ok: 25, db: 40 }, true);
+addZonen(mapAlt, PUNKTE.daia,    { ideal: 20, ok: 40, db: 70 }, true);
+addZonen(mapAlt, PUNKTE.ses,     { ideal: 15, ok: 30, db: 45 }, true);
+addZonen(mapAlt, PUNKTE.andratx, { ideal: 25, ok: 40, db: 60 }, true);
+
+addMarker(mapAlt, PUNKTE.pmi,     true);
+addMarker(mapAlt, PUNKTE.daia,    true);
+addMarker(mapAlt, PUNKTE.ses,     true);
+addMarker(mapAlt, PUNKTE.andratx, true);
+
+// --- KARTE NEU ---
+const mapNeu = createMap('map-neu');
+
+addZonen(mapNeu, PUNKTE.pmi,     { ideal: 15, ok: 25, db: 60 }, true);
+addZonen(mapNeu, PUNKTE.daia,    { ideal: 20, ok: 40, db: 70 }, true);
+addZonen(mapNeu, PUNKTE.ses,     { ideal: 15, ok: 30, db: 60 }, true);
+addZonen(mapNeu, PUNKTE.andratx, { ideal: 25, ok: 40, db: 60 }, false); // gestrichen
+
+addMarker(mapNeu, PUNKTE.pmi,     true);
+addMarker(mapNeu, PUNKTE.daia,    true);
+addMarker(mapNeu, PUNKTE.ses,     true);
+addMarker(mapNeu, PUNKTE.andratx, false); // ausgegraut
+
+// Andratx als gestrichen anzeigen
+L.circleMarker([PUNKTE.andratx.lat, PUNKTE.andratx.lng], {
+  radius: 8, color: '#fff', weight: 1,
+  fillColor: '#374151', fillOpacity: 0.4
+}).addTo(mapNeu).bindTooltip('<b>⛰ Andratx</b><br><i>gestrichen</i>', {permanent: true, direction: 'top', offset: [0, -8]});
+
+</script>
+</body>
+</html>

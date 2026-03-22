@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Mallorca Projekt — Ordnerstruktur</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f1117; color: #e2e8f0; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; padding: 24px; }
+  h1 { font-family: -apple-system, sans-serif; font-size: 18px; color: #f8fafc; margin-bottom: 6px; font-weight: 600; }
+  .subtitle { font-size: 11px; color: #475569; margin-bottom: 20px; font-family: -apple-system, sans-serif; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 14px; }
+  .card { background: #1e2130; border: 1px solid #2d3148; border-radius: 10px; overflow: hidden; }
+  .card-header { padding: 10px 14px; display: flex; align-items: center; gap: 8px; border-bottom: 1px solid #2d3148; cursor: pointer; user-select: none; }
+  .card-header:hover { background: #252840; }
+  .card-icon { font-size: 16px; }
+  .card-title { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; color: #94a3b8; flex: 1; }
+  .card-title span { color: #f1f5f9; }
+  .badge { font-size: 10px; padding: 2px 6px; border-radius: 20px; font-weight: 600; }
+  .badge-green { background: #14532d; color: #4ade80; }
+  .badge-blue { background: #1e3a5f; color: #60a5fa; }
+  .badge-yellow { background: #422006; color: #fbbf24; }
+  .badge-red { background: #450a0a; color: #f87171; }
+  .badge-gray { background: #1e293b; color: #94a3b8; }
+  .card-body { padding: 8px 14px; display: none; }
+  .card-body.open { display: block; }
+  .file-list { list-style: none; }
+  .file-list li { padding: 3px 0; border-bottom: 1px solid #1a1f30; }
+  .file-list li:last-child { border-bottom: none; }
+  .file-row { display: flex; align-items: center; gap: 6px; }
+  .file-icon { font-size: 11px; flex-shrink: 0; }
+  .file-link { color: #cbd5e1; text-decoration: none; cursor: pointer; }
+  .file-link:hover { color: #93c5fd; text-decoration: underline; }
+  .file-link.active { color: #34d399; font-weight: 600; }
+  .file-link.frozen { color: #f59e0b; }
+  .file-link.backup { color: #64748b; }
+  .file-link.folder { color: #818cf8; font-style: italic; }
+  .file-desc { font-size: 10px; color: #475569; margin-left: auto; white-space: nowrap; }
+  .section-title { font-size: 10px; color: #475569; text-transform: uppercase; letter-spacing: 1px; margin: 8px 0 3px; }
+  .chevron { margin-left: auto; color: #475569; font-size: 10px; flex-shrink: 0; }
+  .frozen-note { margin-top:8px; padding:6px 8px; background:#1a0f00; border-radius:6px; font-size:11px; color:#fb923c; }
+  .folder-note { margin-top:6px; font-size:11px; color:#64748b; }
+</style>
+</head>
+<body>
+<h1>📁 mallorca-projekt</h1>
+<p class="subtitle">Klick auf Dateiname → öffnet im Finder / Standard-App &nbsp;|&nbsp; Klick auf Ordner-Header → auf/zuklappen</p>
+<div class="grid">
+
+  <!-- DATA -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🗄️</span>
+      <span class="card-title"><span>data/</span></span>
+      <span class="badge badge-blue">Daten</span>
+      <span class="chevron">▼</span>
+    </div>
+    <div class="card-body open">
+      <div class="section-title">Aktive Dateien</div>
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link active" onclick="open_file('data/mallorca-kandidaten-v3.xlsx')">mallorca-kandidaten-v3.xlsx</a><span class="file-desc">469 Obj. — MASTER</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link" onclick="open_file('data/mallorca-objekte-v2.xlsx')">mallorca-objekte-v2.xlsx</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link" onclick="open_file('data/Mallorca_Markt_Gesamt.xlsx')">Mallorca_Markt_Gesamt.xlsx</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link" onclick="open_file('data/Mallorca_Immobilien_Quellen.xlsx')">Mallorca_Immobilien_Quellen.xlsx</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📋</span><a class="file-link" onclick="open_file('data/excel_data.json')">excel_data.json</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📋</span><a class="file-link" onclick="open_file('data/distances_gmaps.json')">distances_gmaps.json</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('data')">data/ im Finder öffnen →</a></div></li>
+      </ul>
+      <div class="section-title">Backups</div>
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">💾</span><a class="file-link backup" onclick="open_file('data/mallorca-kandidaten-v3_backup_20260322_0710.xlsx')">v3_backup_20260322_0710.xlsx</a><span class="file-desc">neuestes</span></div></li>
+        <li><div class="file-row"><span class="file-icon">💾</span><a class="file-link backup" onclick="open_file('data/mallorca-kandidaten-v2_backup_20260321_2310.xlsx')">v2_backup_20260321_2310.xlsx</a><span class="file-desc">letztes clean</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('data/backups')">data/backups/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- HTML -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🌐</span>
+      <span class="card-title"><span>html/</span></span>
+      <span class="badge badge-green">Deploy</span>
+      <span class="chevron">▼</span>
+    </div>
+    <div class="card-body open">
+      <div class="section-title">Live / Aktiv</div>
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">🔴</span><a class="file-link active" onclick="open_file('html/index.html')">index.html</a><span class="file-desc">Netlify Live</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🔴</span><a class="file-link active" onclick="open_file('html/mallorca-ranking-live.html')">mallorca-ranking-live.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('html/mallorca.html')">mallorca.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('html/bewertung-parameter.html')">bewertung-parameter.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('html/isochrone_mallorca_v2.html')">isochrone_mallorca_v2.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('html/kensington_auswahl.html')">kensington_auswahl.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('html')">html/ im Finder →</a></div></li>
+      </ul>
+      <div class="section-title">Archiv</div>
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📦</span><a class="file-link backup" onclick="open_file('html/archiv/mallorca-ranking-v9.html')">mallorca-ranking-v9.html</a><span class="file-desc">neuestes Archiv</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('html/archiv')">html/archiv/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- MILESTONE V1 -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🏆</span>
+      <span class="card-title"><span>milestone_v1/</span></span>
+      <span class="badge badge-red">FROZEN ❄️</span>
+      <span class="chevron">▼</span>
+    </div>
+    <div class="card-body open">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link frozen" onclick="open_file('milestone_v1/master_milestone_v1.xlsx')">master_milestone_v1.xlsx</a><span class="file-desc">469 Obj.</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🌐</span><a class="file-link frozen" onclick="open_file('milestone_v1/ranking_milestone_v1.html')">ranking_milestone_v1.html</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📝</span><a class="file-link frozen" onclick="open_file('milestone_v1/MILESTONE_v1.md')">MILESTONE_v1.md</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('milestone_v1')">milestone_v1/ im Finder →</a></div></li>
+      </ul>
+      <div class="frozen-note">⚠️ 22.03.2026 08:07 — NICHT ANFASSEN</div>
+    </div>
+  </div>
+
+  <!-- SANDBOX V2 -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🧪</span>
+      <span class="card-title"><span>sandbox_v2/</span></span>
+      <span class="badge badge-yellow">v2 Dev</span>
+      <span class="chevron">▼</span>
+    </div>
+    <div class="card-body open">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('sandbox_v2/generate_html_v2.py')">generate_html_v2.py</a><span class="file-desc">HTML-Generator</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🌐</span><a class="file-link active" onclick="open_file('sandbox_v2/mallorca-ranking-v3-final.html')">mallorca-ranking-v3-final.html</a><span class="file-desc">469 Obj. ✅</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📊</span><a class="file-link" onclick="open_file('sandbox_v2/mallorca-kandidaten-v3-y-neu.xlsx')">mallorca-kandidaten-v3-y-neu.xlsx</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🌐</span><a class="file-link backup" onclick="open_file('sandbox_v2/mallorca-ranking-sandbox-v2.html')">mallorca-ranking-sandbox-v2.html</a><span class="file-desc">alt</span></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- SCRIPTS/GENERATE -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">⚙️</span>
+      <span class="card-title"><span>scripts/generate/</span></span>
+      <span class="badge badge-blue">HTML-Gen</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/generate/generate_html.py')">generate_html.py</a><span class="file-desc">Original</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/generate/build_final_html.py')">build_final_html.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/generate/update_reiter.py')">update_reiter.py</a><span class="file-desc">Reiter 3 rebuild</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link" onclick="open_file('scripts/generate/vision_pass_full_401_463.py')">vision_pass_full_401_463.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link" onclick="open_file('scripts/generate/educated_guess_401_463.py')">educated_guess_401_463.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('scripts/generate')">scripts/generate/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- SCRIPTS/ANALYSE -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🔬</span>
+      <span class="card-title"><span>scripts/analyse/</span></span>
+      <span class="badge badge-blue">Analyse</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/analyse/fill_columns.py')">fill_columns.py</a><span class="file-desc">Y/Z Score Calc</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/analyse/fill_distances_v2.py')">fill_distances_v2.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/analyse/fill_candidates.py')">fill_candidates.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link" onclick="open_file('scripts/analyse/verify_all_images.py')">verify_all_images.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link" onclick="open_file('scripts/analyse/fill_reno_scores.py')">fill_reno_scores.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('scripts/analyse')">scripts/analyse/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- SCRIPTS/SCRAPER -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🕷️</span>
+      <span class="card-title"><span>scripts/scraper/</span></span>
+      <span class="badge badge-blue">Scraper</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/scrape_vp.py')">scrape_vp.py</a><span class="file-desc">Von Poll ✅</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/scrape_dahler.py')">scrape_dahler.py</a><span class="file-desc">DAHLER ✅</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/scrape_kensington_full.py')">scrape_kensington_full.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/lb_full_scan.py')">lb_full_scan.py</a><span class="file-desc">LivingBlue</span></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/scrape_balearic_final.py')">scrape_balearic_final.py</a></div></li>
+        <li><div class="file-row"><span class="file-icon">🐍</span><a class="file-link active" onclick="open_file('scripts/scraper/scrape_ev.py')">scrape_ev.py</a><span class="file-desc">E&V</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('scripts/scraper')">scripts/scraper/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- DOCS -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">📚</span>
+      <span class="card-title"><span>docs/</span></span>
+      <span class="badge badge-gray">Doku</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('docs/SUCHPROFIL.md')">SUCHPROFIL.md</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('docs/MARKETING_TEXT.md')">MARKETING_TEXT.md</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📄</span><a class="file-link" onclick="open_file('docs/Marktübersicht_2026.md')">Marktübersicht_2026.md</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📋</span><a class="file-link" onclick="open_file('docs/mallorca-bewertungsparameter-08032026.pdf')">mallorca-bewertungsparameter.pdf</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📋</span><a class="file-link" onclick="open_file('docs/scoring_erklaerung.pdf')">scoring_erklaerung.pdf</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('docs')">docs/ im Finder →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- BILDER / ASSETS -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🖼️</span>
+      <span class="card-title"><span>bilder/</span> + <span>lb_bilder/</span></span>
+      <span class="badge badge-green">Assets</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder active" onclick="open_file('bilder')">bilder/ im Finder →</a><span class="file-desc">1–469_main.jpg</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('lb_bilder')">lb_bilder/ im Finder →</a><span class="file-desc">~600+ LivingBlue</span></div></li>
+      </ul>
+      <div class="folder-note">bilder/ = Haupt-Asset für HTML-Ranking (Nr. X → X_main.jpg)</div>
+    </div>
+  </div>
+
+  <!-- ROOT/META -->
+  <div class="card">
+    <div class="card-header" onclick="toggle(this)">
+      <span class="card-icon">🗂️</span>
+      <span class="card-title"><span>Root / Meta</span></span>
+      <span class="badge badge-gray">Meta</span>
+      <span class="chevron">▶</span>
+    </div>
+    <div class="card-body">
+      <ul class="file-list">
+        <li><div class="file-row"><span class="file-icon">📝</span><a class="file-link" onclick="open_file('RANKING_V2_TODO.md')">RANKING_V2_TODO.md</a><span class="file-desc">Post-Milestone TODOs</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('.')">Projekt-Root im Finder →</a></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('debug')">debug/ im Finder →</a><span class="file-desc">Logs / Screenshots</span></div></li>
+        <li><div class="file-row"><span class="file-icon">📁</span><a class="file-link folder" onclick="open_file('scripts/monitor')">scripts/monitor/ →</a></div></li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const BASE = '/Users/robin/.openclaw/workspace/mallorca-projekt/';
+
+function open_file(rel) {
+  // Versuche über fetch einen lokalen Opener zu triggern — klappt nicht direkt.
+  // Stattdessen: file:// Link in neuem Tab öffnen
+  const path = BASE + rel;
+  window.open('file://' + path, '_blank');
+}
+
+function toggle(header) {
+  const body = header.nextElementSibling;
+  body.classList.toggle('open');
+  const chevron = header.querySelector('.chevron');
+  chevron.textContent = body.classList.contains('open') ? '▼' : '▶';
+}
+</script>
+</body>
+</html>
